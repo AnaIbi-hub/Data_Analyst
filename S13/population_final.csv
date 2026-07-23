@@ -1,0 +1,4009 @@
+settlement,year,population,source
+Achya,2025,9,jvl
+Adam (Geva),2025,6513,jvl
+Adora,1993,165,peace_now
+Adora,1994,184,peace_now
+Adora,1995,191,peace_now
+Adora,1996,207,peace_now
+Adora,1997,229,peace_now
+Adora,1998,264,peace_now
+Adora,1999,291,peace_now
+Adora,2000,271,peace_now
+Adora,2001,253,peace_now
+Adora,2002,205,peace_now
+Adora,2003,191,peace_now
+Adora,2004,186,peace_now
+Adora,2005,206,peace_now
+Adora,2006,220,peace_now
+Adora,2007,248,peace_now
+Adora,2008,248,peace_now
+Adora,2009,257,peace_now
+Adora,2010,240,peace_now
+Adora,2011,268,peace_now
+Adora,2012,278,peace_now
+Adora,2013,330,peace_now
+Adora,2014,367,peace_now
+Adora,2015,404,peace_now
+Adora,2016,421,peace_now
+Adora,2017,440,peace_now
+Adora,2018,440,peace_now
+Adora,2019,462,peace_now
+Adora,2020,447,peace_now
+Adora,2021,474,peace_now
+Adora,2022,515,peace_now
+Adora,2023,534,peace_now
+Adora,2024,541,peace_now
+Adura,2025,628,jvl
+Adurayim,2025,28,jvl
+Alei (Elei) Zahav,2025,5751,jvl
+Alei Zahav,1993,315,peace_now
+Alei Zahav,1994,313,peace_now
+Alei Zahav,1995,353,peace_now
+Alei Zahav,1996,308,peace_now
+Alei Zahav,1997,339,peace_now
+Alei Zahav,1998,350,peace_now
+Alei Zahav,1999,355,peace_now
+Alei Zahav,2000,391,peace_now
+Alei Zahav,2001,408,peace_now
+Alei Zahav,2002,414,peace_now
+Alei Zahav,2003,424,peace_now
+Alei Zahav,2004,429,peace_now
+Alei Zahav,2005,684,peace_now
+Alei Zahav,2006,723,peace_now
+Alei Zahav,2007,772,peace_now
+Alei Zahav,2008,851,peace_now
+Alei Zahav,2009,458,peace_now
+Alei Zahav,2010,498,peace_now
+Alei Zahav,2011,690,peace_now
+Alei Zahav,2012,462,peace_now
+Alei Zahav,2013,737,peace_now
+Alei Zahav,2014,983,peace_now
+Alei Zahav,2015,1300,peace_now
+Alei Zahav,2016,1643,peace_now
+Alei Zahav,2017,2133,peace_now
+Alei Zahav,2018,2739,peace_now
+Alei Zahav,2019,3398,peace_now
+Alei Zahav,2020,3828,peace_now
+Alei Zahav,2021,4279,peace_now
+Alei Zahav,2022,4647,peace_now
+Alei Zahav,2023,5253,peace_now
+Alei Zahav,2024,5018,peace_now
+Alfei Menashe,1993,3720,peace_now
+Alfei Menashe,1994,4030,peace_now
+Alfei Menashe,1995,4130,peace_now
+Alfei Menashe,1996,4210,peace_now
+Alfei Menashe,1997,4260,peace_now
+Alfei Menashe,1998,4360,peace_now
+Alfei Menashe,1999,4410,peace_now
+Alfei Menashe,2000,4580,peace_now
+Alfei Menashe,2001,5040,peace_now
+Alfei Menashe,2002,5250,peace_now
+Alfei Menashe,2003,5347,peace_now
+Alfei Menashe,2004,5433,peace_now
+Alfei Menashe,2005,5541,peace_now
+Alfei Menashe,2006,5826,peace_now
+Alfei Menashe,2007,6164,peace_now
+Alfei Menashe,2008,6633,peace_now
+Alfei Menashe,2009,6718,peace_now
+Alfei Menashe,2010,7079,peace_now
+Alfei Menashe,2011,7423,peace_now
+Alfei Menashe,2012,7574,peace_now
+Alfei Menashe,2013,7583,peace_now
+Alfei Menashe,2014,7614,peace_now
+Alfei Menashe,2015,7638,peace_now
+Alfei Menashe,2016,7780,peace_now
+Alfei Menashe,2017,7801,peace_now
+Alfei Menashe,2018,7865,peace_now
+Alfei Menashe,2019,7952,peace_now
+Alfei Menashe,2020,7997,peace_now
+Alfei Menashe,2021,7967,peace_now
+Alfei Menashe,2022,7975,peace_now
+Alfei Menashe,2023,8126,peace_now
+Alfei Menashe,2024,8000,peace_now
+Alfei Menashe,2025,8631,jvl
+Almog,1993,103,peace_now
+Almog,1994,102,peace_now
+Almog,1995,125,peace_now
+Almog,1996,145,peace_now
+Almog,1997,152,peace_now
+Almog,1998,157,peace_now
+Almog,1999,156,peace_now
+Almog,2000,167,peace_now
+Almog,2001,159,peace_now
+Almog,2002,155,peace_now
+Almog,2003,141,peace_now
+Almog,2004,142,peace_now
+Almog,2005,159,peace_now
+Almog,2006,192,peace_now
+Almog,2007,188,peace_now
+Almog,2008,197,peace_now
+Almog,2009,153,peace_now
+Almog,2010,170,peace_now
+Almog,2011,159,peace_now
+Almog,2012,178,peace_now
+Almog,2013,175,peace_now
+Almog,2014,179,peace_now
+Almog,2015,207,peace_now
+Almog,2016,239,peace_now
+Almog,2017,250,peace_now
+Almog,2018,253,peace_now
+Almog,2019,255,peace_now
+Almog,2020,246,peace_now
+Almog,2021,256,peace_now
+Almog,2022,236,peace_now
+Almog,2023,306,peace_now
+Almog,2024,264,peace_now
+Almog,2025,349,jvl
+Almon,1993,396,peace_now
+Almon,1994,472,peace_now
+Almon,1995,523,peace_now
+Almon,1996,561,peace_now
+Almon,1997,587,peace_now
+Almon,1998,627,peace_now
+Almon,1999,672,peace_now
+Almon,2000,698,peace_now
+Almon,2001,706,peace_now
+Almon,2002,721,peace_now
+Almon,2003,726,peace_now
+Almon,2004,739,peace_now
+Almon,2005,762,peace_now
+Almon,2006,808,peace_now
+Almon,2007,854,peace_now
+Almon,2008,925,peace_now
+Almon,2009,827,peace_now
+Almon,2010,893,peace_now
+Almon,2011,1033,peace_now
+Almon,2012,1132,peace_now
+Almon,2013,1190,peace_now
+Almon,2014,1214,peace_now
+Almon,2015,1286,peace_now
+Almon,2016,1329,peace_now
+Almon,2017,1391,peace_now
+Almon,2018,1378,peace_now
+Almon,2019,1421,peace_now
+Almon,2020,1441,peace_now
+Almon,2021,1441,peace_now
+Almon,2022,1467,peace_now
+Almon,2023,1513,peace_now
+Almon,2024,1434,peace_now
+Almon (Anatot),2025,1524,jvl
+Alon Shvut,1993,1800,peace_now
+Alon Shvut,1994,1820,peace_now
+Alon Shvut,1995,1870,peace_now
+Alon Shvut,1996,1910,peace_now
+Alon Shvut,1997,1930,peace_now
+Alon Shvut,1998,1980,peace_now
+Alon Shvut,1999,2230,peace_now
+Alon Shvut,2000,2680,peace_now
+Alon Shvut,2001,2880,peace_now
+Alon Shvut,2002,3030,peace_now
+Alon Shvut,2003,3146,peace_now
+Alon Shvut,2004,3229,peace_now
+Alon Shvut,2005,3291,peace_now
+Alon Shvut,2006,3330,peace_now
+Alon Shvut,2007,3291,peace_now
+Alon Shvut,2008,3298,peace_now
+Alon Shvut,2009,2951,peace_now
+Alon Shvut,2010,3033,peace_now
+Alon Shvut,2011,3051,peace_now
+Alon Shvut,2012,3066,peace_now
+Alon Shvut,2013,3112,peace_now
+Alon Shvut,2014,3141,peace_now
+Alon Shvut,2015,3218,peace_now
+Alon Shvut,2016,3180,peace_now
+Alon Shvut,2017,3213,peace_now
+Alon Shvut,2018,3151,peace_now
+Alon Shvut,2019,3098,peace_now
+Alon Shvut,2020,3071,peace_now
+Alon Shvut,2021,3061,peace_now
+Alon Shvut,2022,3046,peace_now
+Alon Shvut,2023,3267,peace_now
+Alon Shvut,2024,2967,peace_now
+Amichai,2025,407,jvl
+Amihai,2018,198,peace_now
+Amihai,2019,209,peace_now
+Amihai,2020,208,peace_now
+Amihai,2021,238,peace_now
+Amihai,2022,264,peace_now
+Amihai,2023,368,peace_now
+Amihai,2024,318,peace_now
+Argaman,1993,164,peace_now
+Argaman,1994,165,peace_now
+Argaman,1995,169,peace_now
+Argaman,1996,148,peace_now
+Argaman,1997,157,peace_now
+Argaman,1998,152,peace_now
+Argaman,1999,155,peace_now
+Argaman,2000,164,peace_now
+Argaman,2001,160,peace_now
+Argaman,2002,167,peace_now
+Argaman,2003,169,peace_now
+Argaman,2004,166,peace_now
+Argaman,2005,166,peace_now
+Argaman,2006,166,peace_now
+Argaman,2007,170,peace_now
+Argaman,2008,166,peace_now
+Argaman,2009,166,peace_now
+Argaman,2010,169,peace_now
+Argaman,2011,163,peace_now
+Argaman,2012,132,peace_now
+Argaman,2013,130,peace_now
+Argaman,2014,128,peace_now
+Argaman,2015,133,peace_now
+Argaman,2016,131,peace_now
+Argaman,2017,128,peace_now
+Argaman,2018,133,peace_now
+Argaman,2019,133,peace_now
+Argaman,2020,134,peace_now
+Argaman,2021,133,peace_now
+Argaman,2022,131,peace_now
+Argaman,2023,160,peace_now
+Argaman,2024,141,peace_now
+Argeman,2025,186,jvl
+Ariel,1993,11800,peace_now
+Ariel,1994,12800,peace_now
+Ariel,1995,13800,peace_now
+Ariel,1996,13800,peace_now
+Ariel,1997,14300,peace_now
+Ariel,1998,14400,peace_now
+Ariel,1999,15100,peace_now
+Ariel,2000,15600,peace_now
+Ariel,2001,16000,peace_now
+Ariel,2002,16300,peace_now
+Ariel,2003,16053,peace_now
+Ariel,2004,16414,peace_now
+Ariel,2005,16520,peace_now
+Ariel,2006,16432,peace_now
+Ariel,2007,16613,peace_now
+Ariel,2008,16716,peace_now
+Ariel,2009,17559,peace_now
+Ariel,2010,17668,peace_now
+Ariel,2011,17849,peace_now
+Ariel,2012,18176,peace_now
+Ariel,2013,18089,peace_now
+Ariel,2014,18391,peace_now
+Ariel,2015,18717,peace_now
+Ariel,2016,19220,peace_now
+Ariel,2017,19626,peace_now
+Ariel,2018,20456,peace_now
+Ariel,2019,20540,peace_now
+Ariel,2020,19582,peace_now
+Ariel,2021,19647,peace_now
+Ariel,2022,20520,peace_now
+Ariel,2023,21841,peace_now
+Ariel,2024,21004,peace_now
+Ariel,2025,22273,jvl
+Asael,2025,216,jvl
+Asfar,1993,286,peace_now
+Asfar,1994,299,peace_now
+Asfar,1995,292,peace_now
+Asfar,1996,329,peace_now
+Asfar,1997,356,peace_now
+Asfar,1998,368,peace_now
+Asfar,1999,356,peace_now
+Asfar,2000,361,peace_now
+Asfar,2001,308,peace_now
+Asfar,2002,218,peace_now
+Asfar,2003,232,peace_now
+Asfar,2004,275,peace_now
+Asfar,2005,258,peace_now
+Asfar,2006,257,peace_now
+Asfar,2007,263,peace_now
+Asfar,2008,253,peace_now
+Asfar,2009,377,peace_now
+Asfar,2010,401,peace_now
+Asfar,2011,410,peace_now
+Asfar,2012,469,peace_now
+Asfar,2013,510,peace_now
+Asfar,2014,535,peace_now
+Asfar,2015,583,peace_now
+Asfar,2016,688,peace_now
+Asfar,2017,729,peace_now
+Asfar,2018,835,peace_now
+Asfar,2019,932,peace_now
+Asfar,2020,986,peace_now
+Asfar,2021,1114,peace_now
+Asfar,2022,1228,peace_now
+Asfar,2023,1362,peace_now
+Asfar,2024,1394,peace_now
+Ateret,1993,213,peace_now
+Ateret,1994,230,peace_now
+Ateret,1995,253,peace_now
+Ateret,1996,242,peace_now
+Ateret,1997,260,peace_now
+Ateret,1998,268,peace_now
+Ateret,1999,287,peace_now
+Ateret,2000,302,peace_now
+Ateret,2001,307,peace_now
+Ateret,2002,320,peace_now
+Ateret,2003,349,peace_now
+Ateret,2004,350,peace_now
+Ateret,2005,373,peace_now
+Ateret,2006,406,peace_now
+Ateret,2007,438,peace_now
+Ateret,2008,469,peace_now
+Ateret,2009,763,peace_now
+Ateret,2010,770,peace_now
+Ateret,2011,740,peace_now
+Ateret,2012,775,peace_now
+Ateret,2013,803,peace_now
+Ateret,2014,848,peace_now
+Ateret,2015,894,peace_now
+Ateret,2016,875,peace_now
+Ateret,2017,897,peace_now
+Ateret,2018,913,peace_now
+Ateret,2019,900,peace_now
+Ateret,2020,943,peace_now
+Ateret,2021,954,peace_now
+Ateret,2022,891,peace_now
+Ateret,2023,716,peace_now
+Ateret,2024,932,peace_now
+Ateret,2025,797,jvl
+Avigael,2025,164,jvl
+Avnei Hefetz,1993,147,peace_now
+Avnei Hefetz,1994,214,peace_now
+Avnei Hefetz,1995,270,peace_now
+Avnei Hefetz,1996,347,peace_now
+Avnei Hefetz,1997,511,peace_now
+Avnei Hefetz,1998,630,peace_now
+Avnei Hefetz,1999,695,peace_now
+Avnei Hefetz,2000,785,peace_now
+Avnei Hefetz,2001,838,peace_now
+Avnei Hefetz,2002,891,peace_now
+Avnei Hefetz,2003,964,peace_now
+Avnei Hefetz,2004,1038,peace_now
+Avnei Hefetz,2005,1127,peace_now
+Avnei Hefetz,2006,1247,peace_now
+Avnei Hefetz,2007,1328,peace_now
+Avnei Hefetz,2008,1357,peace_now
+Avnei Hefetz,2009,1412,peace_now
+Avnei Hefetz,2010,1553,peace_now
+Avnei Hefetz,2011,1545,peace_now
+Avnei Hefetz,2012,1614,peace_now
+Avnei Hefetz,2013,1675,peace_now
+Avnei Hefetz,2014,1658,peace_now
+Avnei Hefetz,2015,1709,peace_now
+Avnei Hefetz,2016,1759,peace_now
+Avnei Hefetz,2017,1836,peace_now
+Avnei Hefetz,2018,1895,peace_now
+Avnei Hefetz,2019,1923,peace_now
+Avnei Hefetz,2020,2080,peace_now
+Avnei Hefetz,2021,2223,peace_now
+Avnei Hefetz,2022,2363,peace_now
+Avnei Hefetz,2023,2454,peace_now
+Avnei Hefetz,2024,2536,peace_now
+Avnei Hefetz,2025,2718,jvl
+Avnet,2025,318,jvl
+Bar Kochba,2025,75,jvl
+Barkan,2025,2292,jvl
+Barqan,1993,763,peace_now
+Barqan,1994,827,peace_now
+Barqan,1995,929,peace_now
+Barqan,1996,962,peace_now
+Barqan,1997,975,peace_now
+Barqan,1998,1010,peace_now
+Barqan,1999,1080,peace_now
+Barqan,2000,1150,peace_now
+Barqan,2001,1160,peace_now
+Barqan,2002,1200,peace_now
+Barqan,2003,1217,peace_now
+Barqan,2004,1215,peace_now
+Barqan,2005,1231,peace_now
+Barqan,2006,1257,peace_now
+Barqan,2007,1267,peace_now
+Barqan,2008,1317,peace_now
+Barqan,2009,1359,peace_now
+Barqan,2010,1401,peace_now
+Barqan,2011,1464,peace_now
+Barqan,2012,1502,peace_now
+Barqan,2013,1536,peace_now
+Barqan,2014,1627,peace_now
+Barqan,2015,1741,peace_now
+Barqan,2016,1798,peace_now
+Barqan,2017,1825,peace_now
+Barqan,2018,1833,peace_now
+Barqan,2019,1895,peace_now
+Barqan,2020,1933,peace_now
+Barqan,2021,2005,peace_now
+Barqan,2022,2040,peace_now
+Barqan,2023,2169,peace_now
+Barqan,2024,2119,peace_now
+Bat Ayin,1994,319,peace_now
+Bat Ayin,1995,365,peace_now
+Bat Ayin,1996,430,peace_now
+Bat Ayin,1997,459,peace_now
+Bat Ayin,1998,500,peace_now
+Bat Ayin,1999,572,peace_now
+Bat Ayin,2000,610,peace_now
+Bat Ayin,2001,665,peace_now
+Bat Ayin,2002,685,peace_now
+Bat Ayin,2003,767,peace_now
+Bat Ayin,2004,796,peace_now
+Bat Ayin,2005,804,peace_now
+Bat Ayin,2006,866,peace_now
+Bat Ayin,2007,906,peace_now
+Bat Ayin,2008,950,peace_now
+Bat Ayin,2009,900,peace_now
+Bat Ayin,2010,987,peace_now
+Bat Ayin,2011,1034,peace_now
+Bat Ayin,2012,1117,peace_now
+Bat Ayin,2013,1186,peace_now
+Bat Ayin,2014,1196,peace_now
+Bat Ayin,2015,1226,peace_now
+Bat Ayin,2016,1307,peace_now
+Bat Ayin,2017,1428,peace_now
+Bat Ayin,2018,1545,peace_now
+Bat Ayin,2019,1568,peace_now
+Bat Ayin,2020,1605,peace_now
+Bat Ayin,2021,1673,peace_now
+Bat Ayin,2022,1730,peace_now
+Bat Ayin,2023,1869,peace_now
+Bat Ayin,2024,1814,peace_now
+Bat Ayin,2025,2089,jvl
+Beit Arye,1993,1630,peace_now
+Beit Arye,1994,1910,peace_now
+Beit Arye,1995,1990,peace_now
+Beit Arye,1996,2110,peace_now
+Beit Arye,1997,2160,peace_now
+Beit Arye,1998,2230,peace_now
+Beit Arye,1999,2330,peace_now
+Beit Arye,2000,2380,peace_now
+Beit Arye,2001,2410,peace_now
+Beit Arye,2002,2480,peace_now
+Beit Arye,2003,2522,peace_now
+Beit Arye,2004,3446,peace_now
+Beit Arye,2005,3457,peace_now
+Beit Arye,2006,3502,peace_now
+Beit Arye,2007,3606,peace_now
+Beit Arye,2008,3767,peace_now
+Beit Arye,2009,3711,peace_now
+Beit Arye,2010,3909,peace_now
+Beit Arye,2011,4057,peace_now
+Beit Arye,2012,4166,peace_now
+Beit Arye,2013,4322,peace_now
+Beit Arye,2014,4516,peace_now
+Beit Arye,2015,4721,peace_now
+Beit Arye,2016,4842,peace_now
+Beit Arye,2017,4955,peace_now
+Beit Arye,2018,5139,peace_now
+Beit Arye,2019,5253,peace_now
+Beit Arye,2020,5351,peace_now
+Beit Arye,2021,5409,peace_now
+Beit Arye,2022,5517,peace_now
+Beit Arye,2023,5516,peace_now
+Beit Arye,2024,5603,peace_now
+Beit El,1993,2910,peace_now
+Beit El,1994,3110,peace_now
+Beit El,1995,3340,peace_now
+Beit El,1996,3350,peace_now
+Beit El,1997,3450,peace_now
+Beit El,1998,3570,peace_now
+Beit El,1999,3800,peace_now
+Beit El,2000,4120,peace_now
+Beit El,2001,4240,peace_now
+Beit El,2002,4410,peace_now
+Beit El,2003,4627,peace_now
+Beit El,2004,4763,peace_now
+Beit El,2005,4967,peace_now
+Beit El,2006,5163,peace_now
+Beit El,2007,5288,peace_now
+Beit El,2008,5413,peace_now
+Beit El,2009,5499,peace_now
+Beit El,2010,5626,peace_now
+Beit El,2011,5808,peace_now
+Beit El,2012,5897,peace_now
+Beit El,2013,5899,peace_now
+Beit El,2014,5991,peace_now
+Beit El,2015,6046,peace_now
+Beit El,2016,6115,peace_now
+Beit El,2017,6101,peace_now
+Beit El,2018,6042,peace_now
+Beit El,2019,5973,peace_now
+Beit El,2020,5684,peace_now
+Beit El,2021,5682,peace_now
+Beit El,2022,6108,peace_now
+Beit El,2023,6040,peace_now
+Beit El,2024,6469,peace_now
+Beit Ha'arava,1996,26,peace_now
+Beit Ha'arava,1997,35,peace_now
+Beit Ha'arava,1998,42,peace_now
+Beit Ha'arava,1999,45,peace_now
+Beit Ha'arava,2000,55,peace_now
+Beit Ha'arava,2001,59,peace_now
+Beit Ha'arava,2002,52,peace_now
+Beit Ha'arava,2003,54,peace_now
+Beit Ha'arava,2004,69,peace_now
+Beit Ha'arava,2005,83,peace_now
+Beit Ha'arava,2006,87,peace_now
+Beit Ha'arava,2007,102,peace_now
+Beit Ha'arava,2008,96,peace_now
+Beit Ha'arava,2009,95,peace_now
+Beit Ha'arava,2010,120,peace_now
+Beit Ha'arava,2011,122,peace_now
+Beit Ha'arava,2012,119,peace_now
+Beit Ha'arava,2013,132,peace_now
+Beit Ha'arava,2014,134,peace_now
+Beit Ha'arava,2015,159,peace_now
+Beit Ha'arava,2016,183,peace_now
+Beit Ha'arava,2017,222,peace_now
+Beit Ha'arava,2018,290,peace_now
+Beit Ha'arava,2019,350,peace_now
+Beit Ha'arava,2020,398,peace_now
+Beit Ha'arava,2021,451,peace_now
+Beit Ha'arava,2022,508,peace_now
+Beit Ha'arava,2023,565,peace_now
+Beit Ha'arava,2024,557,peace_now
+Beit Horon,1993,558,peace_now
+Beit Horon,1994,570,peace_now
+Beit Horon,1995,595,peace_now
+Beit Horon,1996,622,peace_now
+Beit Horon,1997,630,peace_now
+Beit Horon,1998,656,peace_now
+Beit Horon,1999,720,peace_now
+Beit Horon,2000,772,peace_now
+Beit Horon,2001,822,peace_now
+Beit Horon,2002,826,peace_now
+Beit Horon,2003,822,peace_now
+Beit Horon,2004,825,peace_now
+Beit Horon,2005,848,peace_now
+Beit Horon,2006,900,peace_now
+Beit Horon,2007,979,peace_now
+Beit Horon,2008,1034,peace_now
+Beit Horon,2009,1024,peace_now
+Beit Horon,2010,1115,peace_now
+Beit Horon,2011,1118,peace_now
+Beit Horon,2012,1149,peace_now
+Beit Horon,2013,1175,peace_now
+Beit Horon,2014,1218,peace_now
+Beit Horon,2015,1228,peace_now
+Beit Horon,2016,1240,peace_now
+Beit Horon,2017,1274,peace_now
+Beit Horon,2018,1362,peace_now
+Beit Horon,2019,1437,peace_now
+Beit Horon,2020,1454,peace_now
+Beit Horon,2021,1468,peace_now
+Beit Horon,2022,1442,peace_now
+Beit Horon,2023,1496,peace_now
+Beit Horon,2024,1434,peace_now
+Beitar Illit,1993,3940,peace_now
+Beitar Illit,1994,4880,peace_now
+Beitar Illit,1995,5540,peace_now
+Beitar Illit,1996,7570,peace_now
+Beitar Illit,1997,9760,peace_now
+Beitar Illit,1998,11300,peace_now
+Beitar Illit,1999,12700,peace_now
+Beitar Illit,2000,15800,peace_now
+Beitar Illit,2001,17300,peace_now
+Beitar Illit,2002,20200,peace_now
+Beitar Illit,2003,22926,peace_now
+Beitar Illit,2004,24895,peace_now
+Beitar Illit,2005,26996,peace_now
+Beitar Illit,2006,29126,peace_now
+Beitar Illit,2007,32182,peace_now
+Beitar Illit,2008,34829,peace_now
+Beitar Illit,2009,34999,peace_now
+Beitar Illit,2010,37575,peace_now
+Beitar Illit,2011,39710,peace_now
+Beitar Illit,2012,42467,peace_now
+Beitar Illit,2013,44927,peace_now
+Beitar Illit,2014,46874,peace_now
+Beitar Illit,2015,49343,peace_now
+Beitar Illit,2016,51636,peace_now
+Beitar Illit,2017,54557,peace_now
+Beitar Illit,2018,56746,peace_now
+Beitar Illit,2019,59269,peace_now
+Beitar Illit,2020,61125,peace_now
+Beitar Illit,2021,63220,peace_now
+Beitar Illit,2022,64016,peace_now
+Beitar Illit,2023,69281,peace_now
+Beitar Illit,2024,68293,peace_now
+Beitar Illit,2025,74760,jvl
+Bekaot,2025,231,jvl
+Bet Arye,2025,6115,jvl
+Bet Chagla,2025,512,jvl
+Bet El,2025,6788,jvl
+Bet Ha'Arava,2025,416,jvl
+Bet Horon,2025,1415,jvl
+Bet Yatir,2025,739,jvl
+Bqa'ot,1993,173,peace_now
+Bqa'ot,1994,180,peace_now
+Bqa'ot,1995,174,peace_now
+Bqa'ot,1996,142,peace_now
+Bqa'ot,1997,144,peace_now
+Bqa'ot,1998,146,peace_now
+Bqa'ot,1999,144,peace_now
+Bqa'ot,2000,144,peace_now
+Bqa'ot,2001,153,peace_now
+Bqa'ot,2002,147,peace_now
+Bqa'ot,2003,145,peace_now
+Bqa'ot,2004,152,peace_now
+Bqa'ot,2005,156,peace_now
+Bqa'ot,2006,171,peace_now
+Bqa'ot,2007,175,peace_now
+Bqa'ot,2008,173,peace_now
+Bqa'ot,2009,160,peace_now
+Bqa'ot,2010,162,peace_now
+Bqa'ot,2011,165,peace_now
+Bqa'ot,2012,175,peace_now
+Bqa'ot,2013,172,peace_now
+Bqa'ot,2014,171,peace_now
+Bqa'ot,2015,182,peace_now
+Bqa'ot,2016,187,peace_now
+Bqa'ot,2017,184,peace_now
+Bqa'ot,2018,176,peace_now
+Bqa'ot,2019,181,peace_now
+Bqa'ot,2020,192,peace_now
+Bqa'ot,2021,186,peace_now
+Bqa'ot,2022,187,peace_now
+Bqa'ot,2023,247,peace_now
+Bqa'ot,2024,192,peace_now
+Bracha,1993,278,peace_now
+Bracha,1994,319,peace_now
+Bracha,1995,372,peace_now
+Bracha,1996,587,peace_now
+Bracha,1997,668,peace_now
+Bracha,1998,686,peace_now
+Bracha,1999,714,peace_now
+Bracha,2000,752,peace_now
+Bracha,2001,783,peace_now
+Bracha,2002,817,peace_now
+Bracha,2003,880,peace_now
+Bracha,2004,970,peace_now
+Bracha,2005,1094,peace_now
+Bracha,2006,1182,peace_now
+Bracha,2007,1275,peace_now
+Bracha,2008,1364,peace_now
+Bracha,2009,1533,peace_now
+Bracha,2010,1691,peace_now
+Bracha,2011,1769,peace_now
+Bracha,2012,1922,peace_now
+Bracha,2013,2047,peace_now
+Bracha,2014,2195,peace_now
+Bracha,2015,2267,peace_now
+Bracha,2016,2339,peace_now
+Bracha,2017,2468,peace_now
+Bracha,2018,2620,peace_now
+Bracha,2019,2757,peace_now
+Bracha,2020,2927,peace_now
+Bracha,2021,3062,peace_now
+Bracha,2022,3165,peace_now
+Bracha,2023,3394,peace_now
+Bracha,2024,3301,peace_now
+Bracha,2025,3390,jvl
+Bruchin,2012,479,peace_now
+Bruchin,2013,602,peace_now
+Bruchin,2014,675,peace_now
+Bruchin,2015,719,peace_now
+Bruchin,2016,818,peace_now
+Bruchin,2017,919,peace_now
+Bruchin,2018,1093,peace_now
+Bruchin,2019,1165,peace_now
+Bruchin,2020,1478,peace_now
+Bruchin,2021,2129,peace_now
+Bruchin,2022,2412,peace_now
+Bruchin,2023,2793,peace_now
+Bruchin,2024,2723,peace_now
+Bruchin,2025,2821,jvl
+Carmei Zur,2025,1126,jvl
+Carmel,1993,230,peace_now
+Carmel,1994,231,peace_now
+Carmel,1995,255,peace_now
+Carmel,1996,215,peace_now
+Carmel,1997,210,peace_now
+Carmel,1998,233,peace_now
+Carmel,1999,252,peace_now
+Carmel,2000,246,peace_now
+Carmel,2001,280,peace_now
+Carmel,2002,301,peace_now
+Carmel,2003,321,peace_now
+Carmel,2004,319,peace_now
+Carmel,2005,330,peace_now
+Carmel,2006,357,peace_now
+Carmel,2007,378,peace_now
+Carmel,2008,392,peace_now
+Carmel,2009,379,peace_now
+Carmel,2010,383,peace_now
+Carmel,2011,394,peace_now
+Carmel,2012,378,peace_now
+Carmel,2013,389,peace_now
+Carmel,2014,419,peace_now
+Carmel,2015,407,peace_now
+Carmel,2016,401,peace_now
+Carmel,2017,422,peace_now
+Carmel,2018,436,peace_now
+Carmel,2019,437,peace_now
+Carmel,2020,447,peace_now
+Carmel,2021,467,peace_now
+Carmel,2022,465,peace_now
+Carmel,2023,632,peace_now
+Carmel,2024,527,peace_now
+Carmel,2025,693,jvl
+Charsha,2025,5,jvl
+Chemdat,2003,107,peace_now
+Chemdat,2004,120,peace_now
+Chemdat,2005,140,peace_now
+Chemdat,2006,147,peace_now
+Chemdat,2007,163,peace_now
+Chemdat,2008,163,peace_now
+Chemdat,2009,176,peace_now
+Chemdat,2010,178,peace_now
+Chemdat,2011,174,peace_now
+Chemdat,2012,186,peace_now
+Chemdat,2013,182,peace_now
+Chemdat,2014,209,peace_now
+Chemdat,2015,233,peace_now
+Chemdat,2016,230,peace_now
+Chemdat,2017,248,peace_now
+Chemdat,2018,278,peace_now
+Chemdat,2019,296,peace_now
+Chemdat,2020,310,peace_now
+Chemdat,2021,343,peace_now
+Chemdat,2022,361,peace_now
+Chemdat,2023,386,peace_now
+Chemdat,2024,370,peace_now
+Dolev,1993,424,peace_now
+Dolev,1994,471,peace_now
+Dolev,1995,540,peace_now
+Dolev,1996,609,peace_now
+Dolev,1997,690,peace_now
+Dolev,1998,755,peace_now
+Dolev,1999,850,peace_now
+Dolev,2000,880,peace_now
+Dolev,2001,907,peace_now
+Dolev,2002,909,peace_now
+Dolev,2003,973,peace_now
+Dolev,2004,963,peace_now
+Dolev,2005,1034,peace_now
+Dolev,2006,1100,peace_now
+Dolev,2007,1154,peace_now
+Dolev,2008,1230,peace_now
+Dolev,2009,1137,peace_now
+Dolev,2010,1195,peace_now
+Dolev,2011,1282,peace_now
+Dolev,2012,1306,peace_now
+Dolev,2013,1310,peace_now
+Dolev,2014,1281,peace_now
+Dolev,2015,1302,peace_now
+Dolev,2016,1331,peace_now
+Dolev,2017,1400,peace_now
+Dolev,2018,1341,peace_now
+Dolev,2019,1448,peace_now
+Dolev,2020,1513,peace_now
+Dolev,2021,1569,peace_now
+Dolev,2022,1613,peace_now
+Dolev,2023,1598,peace_now
+Dolev,2024,1614,peace_now
+Dolev,2025,1672,jvl
+Efrat,1993,4050,peace_now
+Efrat,1994,4650,peace_now
+Efrat,1995,5280,peace_now
+Efrat,1996,5630,peace_now
+Efrat,1997,5930,peace_now
+Efrat,1998,6120,peace_now
+Efrat,1999,6230,peace_now
+Efrat,2000,6430,peace_now
+Efrat,2001,6540,peace_now
+Efrat,2002,6810,peace_now
+Efrat,2003,7037,peace_now
+Efrat,2004,7273,peace_now
+Efrat,2005,7428,peace_now
+Efrat,2006,7714,peace_now
+Efrat,2007,8015,peace_now
+Efrat,2008,8167,peace_now
+Efrat,2009,7183,peace_now
+Efrat,2010,7454,peace_now
+Efrat,2011,7685,peace_now
+Efrat,2012,7812,peace_now
+Efrat,2013,7912,peace_now
+Efrat,2014,8131,peace_now
+Efrat,2015,8301,peace_now
+Efrat,2016,8658,peace_now
+Efrat,2017,9116,peace_now
+Efrat,2018,10088,peace_now
+Efrat,2019,10806,peace_now
+Efrat,2020,11405,peace_now
+Efrat,2021,11804,peace_now
+Efrat,2022,11853,peace_now
+Efrat,2023,12300,peace_now
+Efrat,2024,11940,peace_now
+Efrat,2025,13502,jvl
+Einav,2025,1331,jvl
+El'azar,1993,359,peace_now
+El'azar,1994,398,peace_now
+El'azar,1995,417,peace_now
+El'azar,1996,397,peace_now
+El'azar,1997,503,peace_now
+El'azar,1998,663,peace_now
+El'azar,1999,747,peace_now
+El'azar,2000,784,peace_now
+El'azar,2001,789,peace_now
+El'azar,2002,796,peace_now
+El'azar,2003,882,peace_now
+El'azar,2004,993,peace_now
+El'azar,2005,1131,peace_now
+El'azar,2006,1314,peace_now
+El'azar,2007,1547,peace_now
+El'azar,2008,1706,peace_now
+El'azar,2009,1837,peace_now
+El'azar,2010,1905,peace_now
+El'azar,2011,2081,peace_now
+El'azar,2012,2302,peace_now
+El'azar,2013,2389,peace_now
+El'azar,2014,2532,peace_now
+El'azar,2015,2577,peace_now
+El'azar,2016,2568,peace_now
+El'azar,2017,2571,peace_now
+El'azar,2018,2510,peace_now
+El'azar,2019,2459,peace_now
+El'azar,2020,2487,peace_now
+El'azar,2021,2561,peace_now
+El'azar,2022,2615,peace_now
+El'azar,2023,2567,peace_now
+El'azar,2024,2712,peace_now
+Elazar,2025,2870,jvl
+Eli,1993,505,peace_now
+Eli,1994,647,peace_now
+Eli,1995,759,peace_now
+Eli,1996,959,peace_now
+Eli,1997,1230,peace_now
+Eli,1998,1520,peace_now
+Eli,1999,1730,peace_now
+Eli,2000,1900,peace_now
+Eli,2001,1830,peace_now
+Eli,2002,1960,peace_now
+Eli,2003,2058,peace_now
+Eli,2004,2308,peace_now
+Eli,2005,2420,peace_now
+Eli,2006,2530,peace_now
+Eli,2007,2625,peace_now
+Eli,2008,2771,peace_now
+Eli,2009,2928,peace_now
+Eli,2010,3108,peace_now
+Eli,2011,3220,peace_now
+Eli,2012,3521,peace_now
+Eli,2013,3649,peace_now
+Eli,2014,3947,peace_now
+Eli,2015,4092,peace_now
+Eli,2016,4233,peace_now
+Eli,2017,4281,peace_now
+Eli,2018,4311,peace_now
+Eli,2019,4415,peace_now
+Eli,2020,4600,peace_now
+Eli,2021,4613,peace_now
+Eli,2022,4701,peace_now
+Eli,2023,4746,peace_now
+Eli,2024,4814,peace_now
+Eli,2025,4790,jvl
+Elkana,1993,2600,peace_now
+Elkana,1994,2710,peace_now
+Elkana,1995,2840,peace_now
+Elkana,1996,2750,peace_now
+Elkana,1997,2840,peace_now
+Elkana,1998,2920,peace_now
+Elkana,1999,356,peace_now
+Elkana,2000,2990,peace_now
+Elkana,2001,3030,peace_now
+Elkana,2002,3030,peace_now
+Elkana,2003,3050,peace_now
+Elkana,2004,2983,peace_now
+Elkana,2005,2963,peace_now
+Elkana,2006,2968,peace_now
+Elkana,2007,3000,peace_now
+Elkana,2008,3098,peace_now
+Elkana,2009,3483,peace_now
+Elkana,2010,3587,peace_now
+Elkana,2011,3746,peace_now
+Elkana,2012,3860,peace_now
+Elkana,2013,3871,peace_now
+Elkana,2014,3871,peace_now
+Elkana,2015,3945,peace_now
+Elkana,2016,3898,peace_now
+Elkana,2017,3884,peace_now
+Elkana,2018,3812,peace_now
+Elkana,2019,3838,peace_now
+Elkana,2020,3911,peace_now
+Elkana,2021,4071,peace_now
+Elkana,2022,4301,peace_now
+Elkana,2023,4392,peace_now
+Elkana,2024,4453,peace_now
+Elkana,2025,4676,jvl
+Elon (Alon) Shevut,2025,3568,jvl
+Elon More,1993,1140,peace_now
+Elon More,1994,1120,peace_now
+Elon More,1995,1130,peace_now
+Elon More,1996,994,peace_now
+Elon More,1997,1030,peace_now
+Elon More,1998,1030,peace_now
+Elon More,1999,1050,peace_now
+Elon More,2000,1060,peace_now
+Elon More,2001,1030,peace_now
+Elon More,2002,1060,peace_now
+Elon More,2003,1097,peace_now
+Elon More,2004,1152,peace_now
+Elon More,2005,1212,peace_now
+Elon More,2006,1314,peace_now
+Elon More,2007,1322,peace_now
+Elon More,2008,1315,peace_now
+Elon More,2009,1433,peace_now
+Elon More,2010,1447,peace_now
+Elon More,2011,1514,peace_now
+Elon More,2012,1632,peace_now
+Elon More,2013,1653,peace_now
+Elon More,2014,1773,peace_now
+Elon More,2015,1794,peace_now
+Elon More,2016,1861,peace_now
+Elon More,2017,1912,peace_now
+Elon More,2018,1946,peace_now
+Elon More,2019,1920,peace_now
+Elon More,2020,2010,peace_now
+Elon More,2021,2009,peace_now
+Elon More,2022,2105,peace_now
+Elon More,2023,2161,peace_now
+Elon More,2024,2111,peace_now
+Elon More,2025,2136,jvl
+Emmanuel,2025,6364,jvl
+Enav,1993,339,peace_now
+Enav,1994,345,peace_now
+Enav,1995,333,peace_now
+Enav,1996,396,peace_now
+Enav,1997,424,peace_now
+Enav,1998,449,peace_now
+Enav,1999,504,peace_now
+Enav,2000,500,peace_now
+Enav,2001,498,peace_now
+Enav,2002,492,peace_now
+Enav,2003,473,peace_now
+Enav,2004,468,peace_now
+Enav,2005,538,peace_now
+Enav,2006,571,peace_now
+Enav,2007,569,peace_now
+Enav,2008,568,peace_now
+Enav,2009,566,peace_now
+Enav,2010,604,peace_now
+Enav,2011,620,peace_now
+Enav,2012,662,peace_now
+Enav,2013,684,peace_now
+Enav,2014,691,peace_now
+Enav,2015,711,peace_now
+Enav,2016,749,peace_now
+Enav,2017,800,peace_now
+Enav,2018,859,peace_now
+Enav,2019,891,peace_now
+Enav,2020,925,peace_now
+Enav,2021,983,peace_now
+Enav,2022,1062,peace_now
+Enav,2023,1172,peace_now
+Enav,2024,1146,peace_now
+Eshkolot,1996,101,peace_now
+Eshkolot,1997,126,peace_now
+Eshkolot,1998,143,peace_now
+Eshkolot,1999,148,peace_now
+Eshkolot,2000,171,peace_now
+Eshkolot,2001,209,peace_now
+Eshkolot,2002,220,peace_now
+Eshkolot,2003,220,peace_now
+Eshkolot,2004,231,peace_now
+Eshkolot,2005,225,peace_now
+Eshkolot,2006,225,peace_now
+Eshkolot,2007,229,peace_now
+Eshkolot,2008,518,peace_now
+Eshkolot,2009,578,peace_now
+Eshkolot,2010,619,peace_now
+Eshkolot,2011,661,peace_now
+Eshkolot,2012,510,peace_now
+Eshkolot,2013,491,peace_now
+Eshkolot,2014,494,peace_now
+Eshkolot,2015,494,peace_now
+Eshkolot,2016,515,peace_now
+Eshkolot,2017,521,peace_now
+Eshkolot,2018,567,peace_now
+Eshkolot,2019,577,peace_now
+Eshkolot,2020,588,peace_now
+Eshkolot,2021,609,peace_now
+Eshkolot,2022,623,peace_now
+Eshkolot,2023,635,peace_now
+Eshkolot,2024,633,peace_now
+Eshkolot,2025,621,jvl
+Etz Efraim,1993,217,peace_now
+Etz Efraim,1994,237,peace_now
+Etz Efraim,1995,269,peace_now
+Etz Efraim,1996,350,peace_now
+Etz Efraim,1997,428,peace_now
+Etz Efraim,1998,464,peace_now
+Etz Efraim,1999,500,peace_now
+Etz Efraim,2000,525,peace_now
+Etz Efraim,2001,575,peace_now
+Etz Efraim,2002,606,peace_now
+Etz Efraim,2003,617,peace_now
+Etz Efraim,2004,627,peace_now
+Etz Efraim,2005,642,peace_now
+Etz Efraim,2006,679,peace_now
+Etz Efraim,2007,704,peace_now
+Etz Efraim,2008,716,peace_now
+Etz Efraim,2009,731,peace_now
+Etz Efraim,2010,760,peace_now
+Etz Efraim,2011,806,peace_now
+Etz Efraim,2012,864,peace_now
+Etz Efraim,2013,1225,peace_now
+Etz Efraim,2014,1550,peace_now
+Etz Efraim,2015,1822,peace_now
+Etz Efraim,2016,2022,peace_now
+Etz Efraim,2017,2204,peace_now
+Etz Efraim,2018,2292,peace_now
+Etz Efraim,2019,2427,peace_now
+Etz Efraim,2020,2460,peace_now
+Etz Efraim,2021,2518,peace_now
+Fetzael,2025,465,jvl
+Galgal,2025,225,jvl
+Ganei Modiin,2015,2347,peace_now
+Ganei Modiin,2016,2411,peace_now
+Ganei Modiin,2017,2445,peace_now
+Ganei Modiin,2018,2488,peace_now
+Ganei Modiin,2019,2603,peace_now
+Ganei Modiin,2020,2716,peace_now
+Ganei Modiin,2021,2688,peace_now
+Ganei Modiin,2022,2735,peace_now
+Ganei Modiin,2023,3239,peace_now
+Ganei Modiin,2024,2772,peace_now
+Ganei Modiin,2025,3712,jvl
+Geva Binyamin (aka Adam),1993,330,peace_now
+Geva Binyamin (aka Adam),1994,361,peace_now
+Geva Binyamin (aka Adam),1995,404,peace_now
+Geva Binyamin (aka Adam),1996,526,peace_now
+Geva Binyamin (aka Adam),1997,562,peace_now
+Geva Binyamin (aka Adam),1998,627,peace_now
+Geva Binyamin (aka Adam),1999,707,peace_now
+Geva Binyamin (aka Adam),2000,1020,peace_now
+Geva Binyamin (aka Adam),2001,1300,peace_now
+Geva Binyamin (aka Adam),2002,1570,peace_now
+Geva Binyamin (aka Adam),2003,1801,peace_now
+Geva Binyamin (aka Adam),2004,2032,peace_now
+Geva Binyamin (aka Adam),2005,2436,peace_now
+Geva Binyamin (aka Adam),2006,3183,peace_now
+Geva Binyamin (aka Adam),2007,3574,peace_now
+Geva Binyamin (aka Adam),2008,3731,peace_now
+Geva Binyamin (aka Adam),2009,4157,peace_now
+Geva Binyamin (aka Adam),2010,4370,peace_now
+Geva Binyamin (aka Adam),2011,4487,peace_now
+Geva Binyamin (aka Adam),2012,4674,peace_now
+Geva Binyamin (aka Adam),2013,4860,peace_now
+Geva Binyamin (aka Adam),2014,5065,peace_now
+Geva Binyamin (aka Adam),2015,5232,peace_now
+Geva Binyamin (aka Adam),2016,5278,peace_now
+Geva Binyamin (aka Adam),2017,5409,peace_now
+Geva Binyamin (aka Adam),2018,5525,peace_now
+Geva Binyamin (aka Adam),2019,5682,peace_now
+Geva Binyamin (aka Adam),2020,5761,peace_now
+Geva Binyamin (aka Adam),2021,5857,peace_now
+Geva Binyamin (aka Adam),2022,5913,peace_now
+Geva Binyamin (aka Adam),2023,5827,peace_now
+Geva Binyamin (aka Adam),2024,6115,peace_now
+Gilgal,1993,164,peace_now
+Gilgal,1994,169,peace_now
+Gilgal,1995,184,peace_now
+Gilgal,1996,171,peace_now
+Gilgal,1997,170,peace_now
+Gilgal,1998,157,peace_now
+Gilgal,1999,164,peace_now
+Gilgal,2000,180,peace_now
+Gilgal,2001,171,peace_now
+Gilgal,2002,161,peace_now
+Gilgal,2003,162,peace_now
+Gilgal,2004,164,peace_now
+Gilgal,2005,164,peace_now
+Gilgal,2006,162,peace_now
+Gilgal,2007,148,peace_now
+Gilgal,2008,140,peace_now
+Gilgal,2009,172,peace_now
+Gilgal,2010,166,peace_now
+Gilgal,2011,167,peace_now
+Gilgal,2012,167,peace_now
+Gilgal,2013,168,peace_now
+Gilgal,2014,169,peace_now
+Gilgal,2015,171,peace_now
+Gilgal,2016,178,peace_now
+Gilgal,2017,180,peace_now
+Gilgal,2018,178,peace_now
+Gilgal,2019,203,peace_now
+Gilgal,2020,217,peace_now
+Gilgal,2021,223,peace_now
+Gilgal,2022,229,peace_now
+Gilgal,2023,209,peace_now
+Gilgal,2024,239,peace_now
+Gitit,1993,137,peace_now
+Gitit,1994,138,peace_now
+Gitit,1995,137,peace_now
+Gitit,1996,108,peace_now
+Gitit,1997,106,peace_now
+Gitit,1998,120,peace_now
+Gitit,1999,109,peace_now
+Gitit,2000,100,peace_now
+Gitit,2001,102,peace_now
+Gitit,2002,95,peace_now
+Gitit,2003,119,peace_now
+Gitit,2004,161,peace_now
+Gitit,2005,191,peace_now
+Gitit,2006,214,peace_now
+Gitit,2007,214,peace_now
+Gitit,2008,231,peace_now
+Gitit,2009,259,peace_now
+Gitit,2010,297,peace_now
+Gitit,2011,302,peace_now
+Gitit,2012,308,peace_now
+Gitit,2013,324,peace_now
+Gitit,2014,362,peace_now
+Gitit,2015,376,peace_now
+Gitit,2016,430,peace_now
+Gitit,2017,457,peace_now
+Gitit,2018,476,peace_now
+Gitit,2019,505,peace_now
+Gitit,2020,497,peace_now
+Gitit,2021,498,peace_now
+Gitit,2022,502,peace_now
+Gitit,2023,567,peace_now
+Gitit,2024,547,peace_now
+Gittit,2025,630,jvl
+Giv'on Ha'hadasha,1993,773,peace_now
+Giv'on Ha'hadasha,1994,826,peace_now
+Giv'on Ha'hadasha,1995,935,peace_now
+Giv'on Ha'hadasha,1996,972,peace_now
+Giv'on Ha'hadasha,1997,1050,peace_now
+Giv'on Ha'hadasha,1998,1140,peace_now
+Giv'on Ha'hadasha,1999,1180,peace_now
+Giv'on Ha'hadasha,2000,1190,peace_now
+Giv'on Ha'hadasha,2001,1220,peace_now
+Giv'on Ha'hadasha,2002,1220,peace_now
+Giv'on Ha'hadasha,2003,1224,peace_now
+Giv'on Ha'hadasha,2004,1179,peace_now
+Giv'on Ha'hadasha,2005,1147,peace_now
+Giv'on Ha'hadasha,2006,1181,peace_now
+Giv'on Ha'hadasha,2007,1192,peace_now
+Giv'on Ha'hadasha,2008,1166,peace_now
+Giv'on Ha'hadasha,2009,1113,peace_now
+Giv'on Ha'hadasha,2010,1097,peace_now
+Giv'on Ha'hadasha,2011,1072,peace_now
+Giv'on Ha'hadasha,2012,1131,peace_now
+Giv'on Ha'hadasha,2013,1152,peace_now
+Giv'on Ha'hadasha,2014,1161,peace_now
+Giv'on Ha'hadasha,2015,1151,peace_now
+Giv'on Ha'hadasha,2016,1135,peace_now
+Giv'on Ha'hadasha,2017,1139,peace_now
+Giv'on Ha'hadasha,2018,1086,peace_now
+Giv'on Ha'hadasha,2019,1066,peace_now
+Giv'on Ha'hadasha,2020,1043,peace_now
+Giv'on Ha'hadasha,2021,1021,peace_now
+Giv'on Ha'hadasha,2022,996,peace_now
+Giv'on Ha'hadasha,2023,1189,peace_now
+Giv'on Ha'hadasha,2024,1022,peace_now
+Givat Ze'ev,1993,6380,peace_now
+Givat Ze'ev,1994,6750,peace_now
+Givat Ze'ev,1995,7120,peace_now
+Givat Ze'ev,1996,7840,peace_now
+Givat Ze'ev,1997,8950,peace_now
+Givat Ze'ev,1998,9720,peace_now
+Givat Ze'ev,1999,10000,peace_now
+Givat Ze'ev,2000,10300,peace_now
+Givat Ze'ev,2001,10500,peace_now
+Givat Ze'ev,2002,10600,peace_now
+Givat Ze'ev,2003,10790,peace_now
+Givat Ze'ev,2004,10635,peace_now
+Givat Ze'ev,2005,10656,peace_now
+Givat Ze'ev,2006,10796,peace_now
+Givat Ze'ev,2007,10873,peace_now
+Givat Ze'ev,2008,11063,peace_now
+Givat Ze'ev,2009,10779,peace_now
+Givat Ze'ev,2010,11764,peace_now
+Givat Ze'ev,2011,12632,peace_now
+Givat Ze'ev,2012,13466,peace_now
+Givat Ze'ev,2013,14349,peace_now
+Givat Ze'ev,2014,15094,peace_now
+Givat Ze'ev,2015,16123,peace_now
+Givat Ze'ev,2016,16865,peace_now
+Givat Ze'ev,2017,17323,peace_now
+Givat Ze'ev,2018,17922,peace_now
+Givat Ze'ev,2019,18420,peace_now
+Givat Ze'ev,2020,19225,peace_now
+Givat Ze'ev,2021,20034,peace_now
+Givat Ze'ev,2022,21097,peace_now
+Givat Ze'ev,2023,24193,peace_now
+Givat Ze'ev,2024,22503,peace_now
+Givat Ze'ev,2025,25630,jvl
+Givon HaHadasha,2025,1214,jvl
+Gvaot Haroeh,2025,132,jvl
+Haggai,1993,213,peace_now
+Haggai,1994,224,peace_now
+Haggai,1995,240,peace_now
+Haggai,1996,300,peace_now
+Haggai,1997,345,peace_now
+Haggai,1998,391,peace_now
+Haggai,1999,405,peace_now
+Haggai,2000,406,peace_now
+Haggai,2001,396,peace_now
+Haggai,2002,374,peace_now
+Haggai,2003,388,peace_now
+Haggai,2004,429,peace_now
+Haggai,2005,452,peace_now
+Haggai,2006,477,peace_now
+Haggai,2007,545,peace_now
+Haggai,2008,552,peace_now
+Haggai,2009,489,peace_now
+Haggai,2010,502,peace_now
+Haggai,2011,512,peace_now
+Haggai,2012,541,peace_now
+Haggai,2013,552,peace_now
+Haggai,2014,547,peace_now
+Haggai,2015,592,peace_now
+Haggai,2016,573,peace_now
+Haggai,2017,596,peace_now
+Haggai,2018,635,peace_now
+Haggai,2019,667,peace_now
+Haggai,2020,676,peace_now
+Haggai,2021,701,peace_now
+Haggai,2022,725,peace_now
+Haggai,2023,863,peace_now
+Haggai,2024,797,peace_now
+Haggai,2025,916,jvl
+Halamish,1993,856,peace_now
+Halamish,1994,874,peace_now
+Halamish,1995,882,peace_now
+Halamish,1996,774,peace_now
+Halamish,1997,807,peace_now
+Halamish,1998,951,peace_now
+Halamish,1999,1100,peace_now
+Halamish,2000,922,peace_now
+Halamish,2001,894,peace_now
+Halamish,2002,895,peace_now
+Halamish,2003,915,peace_now
+Halamish,2004,931,peace_now
+Halamish,2005,941,peace_now
+Halamish,2006,975,peace_now
+Halamish,2007,956,peace_now
+Halamish,2008,981,peace_now
+Halamish,2009,1054,peace_now
+Halamish,2010,1090,peace_now
+Halamish,2011,1153,peace_now
+Halamish,2012,1144,peace_now
+Halamish,2013,1172,peace_now
+Halamish,2014,1282,peace_now
+Halamish,2015,1278,peace_now
+Halamish,2016,1328,peace_now
+Halamish,2017,1314,peace_now
+Halamish,2018,1478,peace_now
+Halamish,2019,1485,peace_now
+Halamish,2020,1494,peace_now
+Halamish,2021,1543,peace_now
+Halamish,2022,1590,peace_now
+Halamish,2023,1439,peace_now
+Halamish,2024,1668,peace_now
+Halamish,2025,1509,jvl
+Hamra,1993,164,peace_now
+Hamra,1994,168,peace_now
+Hamra,1995,169,peace_now
+Hamra,1996,146,peace_now
+Hamra,1997,141,peace_now
+Hamra,1998,147,peace_now
+Hamra,1999,149,peace_now
+Hamra,2000,147,peace_now
+Hamra,2001,761,peace_now
+Hamra,2002,136,peace_now
+Hamra,2003,131,peace_now
+Hamra,2004,125,peace_now
+Hamra,2005,132,peace_now
+Hamra,2006,132,peace_now
+Hamra,2007,119,peace_now
+Hamra,2008,111,peace_now
+Hamra,2009,91,peace_now
+Hamra,2010,88,peace_now
+Hamra,2011,94,peace_now
+Hamra,2012,110,peace_now
+Hamra,2013,114,peace_now
+Hamra,2014,124,peace_now
+Hamra,2015,127,peace_now
+Hamra,2016,124,peace_now
+Hamra,2017,126,peace_now
+Hamra,2018,175,peace_now
+Hamra,2019,173,peace_now
+Hamra,2020,259,peace_now
+Hamra,2021,273,peace_now
+Hamra,2022,224,peace_now
+Hamra,2023,271,peace_now
+Hamra,2024,253,peace_now
+Hamra,2025,286,jvl
+Har Adar,1993,1380,peace_now
+Har Adar,1994,1430,peace_now
+Har Adar,1995,1430,peace_now
+Har Adar,1996,1440,peace_now
+Har Adar,1997,1430,peace_now
+Har Adar,1998,1380,peace_now
+Har Adar,1999,1380,peace_now
+Har Adar,2000,1420,peace_now
+Har Adar,2001,1570,peace_now
+Har Adar,2002,1730,peace_now
+Har Adar,2003,1839,peace_now
+Har Adar,2004,2074,peace_now
+Har Adar,2005,2260,peace_now
+Har Adar,2006,2438,peace_now
+Har Adar,2007,2743,peace_now
+Har Adar,2008,3115,peace_now
+Har Adar,2009,3211,peace_now
+Har Adar,2010,3426,peace_now
+Har Adar,2011,3622,peace_now
+Har Adar,2012,3701,peace_now
+Har Adar,2013,3757,peace_now
+Har Adar,2014,3776,peace_now
+Har Adar,2015,3858,peace_now
+Har Adar,2016,3980,peace_now
+Har Adar,2017,4058,peace_now
+Har Adar,2018,4056,peace_now
+Har Adar,2019,4088,peace_now
+Har Adar,2020,4084,peace_now
+Har Adar,2021,4107,peace_now
+Har Adar,2022,4065,peace_now
+Har Adar,2023,4389,peace_now
+Har Adar,2024,4140,peace_now
+Har Adar,2025,4403,jvl
+Har Gilo,1993,404,peace_now
+Har Gilo,1994,387,peace_now
+Har Gilo,1995,380,peace_now
+Har Gilo,1996,328,peace_now
+Har Gilo,1997,345,peace_now
+Har Gilo,1998,340,peace_now
+Har Gilo,1999,363,peace_now
+Har Gilo,2000,369,peace_now
+Har Gilo,2001,364,peace_now
+Har Gilo,2002,357,peace_now
+Har Gilo,2003,365,peace_now
+Har Gilo,2004,371,peace_now
+Har Gilo,2005,381,peace_now
+Har Gilo,2006,415,peace_now
+Har Gilo,2007,462,peace_now
+Har Gilo,2008,479,peace_now
+Har Gilo,2009,566,peace_now
+Har Gilo,2010,602,peace_now
+Har Gilo,2011,670,peace_now
+Har Gilo,2012,952,peace_now
+Har Gilo,2013,1262,peace_now
+Har Gilo,2014,1438,peace_now
+Har Gilo,2015,1505,peace_now
+Har Gilo,2016,1570,peace_now
+Har Gilo,2017,1568,peace_now
+Har Gilo,2018,1590,peace_now
+Har Gilo,2019,1635,peace_now
+Har Gilo,2020,1625,peace_now
+Har Gilo,2021,1647,peace_now
+Har Gilo,2022,1655,peace_now
+Har Gilo,2023,1651,peace_now
+Har Gilo,2024,1666,peace_now
+Har Gilo,2025,1671,jvl
+Hashmonaim,1993,1330,peace_now
+Hashmonaim,1994,1470,peace_now
+Hashmonaim,1995,1730,peace_now
+Hashmonaim,1996,1490,peace_now
+Hashmonaim,1997,1410,peace_now
+Hashmonaim,1998,1530,peace_now
+Hashmonaim,1999,1770,peace_now
+Hashmonaim,2000,1830,peace_now
+Hashmonaim,2001,1880,peace_now
+Hashmonaim,2002,1950,peace_now
+Hashmonaim,2003,2097,peace_now
+Hashmonaim,2004,2235,peace_now
+Hashmonaim,2005,2225,peace_now
+Hashmonaim,2006,2359,peace_now
+Hashmonaim,2007,2506,peace_now
+Hashmonaim,2008,2591,peace_now
+Hashmonaim,2009,2588,peace_now
+Hashmonaim,2010,2610,peace_now
+Hashmonaim,2011,2643,peace_now
+Hashmonaim,2012,2573,peace_now
+Hashmonaim,2013,2661,peace_now
+Hashmonaim,2014,2638,peace_now
+Hashmonaim,2015,2762,peace_now
+Hashmonaim,2016,2826,peace_now
+Hashmonaim,2017,2820,peace_now
+Hashmonaim,2018,2760,peace_now
+Hashmonaim,2019,2771,peace_now
+Hashmonaim,2020,2712,peace_now
+Hashmonaim,2021,2646,peace_now
+Hashmonaim,2022,2589,peace_now
+Hashmonaim,2023,3122,peace_now
+Hashmonaim,2024,2504,peace_now
+Hashmonaim,2025,2916,jvl
+Hebron,2009,800,peace_now
+Hemdat,2025,397,jvl
+Hermesh,1993,124,peace_now
+Hermesh,1994,142,peace_now
+Hermesh,1995,179,peace_now
+Hermesh,1996,224,peace_now
+Hermesh,1997,248,peace_now
+Hermesh,1998,259,peace_now
+Hermesh,1999,272,peace_now
+Hermesh,2000,279,peace_now
+Hermesh,2001,256,peace_now
+Hermesh,2002,246,peace_now
+Hermesh,2003,229,peace_now
+Hermesh,2004,229,peace_now
+Hermesh,2005,212,peace_now
+Hermesh,2006,202,peace_now
+Hermesh,2007,201,peace_now
+Hermesh,2008,210,peace_now
+Hermesh,2009,177,peace_now
+Hermesh,2010,184,peace_now
+Hermesh,2011,180,peace_now
+Hermesh,2012,189,peace_now
+Hermesh,2013,191,peace_now
+Hermesh,2014,203,peace_now
+Hermesh,2015,219,peace_now
+Hermesh,2016,223,peace_now
+Hermesh,2017,215,peace_now
+Hermesh,2018,228,peace_now
+Hermesh,2019,224,peace_now
+Hermesh,2020,230,peace_now
+Hermesh,2021,236,peace_now
+Hermesh,2022,245,peace_now
+Hermesh,2023,284,peace_now
+Hermesh,2024,243,peace_now
+Hermesh (Chermesh),2025,298,jvl
+Hevron,2025,609,jvl
+Hinanit,1993,208,peace_now
+Hinanit,1994,251,peace_now
+Hinanit,1995,249,peace_now
+Hinanit,1996,334,peace_now
+Hinanit,1997,362,peace_now
+Hinanit,1998,411,peace_now
+Hinanit,1999,432,peace_now
+Hinanit,2000,481,peace_now
+Hinanit,2001,591,peace_now
+Hinanit,2002,639,peace_now
+Hinanit,2003,669,peace_now
+Hinanit,2004,707,peace_now
+Hinanit,2005,760,peace_now
+Hinanit,2006,779,peace_now
+Hinanit,2007,811,peace_now
+Hinanit,2008,864,peace_now
+Hinanit,2009,768,peace_now
+Hinanit,2010,813,peace_now
+Hinanit,2011,874,peace_now
+Hinanit,2012,945,peace_now
+Hinanit,2013,979,peace_now
+Hinanit,2014,1101,peace_now
+Hinanit,2015,1089,peace_now
+Hinanit,2016,1164,peace_now
+Hinanit,2017,1295,peace_now
+Hinanit,2018,1323,peace_now
+Hinanit,2019,1411,peace_now
+Hinanit,2020,1477,peace_now
+Hinanit,2021,1512,peace_now
+Hinanit,2022,1659,peace_now
+Hinanit,2023,1705,peace_now
+Hinanit,2024,1707,peace_now
+Hinnanit (Chinanit),2025,1997,jvl
+Ibey HaNachal,2025,6,jvl
+Immanuel,1993,3240,peace_now
+Immanuel,1994,3360,peace_now
+Immanuel,1995,3500,peace_now
+Immanuel,1996,3110,peace_now
+Immanuel,1997,3260,peace_now
+Immanuel,1998,3290,peace_now
+Immanuel,1999,3150,peace_now
+Immanuel,2000,3040,peace_now
+Immanuel,2001,2700,peace_now
+Immanuel,2002,2350,peace_now
+Immanuel,2003,2455,peace_now
+Immanuel,2004,2585,peace_now
+Immanuel,2005,2583,peace_now
+Immanuel,2006,2678,peace_now
+Immanuel,2007,2775,peace_now
+Immanuel,2008,2890,peace_now
+Immanuel,2009,2901,peace_now
+Immanuel,2010,2948,peace_now
+Immanuel,2011,2952,peace_now
+Immanuel,2012,3013,peace_now
+Immanuel,2013,3115,peace_now
+Immanuel,2014,3197,peace_now
+Immanuel,2015,3253,peace_now
+Immanuel,2016,3309,peace_now
+Immanuel,2017,3440,peace_now
+Immanuel,2018,3693,peace_now
+Immanuel,2019,3906,peace_now
+Immanuel,2020,4128,peace_now
+Immanuel,2021,4372,peace_now
+Immanuel,2022,4656,peace_now
+Immanuel,2023,5451,peace_now
+Immanuel,2024,5142,peace_now
+Itamar,1993,267,peace_now
+Itamar,1994,273,peace_now
+Itamar,1995,298,peace_now
+Itamar,1996,361,peace_now
+Itamar,1997,400,peace_now
+Itamar,1998,439,peace_now
+Itamar,1999,511,peace_now
+Itamar,2000,541,peace_now
+Itamar,2001,562,peace_now
+Itamar,2002,534,peace_now
+Itamar,2003,557,peace_now
+Itamar,2004,600,peace_now
+Itamar,2005,651,peace_now
+Itamar,2006,698,peace_now
+Itamar,2007,750,peace_now
+Itamar,2008,785,peace_now
+Itamar,2009,1032,peace_now
+Itamar,2010,1101,peace_now
+Itamar,2011,1181,peace_now
+Itamar,2012,1024,peace_now
+Itamar,2013,1026,peace_now
+Itamar,2014,1275,peace_now
+Itamar,2015,1305,peace_now
+Itamar,2016,1151,peace_now
+Itamar,2017,1199,peace_now
+Itamar,2018,1238,peace_now
+Itamar,2019,1269,peace_now
+Itamar,2020,1285,peace_now
+Itamar,2021,1355,peace_now
+Itamar,2022,1470,peace_now
+Itamar,2023,1670,peace_now
+Itamar,2024,1596,peace_now
+Itamar,2025,1710,jvl
+Kalia,1993,228,peace_now
+Kalia,1994,247,peace_now
+Kalia,1995,256,peace_now
+Kalia,1996,248,peace_now
+Kalia,1997,265,peace_now
+Kalia,1998,256,peace_now
+Kalia,1999,262,peace_now
+Kalia,2000,260,peace_now
+Kalia,2001,264,peace_now
+Kalia,2002,257,peace_now
+Kalia,2003,260,peace_now
+Kalia,2004,260,peace_now
+Kalia,2005,271,peace_now
+Kalia,2006,266,peace_now
+Kalia,2007,274,peace_now
+Kalia,2008,281,peace_now
+Kalia,2009,300,peace_now
+Kalia,2010,306,peace_now
+Kalia,2011,324,peace_now
+Kalia,2012,360,peace_now
+Kalia,2013,374,peace_now
+Kalia,2014,390,peace_now
+Kalia,2015,394,peace_now
+Kalia,2016,386,peace_now
+Kalia,2017,399,peace_now
+Kalia,2018,416,peace_now
+Kalia,2019,437,peace_now
+Kalia,2020,464,peace_now
+Kalia,2021,489,peace_now
+Kalia,2022,490,peace_now
+Kalia,2023,550,peace_now
+Kalia,2024,514,peace_now
+Kalia,2025,567,jvl
+Karmei Tzur,1993,212,peace_now
+Karmei Tzur,1994,237,peace_now
+Karmei Tzur,1995,294,peace_now
+Karmei Tzur,1996,373,peace_now
+Karmei Tzur,1997,398,peace_now
+Karmei Tzur,1998,417,peace_now
+Karmei Tzur,1999,422,peace_now
+Karmei Tzur,2000,481,peace_now
+Karmei Tzur,2001,504,peace_now
+Karmei Tzur,2002,579,peace_now
+Karmei Tzur,2003,623,peace_now
+Karmei Tzur,2004,665,peace_now
+Karmei Tzur,2005,713,peace_now
+Karmei Tzur,2006,696,peace_now
+Karmei Tzur,2007,729,peace_now
+Karmei Tzur,2008,757,peace_now
+Karmei Tzur,2009,691,peace_now
+Karmei Tzur,2010,725,peace_now
+Karmei Tzur,2011,756,peace_now
+Karmei Tzur,2012,872,peace_now
+Karmei Tzur,2013,975,peace_now
+Karmei Tzur,2014,1011,peace_now
+Karmei Tzur,2015,1036,peace_now
+Karmei Tzur,2016,1047,peace_now
+Karmei Tzur,2017,1037,peace_now
+Karmei Tzur,2018,1021,peace_now
+Karmei Tzur,2019,1001,peace_now
+Karmei Tzur,2020,995,peace_now
+Karmei Tzur,2021,964,peace_now
+Karmei Tzur,2022,980,peace_now
+Karmei Tzur,2023,1003,peace_now
+Karmei Tzur,2024,997,peace_now
+Karnei Shomron,1993,4330,peace_now
+Karnei Shomron,1994,4820,peace_now
+Karnei Shomron,1995,5040,peace_now
+Karnei Shomron,1996,5000,peace_now
+Karnei Shomron,1997,5290,peace_now
+Karnei Shomron,1998,5370,peace_now
+Karnei Shomron,1999,5590,peace_now
+Karnei Shomron,2000,5890,peace_now
+Karnei Shomron,2001,6040,peace_now
+Karnei Shomron,2002,6100,peace_now
+Karnei Shomron,2003,6093,peace_now
+Karnei Shomron,2004,6170,peace_now
+Karnei Shomron,2005,6280,peace_now
+Karnei Shomron,2006,6333,peace_now
+Karnei Shomron,2007,6439,peace_now
+Karnei Shomron,2008,6559,peace_now
+Karnei Shomron,2009,6210,peace_now
+Karnei Shomron,2010,6284,peace_now
+Karnei Shomron,2011,6449,peace_now
+Karnei Shomron,2012,6570,peace_now
+Karnei Shomron,2013,6560,peace_now
+Karnei Shomron,2014,6650,peace_now
+Karnei Shomron,2015,6905,peace_now
+Karnei Shomron,2016,7102,peace_now
+Karnei Shomron,2017,7369,peace_now
+Karnei Shomron,2018,7713,peace_now
+Karnei Shomron,2019,8135,peace_now
+Karnei Shomron,2020,9417,peace_now
+Karnei Shomron,2021,9662,peace_now
+Karnei Shomron,2022,9920,peace_now
+Karnei Shomron,2023,10354,peace_now
+Karnei Shomron,2024,10179,peace_now
+Karnei Shomron,2025,11199,jvl
+Kedar,2025,1627,jvl
+Kedumim,1993,2050,peace_now
+Kedumim,1994,2130,peace_now
+Kedumim,1995,2200,peace_now
+Kedumim,1996,2150,peace_now
+Kedumim,1997,2330,peace_now
+Kedumim,1998,2400,peace_now
+Kedumim,1999,2540,peace_now
+Kedumim,2000,2660,peace_now
+Kedumim,2001,2740,peace_now
+Kedumim,2002,2800,peace_now
+Kedumim,2003,2934,peace_now
+Kedumim,2004,3010,peace_now
+Kedumim,2005,3087,peace_now
+Kedumim,2006,3208,peace_now
+Kedumim,2007,3382,peace_now
+Kedumim,2008,3463,peace_now
+Kedumim,2009,3774,peace_now
+Kedumim,2010,3877,peace_now
+Kedumim,2011,3904,peace_now
+Kedumim,2012,4124,peace_now
+Kedumim,2013,4174,peace_now
+Kedumim,2014,4187,peace_now
+Kedumim,2015,4338,peace_now
+Kedumim,2016,4323,peace_now
+Kedumim,2017,4481,peace_now
+Kedumim,2018,4596,peace_now
+Kedumim,2019,4545,peace_now
+Kedumim,2020,4586,peace_now
+Kedumim,2021,4590,peace_now
+Kedumim,2022,4548,peace_now
+Kedumim,2023,4539,peace_now
+Kedumim,2024,4600,peace_now
+Kedumim,2025,4854,jvl
+Keidar,1993,185,peace_now
+Keidar,1994,198,peace_now
+Keidar,1995,220,peace_now
+Keidar,1996,292,peace_now
+Keidar,1997,319,peace_now
+Keidar,1998,371,peace_now
+Keidar,1999,393,peace_now
+Keidar,2000,447,peace_now
+Keidar,2001,538,peace_now
+Keidar,2002,585,peace_now
+Keidar,2003,624,peace_now
+Keidar,2004,658,peace_now
+Keidar,2005,728,peace_now
+Keidar,2006,782,peace_now
+Keidar,2007,801,peace_now
+Keidar,2008,852,peace_now
+Keidar,2009,960,peace_now
+Keidar,2010,1028,peace_now
+Keidar,2011,1138,peace_now
+Keidar,2012,1246,peace_now
+Keidar,2013,1294,peace_now
+Keidar,2014,1384,peace_now
+Keidar,2015,1490,peace_now
+Keidar,2016,1555,peace_now
+Keidar,2017,1590,peace_now
+Keidar,2018,1565,peace_now
+Keidar,2019,1599,peace_now
+Keidar,2020,1619,peace_now
+Keidar,2021,1617,peace_now
+Keidar,2022,1649,peace_now
+Keidar,2023,1535,peace_now
+Keidar,2024,1624,peace_now
+Kerm Raim,2025,15,jvl
+Kfar Adumim,1993,966,peace_now
+Kfar Adumim,1994,1010,peace_now
+Kfar Adumim,1995,1120,peace_now
+Kfar Adumim,1996,1280,peace_now
+Kfar Adumim,1997,1380,peace_now
+Kfar Adumim,1998,1430,peace_now
+Kfar Adumim,1999,1590,peace_now
+Kfar Adumim,2000,1690,peace_now
+Kfar Adumim,2001,1750,peace_now
+Kfar Adumim,2002,1790,peace_now
+Kfar Adumim,2003,1866,peace_now
+Kfar Adumim,2004,2006,peace_now
+Kfar Adumim,2005,2127,peace_now
+Kfar Adumim,2006,2312,peace_now
+Kfar Adumim,2007,2542,peace_now
+Kfar Adumim,2008,2686,peace_now
+Kfar Adumim,2009,3099,peace_now
+Kfar Adumim,2010,3286,peace_now
+Kfar Adumim,2011,3434,peace_now
+Kfar Adumim,2012,3527,peace_now
+Kfar Adumim,2013,3722,peace_now
+Kfar Adumim,2014,3952,peace_now
+Kfar Adumim,2015,4145,peace_now
+Kfar Adumim,2016,4271,peace_now
+Kfar Adumim,2017,4381,peace_now
+Kfar Adumim,2018,4513,peace_now
+Kfar Adumim,2019,4674,peace_now
+Kfar Adumim,2020,4785,peace_now
+Kfar Adumim,2021,4927,peace_now
+Kfar Adumim,2022,4957,peace_now
+Kfar Adumim,2023,5019,peace_now
+Kfar Adumim,2024,5123,peace_now
+Kfar Adumim,2025,5276,jvl
+Kfar Etzion,1993,532,peace_now
+Kfar Etzion,1994,543,peace_now
+Kfar Etzion,1995,556,peace_now
+Kfar Etzion,1996,418,peace_now
+Kfar Etzion,1997,400,peace_now
+Kfar Etzion,1998,415,peace_now
+Kfar Etzion,1999,421,peace_now
+Kfar Etzion,2000,427,peace_now
+Kfar Etzion,2001,402,peace_now
+Kfar Etzion,2002,408,peace_now
+Kfar Etzion,2003,404,peace_now
+Kfar Etzion,2004,416,peace_now
+Kfar Etzion,2005,422,peace_now
+Kfar Etzion,2006,448,peace_now
+Kfar Etzion,2007,455,peace_now
+Kfar Etzion,2008,476,peace_now
+Kfar Etzion,2009,818,peace_now
+Kfar Etzion,2010,804,peace_now
+Kfar Etzion,2011,872,peace_now
+Kfar Etzion,2012,975,peace_now
+Kfar Etzion,2013,1022,peace_now
+Kfar Etzion,2014,1060,peace_now
+Kfar Etzion,2015,1071,peace_now
+Kfar Etzion,2016,1099,peace_now
+Kfar Etzion,2017,1145,peace_now
+Kfar Etzion,2018,1152,peace_now
+Kfar Etzion,2019,1156,peace_now
+Kfar Etzion,2020,1203,peace_now
+Kfar Etzion,2021,1279,peace_now
+Kfar Etzion,2022,1371,peace_now
+Kfar Etzion,2023,1168,peace_now
+Kfar Etzion,2024,1390,peace_now
+Kfar Etzion,2025,1106,jvl
+Kfar Ha'oranim,1998,132,peace_now
+Kfar Ha'oranim,1999,332,peace_now
+Kfar Ha'oranim,2000,768,peace_now
+Kfar Ha'oranim,2001,971,peace_now
+Kfar Ha'oranim,2002,1240,peace_now
+Kfar Ha'oranim,2005,1804,peace_now
+Kfar Ha'oranim,2006,1917,peace_now
+Kfar Ha'oranim,2007,2028,peace_now
+Kfar Ha'oranim,2008,2172,peace_now
+Kfar Ha'oranim,2009,2440,peace_now
+Kfar Ha'oranim,2010,2509,peace_now
+Kfar Ha'oranim,2011,2542,peace_now
+Kfar Ha'oranim,2012,2644,peace_now
+Kfar Ha'oranim,2013,2667,peace_now
+Kfar Ha'oranim,2014,2668,peace_now
+Kfar Ha'oranim,2015,2700,peace_now
+Kfar Ha'oranim,2016,2678,peace_now
+Kfar Ha'oranim,2017,2708,peace_now
+Kfar Ha'oranim,2018,2664,peace_now
+Kfar Ha'oranim,2019,2658,peace_now
+Kfar Ha'oranim,2020,2614,peace_now
+Kfar Ha'oranim,2021,2607,peace_now
+Kfar Ha'oranim,2022,2604,peace_now
+Kfar Ha'oranim,2023,2342,peace_now
+Kfar Ha'oranim,2024,2550,peace_now
+Kfar HaOranim,2025,2352,jvl
+Kfar Tapuach,2025,1522,jvl
+Kfar Tapuah,1993,280,peace_now
+Kfar Tapuah,1994,261,peace_now
+Kfar Tapuah,1995,294,peace_now
+Kfar Tapuah,1996,276,peace_now
+Kfar Tapuah,1997,324,peace_now
+Kfar Tapuah,1998,353,peace_now
+Kfar Tapuah,1999,352,peace_now
+Kfar Tapuah,2000,347,peace_now
+Kfar Tapuah,2001,387,peace_now
+Kfar Tapuah,2002,446,peace_now
+Kfar Tapuah,2003,523,peace_now
+Kfar Tapuah,2004,593,peace_now
+Kfar Tapuah,2005,648,peace_now
+Kfar Tapuah,2006,721,peace_now
+Kfar Tapuah,2007,798,peace_now
+Kfar Tapuah,2008,867,peace_now
+Kfar Tapuah,2009,919,peace_now
+Kfar Tapuah,2010,1025,peace_now
+Kfar Tapuah,2011,1070,peace_now
+Kfar Tapuah,2012,1207,peace_now
+Kfar Tapuah,2013,916,peace_now
+Kfar Tapuah,2014,900,peace_now
+Kfar Tapuah,2015,970,peace_now
+Kfar Tapuah,2016,1071,peace_now
+Kfar Tapuah,2017,1166,peace_now
+Kfar Tapuah,2018,1238,peace_now
+Kfar Tapuah,2019,1312,peace_now
+Kfar Tapuah,2020,1473,peace_now
+Kfar Tapuah,2021,1522,peace_now
+Kfar Tapuah,2022,1639,peace_now
+Kfar Tapuah,2023,1606,peace_now
+Kfar Tapuah,2024,1673,peace_now
+Kiryat Arba,1993,5070,peace_now
+Kiryat Arba,1994,5120,peace_now
+Kiryat Arba,1995,5220,peace_now
+Kiryat Arba,1996,5810,peace_now
+Kiryat Arba,1997,6030,peace_now
+Kiryat Arba,1998,6190,peace_now
+Kiryat Arba,1999,6240,peace_now
+Kiryat Arba,2000,6380,peace_now
+Kiryat Arba,2001,6440,peace_now
+Kiryat Arba,2002,6580,peace_now
+Kiryat Arba,2003,6605,peace_now
+Kiryat Arba,2004,6651,peace_now
+Kiryat Arba,2005,6819,peace_now
+Kiryat Arba,2006,6958,peace_now
+Kiryat Arba,2007,7039,peace_now
+Kiryat Arba,2008,7226,peace_now
+Kiryat Arba,2009,7096,peace_now
+Kiryat Arba,2010,7248,peace_now
+Kiryat Arba,2011,7433,peace_now
+Kiryat Arba,2012,7593,peace_now
+Kiryat Arba,2013,7166,peace_now
+Kiryat Arba,2014,6951,peace_now
+Kiryat Arba,2015,7109,peace_now
+Kiryat Arba,2016,7272,peace_now
+Kiryat Arba,2017,7339,peace_now
+Kiryat Arba,2018,7323,peace_now
+Kiryat Arba,2019,7326,peace_now
+Kiryat Arba,2020,7338,peace_now
+Kiryat Arba,2021,7498,peace_now
+Kiryat Arba,2022,7490,peace_now
+Kiryat Arba,2023,7572,peace_now
+Kiryat Arba,2024,7601,peace_now
+Kiryat Arba,2025,8437,jvl
+Kiryat Netafim,1993,194,peace_now
+Kiryat Netafim,1994,159,peace_now
+Kiryat Netafim,1995,157,peace_now
+Kiryat Netafim,1996,179,peace_now
+Kiryat Netafim,1997,190,peace_now
+Kiryat Netafim,1998,224,peace_now
+Kiryat Netafim,1999,240,peace_now
+Kiryat Netafim,2000,299,peace_now
+Kiryat Netafim,2001,306,peace_now
+Kiryat Netafim,2002,344,peace_now
+Kiryat Netafim,2003,384,peace_now
+Kiryat Netafim,2004,419,peace_now
+Kiryat Netafim,2005,438,peace_now
+Kiryat Netafim,2006,472,peace_now
+Kiryat Netafim,2007,479,peace_now
+Kiryat Netafim,2008,545,peace_now
+Kiryat Netafim,2009,634,peace_now
+Kiryat Netafim,2010,690,peace_now
+Kiryat Netafim,2011,744,peace_now
+Kiryat Netafim,2012,749,peace_now
+Kiryat Netafim,2013,758,peace_now
+Kiryat Netafim,2014,824,peace_now
+Kiryat Netafim,2015,865,peace_now
+Kiryat Netafim,2016,910,peace_now
+Kiryat Netafim,2017,929,peace_now
+Kiryat Netafim,2018,937,peace_now
+Kiryat Netafim,2019,958,peace_now
+Kiryat Netafim,2020,964,peace_now
+Kiryat Netafim,2021,991,peace_now
+Kiryat Netafim,2022,1009,peace_now
+Kiryat Netafim,2023,880,peace_now
+Kiryat Netafim,2024,999,peace_now
+Kiryat Netafim,2025,1108,jvl
+Kochav Ha'shachar,1993,752,peace_now
+Kochav Ha'shachar,1994,805,peace_now
+Kochav Ha'shachar,1995,865,peace_now
+Kochav Ha'shachar,1996,896,peace_now
+Kochav Ha'shachar,1997,955,peace_now
+Kochav Ha'shachar,1998,1020,peace_now
+Kochav Ha'shachar,1999,1080,peace_now
+Kochav Ha'shachar,2000,1150,peace_now
+Kochav Ha'shachar,2001,1250,peace_now
+Kochav Ha'shachar,2002,1300,peace_now
+Kochav Ha'shachar,2003,1367,peace_now
+Kochav Ha'shachar,2004,1365,peace_now
+Kochav Ha'shachar,2005,1449,peace_now
+Kochav Ha'shachar,2006,1530,peace_now
+Kochav Ha'shachar,2007,1619,peace_now
+Kochav Ha'shachar,2008,1690,peace_now
+Kochav Ha'shachar,2009,1423,peace_now
+Kochav Ha'shachar,2010,1557,peace_now
+Kochav Ha'shachar,2011,1596,peace_now
+Kochav Ha'shachar,2012,1548,peace_now
+Kochav Ha'shachar,2013,1596,peace_now
+Kochav Ha'shachar,2014,1829,peace_now
+Kochav Ha'shachar,2015,1945,peace_now
+Kochav Ha'shachar,2016,1985,peace_now
+Kochav Ha'shachar,2017,2053,peace_now
+Kochav Ha'shachar,2018,2122,peace_now
+Kochav Ha'shachar,2019,2227,peace_now
+Kochav Ha'shachar,2020,2450,peace_now
+Kochav Ha'shachar,2021,2515,peace_now
+Kochav Ha'shachar,2022,2501,peace_now
+Kochav Ha'shachar,2023,2754,peace_now
+Kochav Ha'shachar,2024,2622,peace_now
+Kochav HaShahar,2025,2973,jvl
+Kochav Ya'akov,1993,551,peace_now
+Kochav Ya'akov,1994,663,peace_now
+Kochav Ya'akov,1995,727,peace_now
+Kochav Ya'akov,1996,928,peace_now
+Kochav Ya'akov,1997,1040,peace_now
+Kochav Ya'akov,1998,1170,peace_now
+Kochav Ya'akov,1999,1260,peace_now
+Kochav Ya'akov,2000,1640,peace_now
+Kochav Ya'akov,2001,2410,peace_now
+Kochav Ya'akov,2002,3250,peace_now
+Kochav Ya'akov,2003,3819,peace_now
+Kochav Ya'akov,2004,4389,peace_now
+Kochav Ya'akov,2005,4919,peace_now
+Kochav Ya'akov,2006,5268,peace_now
+Kochav Ya'akov,2007,5627,peace_now
+Kochav Ya'akov,2008,5926,peace_now
+Kochav Ya'akov,2009,5811,peace_now
+Kochav Ya'akov,2010,6006,peace_now
+Kochav Ya'akov,2011,6340,peace_now
+Kochav Ya'akov,2012,6476,peace_now
+Kochav Ya'akov,2013,6694,peace_now
+Kochav Ya'akov,2014,6993,peace_now
+Kochav Ya'akov,2015,7313,peace_now
+Kochav Ya'akov,2016,7394,peace_now
+Kochav Ya'akov,2017,7687,peace_now
+Kochav Ya'akov,2018,8194,peace_now
+Kochav Ya'akov,2019,8542,peace_now
+Kochav Ya'akov,2020,9116,peace_now
+Kochav Ya'akov,2021,9524,peace_now
+Kochav Ya'akov,2022,9794,peace_now
+Kochav Ya'akov,2023,3763,peace_now
+Kochav Ya'akov,2024,3138,peace_now
+Kochav Yaakov,2025,3731,jvl
+Leshem,2025,1,jvl
+Ma'ale Adumim,1993,16900,peace_now
+Ma'ale Adumim,1994,18400,peace_now
+Ma'ale Adumim,1995,19300,peace_now
+Ma'ale Adumim,1996,18700,peace_now
+Ma'ale Adumim,1997,20300,peace_now
+Ma'ale Adumim,1998,22200,peace_now
+Ma'ale Adumim,1999,23800,peace_now
+Ma'ale Adumim,2000,24900,peace_now
+Ma'ale Adumim,2001,25800,peace_now
+Ma'ale Adumim,2002,26500,peace_now
+Ma'ale Adumim,2003,27259,peace_now
+Ma'ale Adumim,2004,28923,peace_now
+Ma'ale Adumim,2005,30162,peace_now
+Ma'ale Adumim,2006,31754,peace_now
+Ma'ale Adumim,2007,33019,peace_now
+Ma'ale Adumim,2008,33821,peace_now
+Ma'ale Adumim,2009,34324,peace_now
+Ma'ale Adumim,2010,35673,peace_now
+Ma'ale Adumim,2011,36089,peace_now
+Ma'ale Adumim,2012,36862,peace_now
+Ma'ale Adumim,2013,37138,peace_now
+Ma'ale Adumim,2014,37404,peace_now
+Ma'ale Adumim,2015,37525,peace_now
+Ma'ale Adumim,2016,37670,peace_now
+Ma'ale Adumim,2017,37817,peace_now
+Ma'ale Adumim,2018,38193,peace_now
+Ma'ale Adumim,2019,38154,peace_now
+Ma'ale Adumim,2020,37847,peace_now
+Ma'ale Adumim,2021,37555,peace_now
+Ma'ale Adumim,2022,38046,peace_now
+Ma'ale Adumim,2023,36680,peace_now
+Ma'ale Adumim,2024,38097,peace_now
+Ma'ale Adumim,2025,40800,jvl
+Ma'ale Amos,1993,387,peace_now
+Ma'ale Amos,1994,388,peace_now
+Ma'ale Amos,1995,352,peace_now
+Ma'ale Amos,1996,321,peace_now
+Ma'ale Amos,1997,342,peace_now
+Ma'ale Amos,1998,328,peace_now
+Ma'ale Amos,1999,342,peace_now
+Ma'ale Amos,2000,336,peace_now
+Ma'ale Amos,2001,300,peace_now
+Ma'ale Amos,2002,258,peace_now
+Ma'ale Amos,2003,299,peace_now
+Ma'ale Amos,2004,319,peace_now
+Ma'ale Amos,2005,340,peace_now
+Ma'ale Amos,2006,344,peace_now
+Ma'ale Amos,2007,326,peace_now
+Ma'ale Amos,2008,348,peace_now
+Ma'ale Amos,2009,264,peace_now
+Ma'ale Amos,2010,255,peace_now
+Ma'ale Amos,2011,264,peace_now
+Ma'ale Amos,2012,332,peace_now
+Ma'ale Amos,2013,323,peace_now
+Ma'ale Amos,2014,352,peace_now
+Ma'ale Amos,2015,384,peace_now
+Ma'ale Amos,2016,390,peace_now
+Ma'ale Amos,2017,421,peace_now
+Ma'ale Amos,2018,535,peace_now
+Ma'ale Amos,2019,663,peace_now
+Ma'ale Amos,2020,720,peace_now
+Ma'ale Amos,2021,822,peace_now
+Ma'ale Amos,2022,906,peace_now
+Ma'ale Amos,2023,1279,peace_now
+Ma'ale Amos,2024,1190,peace_now
+Ma'ale Amos,2025,1537,jvl
+Ma'ale Efraim,1993,1480,peace_now
+Ma'ale Efraim,1994,1470,peace_now
+Ma'ale Efraim,1995,1590,peace_now
+Ma'ale Efraim,1996,1420,peace_now
+Ma'ale Efraim,1997,1420,peace_now
+Ma'ale Efraim,1998,1430,peace_now
+Ma'ale Efraim,1999,1460,peace_now
+Ma'ale Efraim,2000,1480,peace_now
+Ma'ale Efraim,2001,1390,peace_now
+Ma'ale Efraim,2002,1430,peace_now
+Ma'ale Efraim,2003,1443,peace_now
+Ma'ale Efraim,2004,1456,peace_now
+Ma'ale Efraim,2005,1423,peace_now
+Ma'ale Efraim,2006,1384,peace_now
+Ma'ale Efraim,2007,1377,peace_now
+Ma'ale Efraim,2008,1390,peace_now
+Ma'ale Efraim,2009,1270,peace_now
+Ma'ale Efraim,2010,1250,peace_now
+Ma'ale Efraim,2011,1197,peace_now
+Ma'ale Efraim,2012,1119,peace_now
+Ma'ale Efraim,2013,1098,peace_now
+Ma'ale Efraim,2014,1145,peace_now
+Ma'ale Efraim,2015,1206,peace_now
+Ma'ale Efraim,2016,1209,peace_now
+Ma'ale Efraim,2017,1205,peace_now
+Ma'ale Efraim,2018,1241,peace_now
+Ma'ale Efraim,2019,1261,peace_now
+Ma'ale Efraim,2020,1256,peace_now
+Ma'ale Efraim,2021,1318,peace_now
+Ma'ale Efraim,2022,1377,peace_now
+Ma'ale Efraim,2023,1695,peace_now
+Ma'ale Efraim,2024,1419,peace_now
+Ma'ale Efrayim,2025,1961,jvl
+Ma'ale Levona,1993,307,peace_now
+Ma'ale Levona,1994,301,peace_now
+Ma'ale Levona,1995,334,peace_now
+Ma'ale Levona,1996,368,peace_now
+Ma'ale Levona,1997,432,peace_now
+Ma'ale Levona,1998,452,peace_now
+Ma'ale Levona,1999,447,peace_now
+Ma'ale Levona,2000,445,peace_now
+Ma'ale Levona,2001,442,peace_now
+Ma'ale Levona,2002,462,peace_now
+Ma'ale Levona,2003,497,peace_now
+Ma'ale Levona,2004,514,peace_now
+Ma'ale Levona,2005,545,peace_now
+Ma'ale Levona,2006,556,peace_now
+Ma'ale Levona,2007,559,peace_now
+Ma'ale Levona,2008,584,peace_now
+Ma'ale Levona,2009,713,peace_now
+Ma'ale Levona,2010,686,peace_now
+Ma'ale Levona,2011,720,peace_now
+Ma'ale Levona,2012,724,peace_now
+Ma'ale Levona,2013,734,peace_now
+Ma'ale Levona,2014,758,peace_now
+Ma'ale Levona,2015,766,peace_now
+Ma'ale Levona,2016,826,peace_now
+Ma'ale Levona,2017,813,peace_now
+Ma'ale Levona,2018,866,peace_now
+Ma'ale Levona,2019,906,peace_now
+Ma'ale Levona,2020,945,peace_now
+Ma'ale Levona,2021,976,peace_now
+Ma'ale Levona,2022,1018,peace_now
+Ma'ale Levona,2023,967,peace_now
+Ma'ale Levona,2024,1084,peace_now
+Ma'ale Levona,2025,1048,jvl
+Ma'ale Michmash,1993,489,peace_now
+Ma'ale Michmash,1994,539,peace_now
+Ma'ale Michmash,1995,589,peace_now
+Ma'ale Michmash,1996,525,peace_now
+Ma'ale Michmash,1997,624,peace_now
+Ma'ale Michmash,1998,671,peace_now
+Ma'ale Michmash,1999,753,peace_now
+Ma'ale Michmash,2000,826,peace_now
+Ma'ale Michmash,2001,905,peace_now
+Ma'ale Michmash,2002,945,peace_now
+Ma'ale Michmash,2003,980,peace_now
+Ma'ale Michmash,2004,1055,peace_now
+Ma'ale Michmash,2005,1126,peace_now
+Ma'ale Michmash,2006,1184,peace_now
+Ma'ale Michmash,2007,1229,peace_now
+Ma'ale Michmash,2008,1261,peace_now
+Ma'ale Michmash,2009,1079,peace_now
+Ma'ale Michmash,2010,1104,peace_now
+Ma'ale Michmash,2011,1172,peace_now
+Ma'ale Michmash,2012,1251,peace_now
+Ma'ale Michmash,2013,1287,peace_now
+Ma'ale Michmash,2014,1319,peace_now
+Ma'ale Michmash,2015,1351,peace_now
+Ma'ale Michmash,2016,1323,peace_now
+Ma'ale Michmash,2017,1402,peace_now
+Ma'ale Michmash,2018,1463,peace_now
+Ma'ale Michmash,2019,1529,peace_now
+Ma'ale Michmash,2020,1635,peace_now
+Ma'ale Michmash,2021,1691,peace_now
+Ma'ale Michmash,2022,1744,peace_now
+Ma'ale Michmash,2023,2131,peace_now
+Ma'ale Michmash,2024,1903,peace_now
+Ma'ale Michmash,2025,2284,jvl
+Ma'ale Shomron,1993,360,peace_now
+Ma'ale Shomron,1994,397,peace_now
+Ma'ale Shomron,1995,432,peace_now
+Ma'ale Shomron,1996,421,peace_now
+Ma'ale Shomron,1997,440,peace_now
+Ma'ale Shomron,1998,470,peace_now
+Ma'ale Shomron,1999,486,peace_now
+Ma'ale Shomron,2000,527,peace_now
+Ma'ale Shomron,2001,504,peace_now
+Ma'ale Shomron,2002,527,peace_now
+Ma'ale Shomron,2003,533,peace_now
+Ma'ale Shomron,2004,549,peace_now
+Ma'ale Shomron,2005,574,peace_now
+Ma'ale Shomron,2006,570,peace_now
+Ma'ale Shomron,2007,577,peace_now
+Ma'ale Shomron,2008,582,peace_now
+Ma'ale Shomron,2009,789,peace_now
+Ma'ale Shomron,2010,837,peace_now
+Ma'ale Shomron,2011,860,peace_now
+Ma'ale Shomron,2012,863,peace_now
+Ma'ale Shomron,2013,935,peace_now
+Ma'ale Shomron,2014,965,peace_now
+Ma'ale Shomron,2015,1015,peace_now
+Ma'ale Shomron,2016,1037,peace_now
+Ma'ale Shomron,2017,1045,peace_now
+Ma'ale Shomron,2018,1012,peace_now
+Ma'ale Shomron,2019,995,peace_now
+Ma'on,1993,160,peace_now
+Ma'on,1994,158,peace_now
+Ma'on,1995,166,peace_now
+Ma'on,1996,192,peace_now
+Ma'on,1997,218,peace_now
+Ma'on,1998,246,peace_now
+Ma'on,1999,265,peace_now
+Ma'on,2000,283,peace_now
+Ma'on,2001,300,peace_now
+Ma'on,2002,320,peace_now
+Ma'on,2003,327,peace_now
+Ma'on,2004,308,peace_now
+Ma'on,2005,347,peace_now
+Ma'on,2006,370,peace_now
+Ma'on,2007,381,peace_now
+Ma'on,2008,417,peace_now
+Ma'on,2009,368,peace_now
+Ma'on,2010,357,peace_now
+Ma'on,2011,418,peace_now
+Ma'on,2012,454,peace_now
+Ma'on,2013,461,peace_now
+Ma'on,2014,488,peace_now
+Ma'on,2015,502,peace_now
+Ma'on,2016,539,peace_now
+Ma'on,2017,560,peace_now
+Ma'on,2018,575,peace_now
+Ma'on,2019,595,peace_now
+Ma'on,2020,594,peace_now
+Ma'on,2021,592,peace_now
+Ma'on,2022,607,peace_now
+Ma'on,2023,749,peace_now
+Ma'on,2024,649,peace_now
+Ma'on,2025,771,jvl
+Maskiot,2025,396,jvl
+Maskiyot,2011,72,peace_now
+Maskiyot,2012,135,peace_now
+Maskiyot,2013,159,peace_now
+Maskiyot,2014,192,peace_now
+Maskiyot,2015,206,peace_now
+Maskiyot,2016,253,peace_now
+Maskiyot,2017,276,peace_now
+Maskiyot,2018,286,peace_now
+Maskiyot,2019,310,peace_now
+Maskiyot,2020,333,peace_now
+Maskiyot,2021,341,peace_now
+Maskiyot,2022,343,peace_now
+Maskiyot,2023,389,peace_now
+Maskiyot,2024,373,peace_now
+Masu'a,1993,222,peace_now
+Masu'a,1994,210,peace_now
+Masu'a,1995,200,peace_now
+Masu'a,1996,132,peace_now
+Masu'a,1997,131,peace_now
+Masu'a,1998,135,peace_now
+Masu'a,1999,140,peace_now
+Masu'a,2000,148,peace_now
+Masu'a,2001,143,peace_now
+Masu'a,2002,142,peace_now
+Masu'a,2003,145,peace_now
+Masu'a,2004,140,peace_now
+Masu'a,2005,136,peace_now
+Masu'a,2006,142,peace_now
+Masu'a,2007,136,peace_now
+Masu'a,2008,143,peace_now
+Masu'a,2009,136,peace_now
+Masu'a,2010,141,peace_now
+Masu'a,2011,148,peace_now
+Masu'a,2012,153,peace_now
+Masu'a,2013,149,peace_now
+Masu'a,2014,149,peace_now
+Masu'a,2015,148,peace_now
+Masu'a,2016,162,peace_now
+Masu'a,2017,161,peace_now
+Masu'a,2018,170,peace_now
+Masu'a,2019,184,peace_now
+Masu'a,2020,180,peace_now
+Masu'a,2021,263,peace_now
+Masu'a,2022,297,peace_now
+Masu'a,2023,434,peace_now
+Masu'a,2024,364,peace_now
+Matityahu,1993,245,peace_now
+Matityahu,1994,2380,peace_now
+Matityahu,1995,4440,peace_now
+Matityahu,1998,1560,peace_now
+Matityahu,1999,1410,peace_now
+Matityahu,2000,1380,peace_now
+Matityahu,2001,1370,peace_now
+Matityahu,2002,1380,peace_now
+Matityahu,2003,1365,peace_now
+Matityahu,2004,1347,peace_now
+Matityahu,2005,1353,peace_now
+Matityahu,2006,1355,peace_now
+Matityahu,2007,1371,peace_now
+Matityahu,2008,1382,peace_now
+Matityahu,2009,457,peace_now
+Matityahu,2010,465,peace_now
+Matityahu,2011,484,peace_now
+Matityahu,2012,568,peace_now
+Matityahu,2013,607,peace_now
+Matityahu,2014,663,peace_now
+Matityahu,2015,698,peace_now
+Matityahu,2016,772,peace_now
+Matityahu,2017,802,peace_now
+Matityahu,2018,847,peace_now
+Matityahu,2019,891,peace_now
+Matityahu,2020,898,peace_now
+Matityahu,2021,922,peace_now
+Matityahu,2022,920,peace_now
+Matityahu,2023,1144,peace_now
+Matityahu,2024,969,peace_now
+Matityahu,2025,985,jvl
+Mechola,1993,250,peace_now
+Mechola,1994,268,peace_now
+Mechola,1995,272,peace_now
+Mechola,1996,265,peace_now
+Mechola,1997,283,peace_now
+Mechola,1998,302,peace_now
+Mechola,1999,315,peace_now
+Mechola,2000,306,peace_now
+Mechola,2001,302,peace_now
+Mechola,2002,311,peace_now
+Mechola,2003,327,peace_now
+Mechola,2004,360,peace_now
+Mechola,2005,362,peace_now
+Mechola,2006,351,peace_now
+Mechola,2007,357,peace_now
+Mechola,2008,373,peace_now
+Mechola,2009,377,peace_now
+Mechola,2010,400,peace_now
+Mechola,2011,421,peace_now
+Mechola,2012,429,peace_now
+Mechola,2013,436,peace_now
+Mechola,2014,467,peace_now
+Mechola,2015,471,peace_now
+Mechola,2016,517,peace_now
+Mechola,2017,537,peace_now
+Mechola,2018,575,peace_now
+Mechola,2019,609,peace_now
+Mechola,2020,629,peace_now
+Mechola,2021,649,peace_now
+Mechola,2022,688,peace_now
+Mechola,2023,760,peace_now
+Mechola,2024,742,peace_now
+Mechora,1993,132,peace_now
+Mechora,1994,135,peace_now
+Mechora,1995,129,peace_now
+Mechora,1996,105,peace_now
+Mechora,1997,113,peace_now
+Mechora,1998,115,peace_now
+Mechora,1999,120,peace_now
+Mechora,2000,113,peace_now
+Mechora,2001,119,peace_now
+Mechora,2002,119,peace_now
+Mechora,2003,125,peace_now
+Mechora,2004,119,peace_now
+Mechora,2005,120,peace_now
+Mechora,2006,114,peace_now
+Mechora,2007,112,peace_now
+Mechora,2008,117,peace_now
+Mechora,2009,122,peace_now
+Mechora,2010,131,peace_now
+Mechora,2011,116,peace_now
+Mechora,2012,112,peace_now
+Mechora,2013,129,peace_now
+Mechora,2014,138,peace_now
+Mechora,2015,141,peace_now
+Mechora,2016,142,peace_now
+Mechora,2017,136,peace_now
+Mechora,2018,161,peace_now
+Mechora,2019,166,peace_now
+Mechora,2020,178,peace_now
+Mechora,2021,185,peace_now
+Mechora,2022,179,peace_now
+Mechora,2023,250,peace_now
+Mechora,2024,186,peace_now
+Mechora,2025,238,jvl
+Mehola,2025,841,jvl
+Mesua,2025,486,jvl
+Metzad-Asfar,2025,1591,jvl
+Mevo Dotan,1993,241,peace_now
+Mevo Dotan,1994,271,peace_now
+Mevo Dotan,1995,307,peace_now
+Mevo Dotan,1996,308,peace_now
+Mevo Dotan,1997,307,peace_now
+Mevo Dotan,1998,308,peace_now
+Mevo Dotan,1999,314,peace_now
+Mevo Dotan,2000,310,peace_now
+Mevo Dotan,2001,295,peace_now
+Mevo Dotan,2002,279,peace_now
+Mevo Dotan,2003,289,peace_now
+Mevo Dotan,2004,287,peace_now
+Mevo Dotan,2005,303,peace_now
+Mevo Dotan,2006,311,peace_now
+Mevo Dotan,2007,315,peace_now
+Mevo Dotan,2008,313,peace_now
+Mevo Dotan,2009,281,peace_now
+Mevo Dotan,2010,280,peace_now
+Mevo Dotan,2011,272,peace_now
+Mevo Dotan,2012,276,peace_now
+Mevo Dotan,2013,272,peace_now
+Mevo Dotan,2014,330,peace_now
+Mevo Dotan,2015,364,peace_now
+Mevo Dotan,2016,386,peace_now
+Mevo Dotan,2017,393,peace_now
+Mevo Dotan,2018,403,peace_now
+Mevo Dotan,2019,448,peace_now
+Mevo Dotan,2020,479,peace_now
+Mevo Dotan,2021,509,peace_now
+Mevo Dotan,2022,612,peace_now
+Mevo Dotan,2023,683,peace_now
+Mevo Dotan,2024,699,peace_now
+Mevo Dotan,2025,936,jvl
+Mevo Horon,1993,453,peace_now
+Mevo Horon,1994,464,peace_now
+Mevo Horon,1995,495,peace_now
+Mevo Horon,1996,491,peace_now
+Mevo Horon,1997,505,peace_now
+Mevo Horon,1998,493,peace_now
+Mevo Horon,1999,494,peace_now
+Mevo Horon,2000,497,peace_now
+Mevo Horon,2001,537,peace_now
+Mevo Horon,2002,599,peace_now
+Mevo Horon,2003,712,peace_now
+Mevo Horon,2004,827,peace_now
+Mevo Horon,2005,950,peace_now
+Mevo Horon,2006,1037,peace_now
+Mevo Horon,2007,1169,peace_now
+Mevo Horon,2008,1327,peace_now
+Mevo Horon,2009,1593,peace_now
+Mevo Horon,2010,1771,peace_now
+Mevo Horon,2011,1929,peace_now
+Mevo Horon,2012,2147,peace_now
+Mevo Horon,2013,2274,peace_now
+Mevo Horon,2014,2425,peace_now
+Mevo Horon,2015,2517,peace_now
+Mevo Horon,2016,2566,peace_now
+Mevo Horon,2017,2589,peace_now
+Mevo Horon,2018,2650,peace_now
+Mevo Horon,2019,2669,peace_now
+Mevo Horon,2020,2686,peace_now
+Mevo Horon,2021,2694,peace_now
+Mevo Horon,2022,2669,peace_now
+Mevo Horon,2023,2590,peace_now
+Mevo Horon,2024,2730,peace_now
+Mevo Horon,2025,2711,jvl
+Mevo'ot Jericho,2021,228,peace_now
+Mevo'ot Jericho,2022,308,peace_now
+Mevo'ot Jericho,2023,538,peace_now
+Mevo'ot Jericho,2024,403,peace_now
+Mevuot Jericho,2025,410,jvl
+Migdal Oz,1993,208,peace_now
+Migdal Oz,1994,221,peace_now
+Migdal Oz,1995,269,peace_now
+Migdal Oz,1996,266,peace_now
+Migdal Oz,1997,281,peace_now
+Migdal Oz,1998,290,peace_now
+Migdal Oz,1999,280,peace_now
+Migdal Oz,2000,289,peace_now
+Migdal Oz,2001,282,peace_now
+Migdal Oz,2002,268,peace_now
+Migdal Oz,2003,298,peace_now
+Migdal Oz,2004,313,peace_now
+Migdal Oz,2005,334,peace_now
+Migdal Oz,2006,345,peace_now
+Migdal Oz,2007,332,peace_now
+Migdal Oz,2008,347,peace_now
+Migdal Oz,2009,436,peace_now
+Migdal Oz,2010,412,peace_now
+Migdal Oz,2011,435,peace_now
+Migdal Oz,2012,512,peace_now
+Migdal Oz,2013,505,peace_now
+Migdal Oz,2014,447,peace_now
+Migdal Oz,2015,439,peace_now
+Migdal Oz,2016,605,peace_now
+Migdal Oz,2017,605,peace_now
+Migdal Oz,2018,574,peace_now
+Migdal Oz,2019,574,peace_now
+Migdal Oz,2020,576,peace_now
+Migdal Oz,2021,566,peace_now
+Migdal Oz,2022,572,peace_now
+Migdal Oz,2023,575,peace_now
+Migdal Oz,2024,592,peace_now
+Migdal Oz,2025,419,jvl
+Migdalim,1996,118,peace_now
+Migdalim,1997,122,peace_now
+Migdalim,1998,141,peace_now
+Migdalim,1999,150,peace_now
+Migdalim,2000,306,peace_now
+Migdalim,2001,153,peace_now
+Migdalim,2002,143,peace_now
+Migdalim,2003,152,peace_now
+Migdalim,2004,151,peace_now
+Migdalim,2005,150,peace_now
+Migdalim,2006,142,peace_now
+Migdalim,2007,139,peace_now
+Migdalim,2008,138,peace_now
+Migdalim,2009,137,peace_now
+Migdalim,2010,142,peace_now
+Migdalim,2011,138,peace_now
+Migdalim,2012,147,peace_now
+Migdalim,2013,150,peace_now
+Migdalim,2014,204,peace_now
+Migdalim,2015,269,peace_now
+Migdalim,2016,305,peace_now
+Migdalim,2017,335,peace_now
+Migdalim,2018,368,peace_now
+Migdalim,2019,448,peace_now
+Migdalim,2020,505,peace_now
+Migdalim,2021,543,peace_now
+Migdalim,2022,592,peace_now
+Migdalim,2023,700,peace_now
+Migdalim,2024,668,peace_now
+Migdalim,2025,880,jvl
+Migron,2025,67,jvl
+Mitzpe Shalem,1994,200,peace_now
+Mitzpe Shalem,1995,208,peace_now
+Mitzpe Shalem,1996,193,peace_now
+Mitzpe Shalem,1997,201,peace_now
+Mitzpe Shalem,1998,207,peace_now
+Mitzpe Shalem,1999,208,peace_now
+Mitzpe Shalem,2000,210,peace_now
+Mitzpe Shalem,2001,207,peace_now
+Mitzpe Shalem,2002,191,peace_now
+Mitzpe Shalem,2003,193,peace_now
+Mitzpe Shalem,2004,192,peace_now
+Mitzpe Shalem,2005,180,peace_now
+Mitzpe Shalem,2006,169,peace_now
+Mitzpe Shalem,2007,171,peace_now
+Mitzpe Shalem,2008,172,peace_now
+Mitzpe Shalem,2009,164,peace_now
+Mitzpe Shalem,2010,166,peace_now
+Mitzpe Shalem,2011,164,peace_now
+Mitzpe Shalem,2012,173,peace_now
+Mitzpe Shalem,2013,173,peace_now
+Mitzpe Shalem,2014,171,peace_now
+Mitzpe Shalem,2015,173,peace_now
+Mitzpe Shalem,2016,174,peace_now
+Mitzpe Shalem,2017,184,peace_now
+Mitzpe Shalem,2018,211,peace_now
+Mitzpe Shalem,2019,207,peace_now
+Mitzpe Shalem,2020,244,peace_now
+Mitzpe Shalem,2021,238,peace_now
+Mitzpe Shalem,2022,243,peace_now
+Mitzpe Shalem,2023,279,peace_now
+Mitzpe Shalem,2024,242,peace_now
+Mitzpe Yericho,1993,623,peace_now
+Mitzpe Yericho,1994,678,peace_now
+Mitzpe Yericho,1995,762,peace_now
+Mitzpe Yericho,1996,938,peace_now
+Mitzpe Yericho,1997,1040,peace_now
+Mitzpe Yericho,1998,1070,peace_now
+Mitzpe Yericho,1999,1160,peace_now
+Mitzpe Yericho,2000,1210,peace_now
+Mitzpe Yericho,2001,1310,peace_now
+Mitzpe Yericho,2002,1370,peace_now
+Mitzpe Yericho,2003,1430,peace_now
+Mitzpe Yericho,2004,1469,peace_now
+Mitzpe Yericho,2005,1536,peace_now
+Mitzpe Yericho,2006,1641,peace_now
+Mitzpe Yericho,2007,1701,peace_now
+Mitzpe Yericho,2008,1792,peace_now
+Mitzpe Yericho,2009,1754,peace_now
+Mitzpe Yericho,2010,1851,peace_now
+Mitzpe Yericho,2011,1946,peace_now
+Mitzpe Yericho,2012,2115,peace_now
+Mitzpe Yericho,2013,2164,peace_now
+Mitzpe Yericho,2014,2270,peace_now
+Mitzpe Yericho,2015,2307,peace_now
+Mitzpe Yericho,2016,2319,peace_now
+Mitzpe Yericho,2017,2394,peace_now
+Mitzpe Yericho,2018,2453,peace_now
+Mitzpe Yericho,2019,2560,peace_now
+Mitzpe Yericho,2020,2577,peace_now
+Mitzpe Yericho,2021,2638,peace_now
+Mitzpe Yericho,2022,2657,peace_now
+Mitzpe Yericho,2023,2895,peace_now
+Mitzpe Yericho,2024,2887,peace_now
+Mizpe Jericho,2025,2856,jvl
+Mizpe Shalem,2025,229,jvl
+Modi'in Ilit,1994,2400,peace_now
+Modi'in Ilit,1995,5500,peace_now
+Modi'in Ilit,1996,6150,peace_now
+Modi'in Ilit,1997,8090,peace_now
+Modi'in Ilit,1998,10500,peace_now
+Modi'in Ilit,1999,13000,peace_now
+Modi'in Ilit,2000,16400,peace_now
+Modi'in Ilit,2001,19200,peace_now
+Modi'in Ilit,2002,22000,peace_now
+Modi'in Ilit,2003,24290,peace_now
+Modi'in Ilit,2004,27386,peace_now
+Modi'in Ilit,2005,30484,peace_now
+Modi'in Ilit,2006,34482,peace_now
+Modi'in Ilit,2007,38047,peace_now
+Modi'in Ilit,2008,41869,peace_now
+Modi'in Ilit,2009,46245,peace_now
+Modi'in Ilit,2010,48639,peace_now
+Modi'in Ilit,2011,52060,peace_now
+Modi'in Ilit,2012,55494,peace_now
+Modi'in Ilit,2013,60046,peace_now
+Modi'in Ilit,2014,63187,peace_now
+Modi'in Ilit,2015,64179,peace_now
+Modi'in Ilit,2016,66847,peace_now
+Modi'in Ilit,2017,70081,peace_now
+Modi'in Ilit,2018,73080,peace_now
+Modi'in Ilit,2019,76374,peace_now
+Modi'in Ilit,2020,77967,peace_now
+Modi'in Ilit,2021,80997,peace_now
+Modi'in Ilit,2022,83356,peace_now
+Modi'in Ilit,2023,87486,peace_now
+Modi'in Ilit,2024,86816,peace_now
+Modi'in Ilit,2025,92339,jvl
+Na'ale,1993,139,peace_now
+Na'ale,1994,149,peace_now
+Na'ale,1995,140,peace_now
+Na'ale,1996,127,peace_now
+Na'ale,1997,125,peace_now
+Na'ale,1998,104,peace_now
+Na'ale,1999,105,peace_now
+Na'ale,2000,137,peace_now
+Na'ale,2001,334,peace_now
+Na'ale,2002,492,peace_now
+Na'ale,2003,556,peace_now
+Na'ale,2004,600,peace_now
+Na'ale,2005,623,peace_now
+Na'ale,2006,655,peace_now
+Na'ale,2007,710,peace_now
+Na'ale,2008,749,peace_now
+Na'ale,2009,935,peace_now
+Na'ale,2010,1035,peace_now
+Na'ale,2011,1094,peace_now
+Na'ale,2012,1203,peace_now
+Na'ale,2013,1324,peace_now
+Na'ale,2014,1441,peace_now
+Na'ale,2015,1573,peace_now
+Na'ale,2016,1661,peace_now
+Na'ale,2017,1804,peace_now
+Na'ale,2018,1942,peace_now
+Na'ale,2019,2148,peace_now
+Na'ale,2020,2343,peace_now
+Na'ale,2021,2608,peace_now
+Na'ale,2022,2839,peace_now
+Na'ale,2023,2834,peace_now
+Na'ale,2024,2955,peace_now
+Na'aleh,2025,2979,jvl
+Na'ama,1993,106,peace_now
+Na'ama,1994,122,peace_now
+Na'ama,1995,129,peace_now
+Na'ama,1996,131,peace_now
+Na'ama,1997,132,peace_now
+Na'ama,1998,133,peace_now
+Na'ama,1999,133,peace_now
+Na'ama,2000,127,peace_now
+Na'ama,2001,129,peace_now
+Na'ama,2002,129,peace_now
+Na'ama,2003,123,peace_now
+Na'ama,2004,127,peace_now
+Na'ama,2005,130,peace_now
+Na'ama,2006,129,peace_now
+Na'ama,2007,128,peace_now
+Na'ama,2008,122,peace_now
+Na'ama,2009,102,peace_now
+Na'ama,2010,100,peace_now
+Na'ama,2011,95,peace_now
+Na'ama,2012,98,peace_now
+Na'ama,2013,100,peace_now
+Na'ama,2014,107,peace_now
+Na'ama,2015,118,peace_now
+Na'ama,2016,116,peace_now
+Na'ama,2017,135,peace_now
+Na'ama,2018,151,peace_now
+Na'ama,2019,166,peace_now
+Na'ama,2020,169,peace_now
+Na'ama,2021,194,peace_now
+Na'ama,2022,247,peace_now
+Na'ama,2023,311,peace_now
+Na'ama,2024,291,peace_now
+Naama,2025,343,jvl
+Nachliel,2025,1008,jvl
+Nahliel,1993,220,peace_now
+Nahliel,1994,214,peace_now
+Nahliel,1995,227,peace_now
+Nahliel,1996,215,peace_now
+Nahliel,1997,230,peace_now
+Nahliel,1998,215,peace_now
+Nahliel,1999,230,peace_now
+Nahliel,2000,244,peace_now
+Nahliel,2001,221,peace_now
+Nahliel,2002,231,peace_now
+Nahliel,2003,248,peace_now
+Nahliel,2004,282,peace_now
+Nahliel,2005,264,peace_now
+Nahliel,2006,278,peace_now
+Nahliel,2007,335,peace_now
+Nahliel,2008,374,peace_now
+Nahliel,2009,392,peace_now
+Nahliel,2010,412,peace_now
+Nahliel,2011,464,peace_now
+Nahliel,2012,496,peace_now
+Nahliel,2013,548,peace_now
+Nahliel,2014,583,peace_now
+Nahliel,2015,665,peace_now
+Nahliel,2016,639,peace_now
+Nahliel,2017,663,peace_now
+Nahliel,2018,713,peace_now
+Nahliel,2019,725,peace_now
+Nahliel,2020,735,peace_now
+Nahliel,2021,737,peace_now
+Nahliel,2022,743,peace_now
+Nahliel,2023,724,peace_now
+Nahliel,2024,747,peace_now
+Negohot,2003,134,peace_now
+Negohot,2004,135,peace_now
+Negohot,2005,150,peace_now
+Negohot,2006,172,peace_now
+Negohot,2007,182,peace_now
+Negohot,2008,194,peace_now
+Negohot,2009,223,peace_now
+Negohot,2010,245,peace_now
+Negohot,2011,266,peace_now
+Negohot,2012,258,peace_now
+Negohot,2013,277,peace_now
+Negohot,2014,271,peace_now
+Negohot,2015,288,peace_now
+Negohot,2016,289,peace_now
+Negohot,2017,332,peace_now
+Negohot,2018,356,peace_now
+Negohot,2019,352,peace_now
+Negohot,2020,376,peace_now
+Negohot,2021,468,peace_now
+Negohot,2022,514,peace_now
+Negohot,2023,534,peace_now
+Negohot,2024,566,peace_now
+Negohot,2025,682,jvl
+Neriya,2025,7,jvl
+Netiv Ha'gdud,1993,205,peace_now
+Netiv Ha'gdud,1994,201,peace_now
+Netiv Ha'gdud,1995,194,peace_now
+Netiv Ha'gdud,1996,139,peace_now
+Netiv Ha'gdud,1997,136,peace_now
+Netiv Ha'gdud,1998,145,peace_now
+Netiv Ha'gdud,1999,143,peace_now
+Netiv Ha'gdud,2000,139,peace_now
+Netiv Ha'gdud,2001,133,peace_now
+Netiv Ha'gdud,2002,132,peace_now
+Netiv Ha'gdud,2003,120,peace_now
+Netiv Ha'gdud,2004,132,peace_now
+Netiv Ha'gdud,2005,127,peace_now
+Netiv Ha'gdud,2006,125,peace_now
+Netiv Ha'gdud,2007,114,peace_now
+Netiv Ha'gdud,2008,108,peace_now
+Netiv Ha'gdud,2009,175,peace_now
+Netiv Ha'gdud,2010,186,peace_now
+Netiv Ha'gdud,2011,176,peace_now
+Netiv Ha'gdud,2012,162,peace_now
+Netiv Ha'gdud,2013,170,peace_now
+Netiv Ha'gdud,2014,179,peace_now
+Netiv Ha'gdud,2015,181,peace_now
+Netiv Ha'gdud,2016,190,peace_now
+Netiv Ha'gdud,2017,191,peace_now
+Netiv Ha'gdud,2018,199,peace_now
+Netiv Ha'gdud,2019,212,peace_now
+Netiv Ha'gdud,2020,222,peace_now
+Netiv Ha'gdud,2021,220,peace_now
+Netiv Ha'gdud,2022,214,peace_now
+Netiv Ha'gdud,2023,214,peace_now
+Netiv Ha'gdud,2024,211,peace_now
+Netiv HaGedud,2025,245,jvl
+Neve Daniel,1993,491,peace_now
+Neve Daniel,1994,576,peace_now
+Neve Daniel,1995,655,peace_now
+Neve Daniel,1996,603,peace_now
+Neve Daniel,1997,691,peace_now
+Neve Daniel,1998,780,peace_now
+Neve Daniel,1999,868,peace_now
+Neve Daniel,2000,933,peace_now
+Neve Daniel,2001,977,peace_now
+Neve Daniel,2002,1020,peace_now
+Neve Daniel,2003,1073,peace_now
+Neve Daniel,2004,1225,peace_now
+Neve Daniel,2005,1467,peace_now
+Neve Daniel,2006,1609,peace_now
+Neve Daniel,2007,1760,peace_now
+Neve Daniel,2008,1883,peace_now
+Neve Daniel,2009,1735,peace_now
+Neve Daniel,2010,1824,peace_now
+Neve Daniel,2011,1978,peace_now
+Neve Daniel,2012,2058,peace_now
+Neve Daniel,2013,2149,peace_now
+Neve Daniel,2014,2174,peace_now
+Neve Daniel,2015,2275,peace_now
+Neve Daniel,2016,2278,peace_now
+Neve Daniel,2017,2370,peace_now
+Neve Daniel,2018,2315,peace_now
+Neve Daniel,2019,2322,peace_now
+Neve Daniel,2020,2340,peace_now
+Neve Daniel,2021,2360,peace_now
+Neve Daniel,2022,2354,peace_now
+Neve Daniel,2023,2433,peace_now
+Neve Daniel,2024,2383,peace_now
+Neve Daniel,2025,2957,jvl
+Nili,1993,412,peace_now
+Nili,1994,440,peace_now
+Nili,1995,517,peace_now
+Nili,1996,539,peace_now
+Nili,1997,599,peace_now
+Nili,1998,639,peace_now
+Nili,1999,666,peace_now
+Nili,2000,721,peace_now
+Nili,2001,754,peace_now
+Nili,2002,769,peace_now
+Nili,2003,806,peace_now
+Nili,2004,829,peace_now
+Nili,2005,852,peace_now
+Nili,2006,886,peace_now
+Nili,2007,912,peace_now
+Nili,2008,913,peace_now
+Nili,2009,846,peace_now
+Nili,2010,846,peace_now
+Nili,2011,884,peace_now
+Nili,2012,968,peace_now
+Nili,2013,1076,peace_now
+Nili,2014,1276,peace_now
+Nili,2015,1438,peace_now
+Nili,2016,1552,peace_now
+Nili,2017,1597,peace_now
+Nili,2018,1714,peace_now
+Nili,2019,1786,peace_now
+Nili,2020,1848,peace_now
+Nili,2021,1878,peace_now
+Nili,2022,2059,peace_now
+Nili,2023,2203,peace_now
+Nili,2024,2148,peace_now
+Nili,2025,2283,jvl
+Niran,1996,67,peace_now
+Niran,1997,62,peace_now
+Niran,1998,58,peace_now
+Niran,1999,45,peace_now
+Niran,2000,56,peace_now
+Niran,2001,58,peace_now
+Niran,2002,56,peace_now
+Niran,2003,52,peace_now
+Niran,2004,53,peace_now
+Niran,2005,49,peace_now
+Niran,2006,52,peace_now
+Niran,2007,56,peace_now
+Niran,2008,54,peace_now
+Niran,2009,54,peace_now
+Niran,2010,52,peace_now
+Niran,2011,58,peace_now
+Niran,2012,69,peace_now
+Niran,2013,71,peace_now
+Niran,2014,81,peace_now
+Niran,2015,85,peace_now
+Niran,2016,91,peace_now
+Niran,2017,92,peace_now
+Niran,2018,92,peace_now
+Niran,2019,101,peace_now
+Niran,2020,105,peace_now
+Niran,2021,104,peace_now
+Niran,2022,109,peace_now
+Niran,2023,146,peace_now
+Niran,2024,128,peace_now
+Niran,2025,155,jvl
+Nofey Prat,2025,1,jvl
+Nofim,1993,261,peace_now
+Nofim,1994,270,peace_now
+Nofim,1995,286,peace_now
+Nofim,1996,309,peace_now
+Nofim,1997,323,peace_now
+Nofim,1998,343,peace_now
+Nofim,1999,362,peace_now
+Nofim,2000,385,peace_now
+Nofim,2001,388,peace_now
+Nofim,2002,398,peace_now
+Nofim,2003,402,peace_now
+Nofim,2004,414,peace_now
+Nofim,2005,400,peace_now
+Nofim,2006,409,peace_now
+Nofim,2007,406,peace_now
+Nofim,2008,410,peace_now
+Nofim,2009,409,peace_now
+Nofim,2010,421,peace_now
+Nofim,2011,433,peace_now
+Nofim,2012,437,peace_now
+Nofim,2013,464,peace_now
+Nofim,2014,549,peace_now
+Nofim,2015,638,peace_now
+Nofim,2016,690,peace_now
+Nofim,2017,720,peace_now
+Nofim,2018,794,peace_now
+Nofim,2019,865,peace_now
+Nofim,2020,949,peace_now
+Nofim,2021,1042,peace_now
+Nofim,2022,1174,peace_now
+Nofim,2023,1392,peace_now
+Nofim,2024,1315,peace_now
+Nofim,2025,1586,jvl
+Nokdim,1993,265,peace_now
+Nokdim,1994,316,peace_now
+Nokdim,1995,348,peace_now
+Nokdim,1996,305,peace_now
+Nokdim,1997,330,peace_now
+Nokdim,1998,435,peace_now
+Nokdim,1999,526,peace_now
+Nokdim,2000,611,peace_now
+Nokdim,2001,618,peace_now
+Nokdim,2002,615,peace_now
+Nokdim,2003,646,peace_now
+Nokdim,2004,674,peace_now
+Nokdim,2005,729,peace_now
+Nokdim,2006,782,peace_now
+Nokdim,2007,828,peace_now
+Nokdim,2008,886,peace_now
+Nokdim,2009,1308,peace_now
+Nokdim,2010,1413,peace_now
+Nokdim,2011,1461,peace_now
+Nokdim,2012,1561,peace_now
+Nokdim,2013,1708,peace_now
+Nokdim,2014,1836,peace_now
+Nokdim,2015,1937,peace_now
+Nokdim,2016,2052,peace_now
+Nokdim,2017,2160,peace_now
+Nokdim,2018,2250,peace_now
+Nokdim,2019,2383,peace_now
+Nokdim,2020,2590,peace_now
+Nokdim,2021,2764,peace_now
+Nokdim,2022,3094,peace_now
+Nokdim,2023,3327,peace_now
+Nokdim,2024,3524,peace_now
+Nokdim,2025,3668,jvl
+Ofarim,1996,351,peace_now
+Ofarim,1997,476,peace_now
+Ofarim,1998,516,peace_now
+Ofarim,1999,623,peace_now
+Ofarim,2000,686,peace_now
+Ofarim,2001,763,peace_now
+Ofarim,2002,810,peace_now
+Ofarim,2003,870,peace_now
+Ofra,1993,1210,peace_now
+Ofra,1994,1270,peace_now
+Ofra,1995,1330,peace_now
+Ofra,1996,1310,peace_now
+Ofra,1997,1420,peace_now
+Ofra,1998,1800,peace_now
+Ofra,1999,1870,peace_now
+Ofra,2000,1880,peace_now
+Ofra,2001,2020,peace_now
+Ofra,2002,2060,peace_now
+Ofra,2003,2214,peace_now
+Ofra,2004,2264,peace_now
+Ofra,2005,2384,peace_now
+Ofra,2006,2531,peace_now
+Ofra,2007,2664,peace_now
+Ofra,2008,2735,peace_now
+Ofra,2009,3183,peace_now
+Ofra,2010,3296,peace_now
+Ofra,2011,3400,peace_now
+Ofra,2012,3489,peace_now
+Ofra,2013,3552,peace_now
+Ofra,2014,3137,peace_now
+Ofra,2015,3189,peace_now
+Ofra,2016,3605,peace_now
+Ofra,2017,3607,peace_now
+Ofra,2018,3039,peace_now
+Ofra,2019,3043,peace_now
+Ofra,2020,3012,peace_now
+Ofra,2021,3025,peace_now
+Ofra,2022,3497,peace_now
+Ofra,2023,3191,peace_now
+Ofra,2024,3488,peace_now
+Ofra,2025,3332,jvl
+Oranit,1993,3160,peace_now
+Oranit,1994,3380,peace_now
+Oranit,1995,3610,peace_now
+Oranit,1996,4050,peace_now
+Oranit,1997,4340,peace_now
+Oranit,1998,4490,peace_now
+Oranit,1999,4780,peace_now
+Oranit,2000,5070,peace_now
+Oranit,2001,5150,peace_now
+Oranit,2002,5190,peace_now
+Oranit,2003,5316,peace_now
+Oranit,2004,5458,peace_now
+Oranit,2005,5585,peace_now
+Oranit,2006,5782,peace_now
+Oranit,2007,5987,peace_now
+Oranit,2008,6328,peace_now
+Oranit,2009,5917,peace_now
+Oranit,2010,6205,peace_now
+Oranit,2011,6600,peace_now
+Oranit,2012,7195,peace_now
+Oranit,2013,7626,peace_now
+Oranit,2014,8086,peace_now
+Oranit,2015,8495,peace_now
+Oranit,2016,8652,peace_now
+Oranit,2017,8655,peace_now
+Oranit,2018,8807,peace_now
+Oranit,2019,8955,peace_now
+Oranit,2020,8966,peace_now
+Oranit,2021,9113,peace_now
+Oranit,2022,9295,peace_now
+Oranit,2023,10055,peace_now
+Oranit,2024,9397,peace_now
+Oranit,2025,10212,jvl
+Otniel,1993,216,peace_now
+Otniel,1994,230,peace_now
+Otniel,1995,315,peace_now
+Otniel,1996,432,peace_now
+Otniel,1997,484,peace_now
+Otniel,1998,507,peace_now
+Otniel,1999,553,peace_now
+Otniel,2000,560,peace_now
+Otniel,2001,571,peace_now
+Otniel,2002,619,peace_now
+Otniel,2003,698,peace_now
+Otniel,2004,692,peace_now
+Otniel,2005,747,peace_now
+Otniel,2006,752,peace_now
+Otniel,2007,763,peace_now
+Otniel,2008,758,peace_now
+Otniel,2009,802,peace_now
+Otniel,2010,787,peace_now
+Otniel,2011,846,peace_now
+Otniel,2012,927,peace_now
+Otniel,2013,953,peace_now
+Otniel,2014,862,peace_now
+Otniel,2015,909,peace_now
+Otniel,2016,976,peace_now
+Otniel,2017,1003,peace_now
+Otniel,2018,1037,peace_now
+Otniel,2019,1044,peace_now
+Otniel,2020,980,peace_now
+Otniel,2021,994,peace_now
+Otniel,2022,1041,peace_now
+Otniel,2023,1016,peace_now
+Otniel,2024,1049,peace_now
+Otniel,2025,969,jvl
+Ovnat,2009,100,peace_now
+Ovnat,2010,101,peace_now
+Ovnat,2011,119,peace_now
+Ovnat,2012,97,peace_now
+Ovnat,2013,112,peace_now
+Ovnat,2014,110,peace_now
+Ovnat,2015,128,peace_now
+Ovnat,2016,193,peace_now
+Ovnat,2017,201,peace_now
+Ovnat,2018,185,peace_now
+Ovnat,2019,237,peace_now
+Ovnat,2020,255,peace_now
+Ovnat,2021,260,peace_now
+Ovnat,2022,249,peace_now
+Ovnat,2023,271,peace_now
+Ovnat,2024,286,peace_now
+Pedu'el,1993,342,peace_now
+Pedu'el,1994,421,peace_now
+Pedu'el,1995,498,peace_now
+Pedu'el,1996,633,peace_now
+Pedu'el,1997,710,peace_now
+Pedu'el,1998,747,peace_now
+Pedu'el,1999,834,peace_now
+Pedu'el,2000,885,peace_now
+Pedu'el,2001,899,peace_now
+Pedu'el,2002,1010,peace_now
+Pedu'el,2003,1088,peace_now
+Pedu'el,2004,1219,peace_now
+Pedu'el,2005,1113,peace_now
+Pedu'el,2006,1116,peace_now
+Pedu'el,2007,1168,peace_now
+Pedu'el,2008,1227,peace_now
+Pedu'el,2009,1096,peace_now
+Pedu'el,2010,1185,peace_now
+Pedu'el,2011,1246,peace_now
+Pedu'el,2012,1315,peace_now
+Pedu'el,2013,1371,peace_now
+Pedu'el,2014,1475,peace_now
+Pedu'el,2015,1622,peace_now
+Pedu'el,2016,1682,peace_now
+Pedu'el,2017,1746,peace_now
+Pedu'el,2018,1910,peace_now
+Pedu'el,2019,2009,peace_now
+Pedu'el,2020,2044,peace_now
+Pedu'el,2021,2098,peace_now
+Pedu'el,2022,2084,peace_now
+Pedu'el,2023,2214,peace_now
+Pedu'el,2024,2114,peace_now
+Peduel,2025,2292,jvl
+Pene Hever,2025,643,jvl
+Petzael,1993,309,peace_now
+Petzael,1994,311,peace_now
+Petzael,1995,315,peace_now
+Petzael,1996,233,peace_now
+Petzael,1997,238,peace_now
+Petzael,1998,224,peace_now
+Petzael,1999,228,peace_now
+Petzael,2000,224,peace_now
+Petzael,2001,220,peace_now
+Petzael,2002,216,peace_now
+Petzael,2003,213,peace_now
+Petzael,2004,215,peace_now
+Petzael,2005,215,peace_now
+Petzael,2006,214,peace_now
+Petzael,2007,217,peace_now
+Petzael,2008,211,peace_now
+Petzael,2009,205,peace_now
+Petzael,2010,214,peace_now
+Petzael,2011,209,peace_now
+Petzael,2012,216,peace_now
+Petzael,2013,223,peace_now
+Petzael,2014,244,peace_now
+Petzael,2015,250,peace_now
+Petzael,2016,257,peace_now
+Petzael,2017,262,peace_now
+Petzael,2018,283,peace_now
+Petzael,2019,304,peace_now
+Petzael,2020,322,peace_now
+Petzael,2021,361,peace_now
+Petzael,2022,371,peace_now
+Petzael,2023,534,peace_now
+Petzael,2024,393,peace_now
+Pnei Hever,1993,104,peace_now
+Pnei Hever,1994,98,peace_now
+Pnei Hever,1995,121,peace_now
+Pnei Hever,1996,238,peace_now
+Pnei Hever,1997,256,peace_now
+Pnei Hever,1998,267,peace_now
+Pnei Hever,1999,266,peace_now
+Pnei Hever,2000,304,peace_now
+Pnei Hever,2001,339,peace_now
+Pnei Hever,2002,355,peace_now
+Pnei Hever,2003,376,peace_now
+Pnei Hever,2004,377,peace_now
+Pnei Hever,2005,375,peace_now
+Pnei Hever,2006,392,peace_now
+Pnei Hever,2007,396,peace_now
+Pnei Hever,2008,421,peace_now
+Pnei Hever,2009,370,peace_now
+Pnei Hever,2010,380,peace_now
+Pnei Hever,2011,380,peace_now
+Pnei Hever,2012,398,peace_now
+Pnei Hever,2013,431,peace_now
+Pnei Hever,2014,423,peace_now
+Pnei Hever,2015,432,peace_now
+Pnei Hever,2016,548,peace_now
+Pnei Hever,2017,561,peace_now
+Pnei Hever,2018,586,peace_now
+Pnei Hever,2019,635,peace_now
+Pnei Hever,2020,678,peace_now
+Pnei Hever,2021,729,peace_now
+Pnei Hever,2022,743,peace_now
+Pnei Hever,2023,622,peace_now
+Pnei Hever,2024,757,peace_now
+Psagot,1993,751,peace_now
+Psagot,1994,778,peace_now
+Psagot,1995,864,peace_now
+Psagot,1996,867,peace_now
+Psagot,1997,910,peace_now
+Psagot,1998,994,peace_now
+Psagot,1999,1030,peace_now
+Psagot,2000,1090,peace_now
+Psagot,2001,1070,peace_now
+Psagot,2002,1180,peace_now
+Psagot,2003,1278,peace_now
+Psagot,2004,1388,peace_now
+Psagot,2005,1464,peace_now
+Psagot,2006,1489,peace_now
+Psagot,2007,1545,peace_now
+Psagot,2008,1623,peace_now
+Psagot,2009,1563,peace_now
+Psagot,2010,1658,peace_now
+Psagot,2011,1693,peace_now
+Psagot,2012,1728,peace_now
+Psagot,2013,1775,peace_now
+Psagot,2014,1904,peace_now
+Psagot,2015,1902,peace_now
+Psagot,2016,1847,peace_now
+Psagot,2017,1848,peace_now
+Psagot,2018,1903,peace_now
+Psagot,2019,1881,peace_now
+Psagot,2020,2037,peace_now
+Psagot,2021,2077,peace_now
+Psagot,2022,2086,peace_now
+Psagot,2023,2208,peace_now
+Psagot,2024,2155,peace_now
+Psagot,2025,2376,jvl
+Rachelim,2025,1321,jvl
+Rechan,2025,526,jvl
+Rechelim,2013,414,peace_now
+Rechelim,2014,529,peace_now
+Rechelim,2015,583,peace_now
+Rechelim,2016,668,peace_now
+Rechelim,2017,747,peace_now
+Rechelim,2018,790,peace_now
+Rechelim,2019,802,peace_now
+Rechelim,2020,906,peace_now
+Rechelim,2021,975,peace_now
+Rechelim,2022,1062,peace_now
+Rechelim,2023,1189,peace_now
+Rechelim,2024,1175,peace_now
+Reihan,1994,111,peace_now
+Reihan,1995,105,peace_now
+Reihan,1996,90,peace_now
+Reihan,1997,103,peace_now
+Reihan,1998,99,peace_now
+Reihan,1999,100,peace_now
+Reihan,2000,120,peace_now
+Reihan,2001,125,peace_now
+Reihan,2002,131,peace_now
+Reihan,2003,129,peace_now
+Reihan,2004,148,peace_now
+Reihan,2005,150,peace_now
+Reihan,2006,153,peace_now
+Reihan,2007,158,peace_now
+Reihan,2008,171,peace_now
+Reihan,2009,164,peace_now
+Reihan,2010,177,peace_now
+Reihan,2011,181,peace_now
+Reihan,2012,174,peace_now
+Reihan,2013,185,peace_now
+Reihan,2014,183,peace_now
+Reihan,2015,213,peace_now
+Reihan,2016,224,peace_now
+Reihan,2017,265,peace_now
+Reihan,2018,308,peace_now
+Reihan,2019,329,peace_now
+Reihan,2020,352,peace_now
+Reihan,2021,384,peace_now
+Reihan,2022,408,peace_now
+Reihan,2023,499,peace_now
+Reihan,2024,445,peace_now
+Revava,1994,108,peace_now
+Revava,1995,145,peace_now
+Revava,1996,221,peace_now
+Revava,1997,282,peace_now
+Revava,1998,332,peace_now
+Revava,1999,389,peace_now
+Revava,2000,504,peace_now
+Revava,2001,552,peace_now
+Revava,2002,633,peace_now
+Revava,2003,703,peace_now
+Revava,2004,738,peace_now
+Revava,2005,827,peace_now
+Revava,2006,909,peace_now
+Revava,2007,989,peace_now
+Revava,2008,1075,peace_now
+Revava,2009,1113,peace_now
+Revava,2010,1262,peace_now
+Revava,2011,1395,peace_now
+Revava,2012,1545,peace_now
+Revava,2013,1682,peace_now
+Revava,2014,1805,peace_now
+Revava,2015,1974,peace_now
+Revava,2016,2181,peace_now
+Revava,2017,2389,peace_now
+Revava,2018,2466,peace_now
+Revava,2019,2632,peace_now
+Revava,2020,2786,peace_now
+Revava,2021,2908,peace_now
+Revava,2022,2950,peace_now
+Revava,2023,3195,peace_now
+Revava,2024,3060,peace_now
+Revava,2025,3378,jvl
+Rimonim,1993,399,peace_now
+Rimonim,1994,406,peace_now
+Rimonim,1995,426,peace_now
+Rimonim,1996,389,peace_now
+Rimonim,1997,390,peace_now
+Rimonim,1998,434,peace_now
+Rimonim,1999,474,peace_now
+Rimonim,2000,499,peace_now
+Rimonim,2001,725,peace_now
+Rimonim,2002,509,peace_now
+Rimonim,2003,512,peace_now
+Rimonim,2004,536,peace_now
+Rimonim,2005,561,peace_now
+Rimonim,2006,565,peace_now
+Rimonim,2007,619,peace_now
+Rimonim,2008,602,peace_now
+Rimonim,2009,616,peace_now
+Rimonim,2010,632,peace_now
+Rimonim,2011,566,peace_now
+Rimonim,2012,572,peace_now
+Rimonim,2013,544,peace_now
+Rimonim,2014,564,peace_now
+Rimonim,2015,598,peace_now
+Rimonim,2016,625,peace_now
+Rimonim,2017,675,peace_now
+Rimonim,2018,687,peace_now
+Rimonim,2019,700,peace_now
+Rimonim,2020,698,peace_now
+Rimonim,2021,715,peace_now
+Rimonim,2022,707,peace_now
+Rimonim,2023,707,peace_now
+Rimonim,2024,688,peace_now
+Rimonim,2025,722,jvl
+Ro'i,1993,152,peace_now
+Ro'i,1994,158,peace_now
+Ro'i,1995,163,peace_now
+Ro'i,1996,115,peace_now
+Ro'i,1997,127,peace_now
+Ro'i,1998,127,peace_now
+Ro'i,1999,133,peace_now
+Ro'i,2000,141,peace_now
+Ro'i,2001,131,peace_now
+Ro'i,2002,122,peace_now
+Ro'i,2003,118,peace_now
+Ro'i,2004,115,peace_now
+Ro'i,2005,117,peace_now
+Ro'i,2006,128,peace_now
+Ro'i,2007,126,peace_now
+Ro'i,2008,122,peace_now
+Ro'i,2009,150,peace_now
+Ro'i,2010,157,peace_now
+Ro'i,2011,153,peace_now
+Ro'i,2012,154,peace_now
+Ro'i,2013,148,peace_now
+Ro'i,2014,153,peace_now
+Ro'i,2015,162,peace_now
+Ro'i,2016,165,peace_now
+Ro'i,2017,168,peace_now
+Ro'i,2018,169,peace_now
+Ro'i,2019,175,peace_now
+Ro'i,2020,170,peace_now
+Ro'i,2021,171,peace_now
+Ro'i,2022,170,peace_now
+Ro'i,2023,154,peace_now
+Ro'i,2024,175,peace_now
+Roi,2025,165,jvl
+Rosh Tzurim,1993,245,peace_now
+Rosh Tzurim,1994,269,peace_now
+Rosh Tzurim,1995,269,peace_now
+Rosh Tzurim,1996,251,peace_now
+Rosh Tzurim,1997,292,peace_now
+Rosh Tzurim,1998,299,peace_now
+Rosh Tzurim,1999,290,peace_now
+Rosh Tzurim,2000,265,peace_now
+Rosh Tzurim,2001,244,peace_now
+Rosh Tzurim,2002,247,peace_now
+Rosh Tzurim,2003,263,peace_now
+Rosh Tzurim,2004,298,peace_now
+Rosh Tzurim,2005,364,peace_now
+Rosh Tzurim,2006,422,peace_now
+Rosh Tzurim,2007,470,peace_now
+Rosh Tzurim,2008,550,peace_now
+Rosh Tzurim,2009,555,peace_now
+Rosh Tzurim,2010,606,peace_now
+Rosh Tzurim,2011,730,peace_now
+Rosh Tzurim,2012,855,peace_now
+Rosh Tzurim,2013,908,peace_now
+Rosh Tzurim,2014,910,peace_now
+Rosh Tzurim,2015,915,peace_now
+Rosh Tzurim,2016,934,peace_now
+Rosh Tzurim,2017,934,peace_now
+Rosh Tzurim,2018,926,peace_now
+Rosh Tzurim,2019,933,peace_now
+Rosh Tzurim,2020,947,peace_now
+Rosh Tzurim,2021,948,peace_now
+Rosh Tzurim,2022,978,peace_now
+Rosh Tzurim,2023,1115,peace_now
+Rosh Tzurim,2024,1056,peace_now
+Rosh Tzurim,2025,1161,jvl
+Rotem,2012,110,peace_now
+Rotem,2013,131,peace_now
+Rotem,2014,157,peace_now
+Rotem,2015,168,peace_now
+Rotem,2016,196,peace_now
+Rotem,2017,207,peace_now
+Rotem,2018,212,peace_now
+Rotem,2019,228,peace_now
+Rotem,2020,242,peace_now
+Rotem,2021,262,peace_now
+Rotem,2022,275,peace_now
+Rotem,2023,311,peace_now
+Rotem,2024,289,peace_now
+Rotem,2025,320,jvl
+Sa-Nur,2025,14,jvl
+Sal'it,1993,326,peace_now
+Sal'it,1994,329,peace_now
+Sal'it,1995,340,peace_now
+Sal'it,1996,305,peace_now
+Sal'it,1997,325,peace_now
+Sal'it,1998,339,peace_now
+Sal'it,1999,377,peace_now
+Sal'it,2000,410,peace_now
+Sal'it,2001,425,peace_now
+Sal'it,2002,439,peace_now
+Sal'it,2003,441,peace_now
+Sal'it,2004,443,peace_now
+Sal'it,2005,447,peace_now
+Sal'it,2006,429,peace_now
+Sal'it,2007,474,peace_now
+Sal'it,2008,465,peace_now
+Sal'it,2009,498,peace_now
+Sal'it,2010,525,peace_now
+Sal'it,2011,524,peace_now
+Sal'it,2012,542,peace_now
+Sal'it,2013,558,peace_now
+Sal'it,2014,604,peace_now
+Sal'it,2015,693,peace_now
+Sal'it,2016,818,peace_now
+Sal'it,2017,1010,peace_now
+Sal'it,2018,1190,peace_now
+Sal'it,2019,1331,peace_now
+Sal'it,2020,1409,peace_now
+Sal'it,2021,1426,peace_now
+Sal'it,2022,1450,peace_now
+Sal'it,2023,1437,peace_now
+Sal'it,2024,1483,peace_now
+Salit,2025,1626,jvl
+Sansana,2013,245,peace_now
+Sansana,2014,284,peace_now
+Sansana,2015,334,peace_now
+Sansana,2016,377,peace_now
+Sansana,2017,408,peace_now
+Sansana,2018,458,peace_now
+Sansana,2019,519,peace_now
+Sansana,2020,577,peace_now
+Sansana,2021,665,peace_now
+Sansana,2022,716,peace_now
+Sansana,2023,842,peace_now
+Sansana,2024,719,peace_now
+Sansena,2025,875,jvl
+Sha'arei Tikva,1993,1810,peace_now
+Sha'arei Tikva,1994,2010,peace_now
+Sha'arei Tikva,1995,2260,peace_now
+Sha'arei Tikva,1996,2430,peace_now
+Sha'arei Tikva,1997,2740,peace_now
+Sha'arei Tikva,1998,3030,peace_now
+Sha'arei Tikva,1999,3220,peace_now
+Sha'arei Tikva,2000,3380,peace_now
+Sha'arei Tikva,2001,3510,peace_now
+Sha'arei Tikva,2002,3650,peace_now
+Sha'arei Tikva,2003,3692,peace_now
+Sha'arei Tikva,2004,3685,peace_now
+Sha'arei Tikva,2005,3709,peace_now
+Sha'arei Tikva,2006,3773,peace_now
+Sha'arei Tikva,2007,3931,peace_now
+Sha'arei Tikva,2008,4084,peace_now
+Sha'arei Tikva,2009,4493,peace_now
+Sha'arei Tikva,2010,4727,peace_now
+Sha'arei Tikva,2011,4930,peace_now
+Sha'arei Tikva,2012,5100,peace_now
+Sha'arei Tikva,2013,5259,peace_now
+Sha'arei Tikva,2014,5451,peace_now
+Sha'arei Tikva,2015,5638,peace_now
+Sha'arei Tikva,2016,5811,peace_now
+Sha'arei Tikva,2017,5921,peace_now
+Sha'arei Tikva,2018,6011,peace_now
+Sha'arei Tikva,2019,6040,peace_now
+Sha'arei Tikva,2020,6056,peace_now
+Sha'arei Tikva,2021,6124,peace_now
+Shaar Shomron,2022,8820,peace_now
+Shaar Shomron,2023,8839,peace_now
+Shaar Shomron,2024,9027,peace_now
+Shaar Shomron,2025,9024,jvl
+Shacharit,2025,21,jvl
+Shadmot Mehola,1993,252,peace_now
+Shadmot Mehola,1994,258,peace_now
+Shadmot Mehola,1995,279,peace_now
+Shadmot Mehola,1996,330,peace_now
+Shadmot Mehola,1997,348,peace_now
+Shadmot Mehola,1998,370,peace_now
+Shadmot Mehola,1999,400,peace_now
+Shadmot Mehola,2000,399,peace_now
+Shadmot Mehola,2001,449,peace_now
+Shadmot Mehola,2002,487,peace_now
+Shadmot Mehola,2003,507,peace_now
+Shadmot Mehola,2004,517,peace_now
+Shadmot Mehola,2005,516,peace_now
+Shadmot Mehola,2006,536,peace_now
+Shadmot Mehola,2007,542,peace_now
+Shadmot Mehola,2008,538,peace_now
+Shadmot Mehola,2009,493,peace_now
+Shadmot Mehola,2010,494,peace_now
+Shadmot Mehola,2011,508,peace_now
+Shadmot Mehola,2012,512,peace_now
+Shadmot Mehola,2013,540,peace_now
+Shadmot Mehola,2014,544,peace_now
+Shadmot Mehola,2015,553,peace_now
+Shadmot Mehola,2016,608,peace_now
+Shadmot Mehola,2017,652,peace_now
+Shadmot Mehola,2018,645,peace_now
+Shadmot Mehola,2019,666,peace_now
+Shadmot Mehola,2020,665,peace_now
+Shadmot Mehola,2021,677,peace_now
+Shadmot Mehola,2022,702,peace_now
+Shadmot Mehola,2023,731,peace_now
+Shadmot Mehola,2024,699,peace_now
+Shadmot Mehola,2025,871,jvl
+Shaked,1993,393,peace_now
+Shaked,1994,409,peace_now
+Shaked,1995,455,peace_now
+Shaked,1996,413,peace_now
+Shaked,1997,439,peace_now
+Shaked,1998,447,peace_now
+Shaked,1999,468,peace_now
+Shaked,2000,497,peace_now
+Shaked,2001,522,peace_now
+Shaked,2002,539,peace_now
+Shaked,2003,524,peace_now
+Shaked,2004,509,peace_now
+Shaked,2005,527,peace_now
+Shaked,2006,536,peace_now
+Shaked,2007,525,peace_now
+Shaked,2008,546,peace_now
+Shaked,2009,614,peace_now
+Shaked,2010,661,peace_now
+Shaked,2011,686,peace_now
+Shaked,2012,724,peace_now
+Shaked,2013,744,peace_now
+Shaked,2014,779,peace_now
+Shaked,2015,851,peace_now
+Shaked,2016,864,peace_now
+Shaked,2017,936,peace_now
+Shaked,2018,972,peace_now
+Shaked,2019,961,peace_now
+Shaked,2020,1018,peace_now
+Shaked,2021,1081,peace_now
+Shaked,2022,1128,peace_now
+Shaked,2023,1147,peace_now
+Shaked,2024,1149,peace_now
+Shaked,2025,1192,jvl
+Shani,2025,548,jvl
+Shavei Shomron,1993,613,peace_now
+Shavei Shomron,1994,606,peace_now
+Shavei Shomron,1995,619,peace_now
+Shavei Shomron,1996,574,peace_now
+Shavei Shomron,1997,592,peace_now
+Shavei Shomron,1998,592,peace_now
+Shavei Shomron,1999,569,peace_now
+Shavei Shomron,2000,573,peace_now
+Shavei Shomron,2001,525,peace_now
+Shavei Shomron,2002,563,peace_now
+Shavei Shomron,2003,604,peace_now
+Shavei Shomron,2004,539,peace_now
+Shavei Shomron,2005,606,peace_now
+Shavei Shomron,2006,631,peace_now
+Shavei Shomron,2007,650,peace_now
+Shavei Shomron,2008,692,peace_now
+Shavei Shomron,2009,712,peace_now
+Shavei Shomron,2010,688,peace_now
+Shavei Shomron,2011,728,peace_now
+Shavei Shomron,2012,745,peace_now
+Shavei Shomron,2013,784,peace_now
+Shavei Shomron,2014,863,peace_now
+Shavei Shomron,2015,879,peace_now
+Shavei Shomron,2016,897,peace_now
+Shavei Shomron,2017,900,peace_now
+Shavei Shomron,2018,929,peace_now
+Shavei Shomron,2019,977,peace_now
+Shavei Shomron,2020,1031,peace_now
+Shavei Shomron,2021,1050,peace_now
+Shavei Shomron,2022,1083,peace_now
+Shavei Shomron,2023,1110,peace_now
+Shavei Shomron,2024,1112,peace_now
+Shavei Shomron,2025,1157,jvl
+Shilo,1993,866,peace_now
+Shilo,1994,915,peace_now
+Shilo,1995,1010,peace_now
+Shilo,1996,1250,peace_now
+Shilo,1997,1360,peace_now
+Shilo,1998,1450,peace_now
+Shilo,1999,1490,peace_now
+Shilo,2000,1580,peace_now
+Shilo,2001,1620,peace_now
+Shilo,2002,1710,peace_now
+Shilo,2003,1810,peace_now
+Shilo,2004,1825,peace_now
+Shilo,2005,1945,peace_now
+Shilo,2006,2068,peace_now
+Shilo,2007,2171,peace_now
+Shilo,2008,2303,peace_now
+Shilo,2009,2005,peace_now
+Shilo,2010,2172,peace_now
+Shilo,2011,2407,peace_now
+Shilo,2012,2706,peace_now
+Shilo,2013,2948,peace_now
+Shilo,2014,3113,peace_now
+Shilo,2015,3379,peace_now
+Shilo,2016,3727,peace_now
+Shilo,2017,3988,peace_now
+Shilo,2018,4153,peace_now
+Shilo,2019,4356,peace_now
+Shilo,2020,4483,peace_now
+Shilo,2021,4783,peace_now
+Shilo,2022,5072,peace_now
+Shilo,2023,5737,peace_now
+Shilo,2024,5458,peace_now
+Shilo,2025,6213,jvl
+Shim'a,1996,221,peace_now
+Shim'a,1997,237,peace_now
+Shim'a,1998,273,peace_now
+Shim'a,1999,263,peace_now
+Shim'a,2000,296,peace_now
+Shim'a,2001,336,peace_now
+Shim'a,2002,340,peace_now
+Shim'a,2003,357,peace_now
+Shim'a,2004,344,peace_now
+Shim'a,2005,349,peace_now
+Shim'a,2006,368,peace_now
+Shim'a,2007,370,peace_now
+Shim'a,2008,376,peace_now
+Shim'a,2009,304,peace_now
+Shim'a,2010,316,peace_now
+Shim'a,2011,315,peace_now
+Shim'a,2012,375,peace_now
+Shim'a,2013,404,peace_now
+Shim'a,2014,475,peace_now
+Shim'a,2015,538,peace_now
+Shim'a,2016,592,peace_now
+Shim'a,2017,649,peace_now
+Shim'a,2018,714,peace_now
+Shim'a,2019,741,peace_now
+Shim'a,2020,812,peace_now
+Shim'a,2021,886,peace_now
+Shim'a,2022,938,peace_now
+Shim'a,2023,1015,peace_now
+Shim'a,2024,1008,peace_now
+Shima,2025,979,jvl
+Shvut Rachel,2025,9,jvl
+Susiya,1993,260,peace_now
+Susiya,1994,269,peace_now
+Susiya,1995,282,peace_now
+Susiya,1996,359,peace_now
+Susiya,1997,383,peace_now
+Susiya,1998,415,peace_now
+Susiya,1999,468,peace_now
+Susiya,2000,482,peace_now
+Susiya,2001,525,peace_now
+Susiya,2002,585,peace_now
+Susiya,2003,643,peace_now
+Susiya,2004,663,peace_now
+Susiya,2005,700,peace_now
+Susiya,2006,737,peace_now
+Susiya,2007,754,peace_now
+Susiya,2008,792,peace_now
+Susiya,2009,841,peace_now
+Susiya,2010,923,peace_now
+Susiya,2011,971,peace_now
+Susiya,2012,950,peace_now
+Susiya,2013,978,peace_now
+Susiya,2014,1014,peace_now
+Susiya,2015,1041,peace_now
+Susiya,2016,1115,peace_now
+Susiya,2017,1170,peace_now
+Susiya,2018,1301,peace_now
+Susiya,2019,1339,peace_now
+Susiya,2020,1237,peace_now
+Susiya,2021,1376,peace_now
+Susiya,2022,1602,peace_now
+Susiya,2023,1567,peace_now
+Susiya,2024,1695,peace_now
+Susiya,2025,1650,jvl
+Talmon,1993,334,peace_now
+Talmon,1994,439,peace_now
+Talmon,1995,568,peace_now
+Talmon,1996,796,peace_now
+Talmon,1997,916,peace_now
+Talmon,1998,1010,peace_now
+Talmon,1999,1150,peace_now
+Talmon,2000,1250,peace_now
+Talmon,2001,1350,peace_now
+Talmon,2002,1510,peace_now
+Talmon,2003,1618,peace_now
+Talmon,2004,1760,peace_now
+Talmon,2005,1964,peace_now
+Talmon,2006,2135,peace_now
+Talmon,2007,2350,peace_now
+Talmon,2008,2563,peace_now
+Talmon,2009,2580,peace_now
+Talmon,2010,2797,peace_now
+Talmon,2011,3073,peace_now
+Talmon,2012,3202,peace_now
+Talmon,2013,3321,peace_now
+Talmon,2014,3486,peace_now
+Talmon,2015,3704,peace_now
+Talmon,2016,3879,peace_now
+Talmon,2017,4058,peace_now
+Talmon,2018,4349,peace_now
+Talmon,2019,4575,peace_now
+Talmon,2020,4882,peace_now
+Talmon,2021,5141,peace_now
+Talmon,2022,5379,peace_now
+Talmon,2023,5915,peace_now
+Talmon,2024,5702,peace_now
+Talmon,2025,6328,jvl
+Tel Menashe,2025,11,jvl
+Tel Tzion,2025,7549,jvl
+Tel Zion,2022,6692,peace_now
+Tel Zion,2023,6692,peace_now
+Tel Zion,2024,6916,peace_now
+Telem,1993,73,peace_now
+Telem,1994,80,peace_now
+Telem,1995,83,peace_now
+Telem,1996,69,peace_now
+Telem,1997,88,peace_now
+Telem,1998,96,peace_now
+Telem,1999,101,peace_now
+Telem,2000,97,peace_now
+Telem,2001,93,peace_now
+Telem,2002,76,peace_now
+Telem,2003,127,peace_now
+Telem,2004,141,peace_now
+Telem,2005,152,peace_now
+Telem,2006,167,peace_now
+Telem,2007,192,peace_now
+Telem,2008,176,peace_now
+Telem,2009,217,peace_now
+Telem,2010,241,peace_now
+Telem,2011,262,peace_now
+Telem,2012,241,peace_now
+Telem,2013,261,peace_now
+Telem,2014,278,peace_now
+Telem,2015,336,peace_now
+Telem,2016,362,peace_now
+Telem,2017,391,peace_now
+Telem,2018,432,peace_now
+Telem,2019,445,peace_now
+Telem,2020,478,peace_now
+Telem,2021,520,peace_now
+Telem,2022,540,peace_now
+Telem,2023,581,peace_now
+Telem,2024,574,peace_now
+Telem,2025,724,jvl
+Tene,1993,300,peace_now
+Tene,1994,347,peace_now
+Tene,1995,411,peace_now
+Tene,1996,495,peace_now
+Tene,1997,538,peace_now
+Tene,1998,538,peace_now
+Tene,1999,580,peace_now
+Tene,2000,561,peace_now
+Tene,2001,535,peace_now
+Tene,2002,525,peace_now
+Tene,2003,563,peace_now
+Tene,2004,538,peace_now
+Tene,2005,532,peace_now
+Tene,2006,650,peace_now
+Tene,2007,658,peace_now
+Tene,2008,673,peace_now
+Tene,2009,562,peace_now
+Tene,2010,608,peace_now
+Tene,2011,645,peace_now
+Tene,2012,658,peace_now
+Tene,2013,727,peace_now
+Tene,2014,758,peace_now
+Tene,2015,756,peace_now
+Tene,2016,768,peace_now
+Tene,2017,799,peace_now
+Tene,2018,848,peace_now
+Tene,2019,872,peace_now
+Tene,2020,925,peace_now
+Tene,2021,964,peace_now
+Tene,2022,985,peace_now
+Tene,2023,1094,peace_now
+Tene,2024,1057,peace_now
+Tene,2025,1194,jvl
+Tko'a,1993,714,peace_now
+Tko'a,1994,776,peace_now
+Tko'a,1995,813,peace_now
+Tko'a,1996,825,peace_now
+Tko'a,1997,869,peace_now
+Tko'a,1998,906,peace_now
+Tko'a,1999,948,peace_now
+Tko'a,2000,980,peace_now
+Tko'a,2001,998,peace_now
+Tko'a,2002,1040,peace_now
+Tko'a,2003,1116,peace_now
+Tko'a,2004,1179,peace_now
+Tko'a,2005,1243,peace_now
+Tko'a,2006,1343,peace_now
+Tko'a,2007,1455,peace_now
+Tko'a,2008,1635,peace_now
+Tko'a,2009,1596,peace_now
+Tko'a,2010,1808,peace_now
+Tko'a,2011,2157,peace_now
+Tko'a,2012,2518,peace_now
+Tko'a,2013,2752,peace_now
+Tko'a,2014,3200,peace_now
+Tko'a,2015,3495,peace_now
+Tko'a,2016,3633,peace_now
+Tko'a,2017,3750,peace_now
+Tko'a,2018,3882,peace_now
+Tko'a,2019,4076,peace_now
+Tko'a,2020,4168,peace_now
+Tko'a,2021,4315,peace_now
+Tko'a,2022,4326,peace_now
+Tko'a,2023,4688,peace_now
+Tko'a,2024,4503,peace_now
+Tko'a,2025,4985,jvl
+Tomer,1993,284,peace_now
+Tomer,1994,290,peace_now
+Tomer,1995,291,peace_now
+Tomer,1996,263,peace_now
+Tomer,1997,283,peace_now
+Tomer,1998,298,peace_now
+Tomer,1999,307,peace_now
+Tomer,2000,308,peace_now
+Tomer,2001,303,peace_now
+Tomer,2002,303,peace_now
+Tomer,2003,298,peace_now
+Tomer,2004,296,peace_now
+Tomer,2005,281,peace_now
+Tomer,2006,282,peace_now
+Tomer,2007,290,peace_now
+Tomer,2008,282,peace_now
+Tomer,2009,233,peace_now
+Tomer,2010,234,peace_now
+Tomer,2011,236,peace_now
+Tomer,2012,228,peace_now
+Tomer,2013,226,peace_now
+Tomer,2014,232,peace_now
+Tomer,2015,247,peace_now
+Tomer,2016,262,peace_now
+Tomer,2017,266,peace_now
+Tomer,2018,283,peace_now
+Tomer,2019,276,peace_now
+Tomer,2020,287,peace_now
+Tomer,2021,302,peace_now
+Tomer,2022,310,peace_now
+Tomer,2023,420,peace_now
+Tomer,2024,321,peace_now
+Tomer,2025,399,jvl
+Tzofim,1993,474,peace_now
+Tzofim,1994,542,peace_now
+Tzofim,1995,566,peace_now
+Tzofim,1996,693,peace_now
+Tzofim,1997,731,peace_now
+Tzofim,1998,759,peace_now
+Tzofim,1999,794,peace_now
+Tzofim,2000,857,peace_now
+Tzofim,2001,890,peace_now
+Tzofim,2002,997,peace_now
+Tzofim,2003,1040,peace_now
+Tzofim,2004,1048,peace_now
+Tzofim,2005,1043,peace_now
+Tzofim,2006,1082,peace_now
+Tzofim,2007,1143,peace_now
+Tzofim,2008,1181,peace_now
+Tzofim,2009,1129,peace_now
+Tzofim,2010,1251,peace_now
+Tzofim,2011,1338,peace_now
+Tzofim,2012,1484,peace_now
+Tzofim,2013,1622,peace_now
+Tzofim,2014,1815,peace_now
+Tzofim,2015,1976,peace_now
+Tzofim,2016,2087,peace_now
+Tzofim,2017,2188,peace_now
+Tzofim,2018,2369,peace_now
+Tzofim,2019,2406,peace_now
+Tzofim,2020,2433,peace_now
+Tzofim,2021,2489,peace_now
+Tzofim,2022,2553,peace_now
+Tzofim,2023,2568,peace_now
+Tzofim,2024,2700,peace_now
+Tzofim,2025,2985,jvl
+Vered Jericho,2025,414,jvl
+Vered Yericho,1993,202,peace_now
+Vered Yericho,1994,202,peace_now
+Vered Yericho,1995,197,peace_now
+Vered Yericho,1996,148,peace_now
+Vered Yericho,1997,151,peace_now
+Vered Yericho,1998,145,peace_now
+Vered Yericho,1999,155,peace_now
+Vered Yericho,2000,164,peace_now
+Vered Yericho,2001,157,peace_now
+Vered Yericho,2002,157,peace_now
+Vered Yericho,2003,161,peace_now
+Vered Yericho,2004,161,peace_now
+Vered Yericho,2005,156,peace_now
+Vered Yericho,2006,180,peace_now
+Vered Yericho,2007,190,peace_now
+Vered Yericho,2008,188,peace_now
+Vered Yericho,2009,194,peace_now
+Vered Yericho,2010,196,peace_now
+Vered Yericho,2011,195,peace_now
+Vered Yericho,2012,221,peace_now
+Vered Yericho,2013,221,peace_now
+Vered Yericho,2014,221,peace_now
+Vered Yericho,2015,239,peace_now
+Vered Yericho,2016,252,peace_now
+Vered Yericho,2017,298,peace_now
+Vered Yericho,2018,317,peace_now
+Vered Yericho,2019,341,peace_now
+Vered Yericho,2020,360,peace_now
+Vered Yericho,2021,364,peace_now
+Vered Yericho,2022,377,peace_now
+Vered Yericho,2023,416,peace_now
+Vered Yericho,2024,391,peace_now
+Yafit,1993,121,peace_now
+Yafit,1994,124,peace_now
+Yafit,1995,132,peace_now
+Yafit,1996,100,peace_now
+Yafit,1997,109,peace_now
+Yafit,1998,114,peace_now
+Yafit,1999,118,peace_now
+Yafit,2000,125,peace_now
+Yafit,2001,122,peace_now
+Yafit,2002,102,peace_now
+Yafit,2003,95,peace_now
+Yafit,2004,101,peace_now
+Yafit,2005,99,peace_now
+Yafit,2006,104,peace_now
+Yafit,2007,111,peace_now
+Yafit,2008,127,peace_now
+Yafit,2009,107,peace_now
+Yafit,2010,107,peace_now
+Yafit,2011,106,peace_now
+Yafit,2012,124,peace_now
+Yafit,2013,126,peace_now
+Yafit,2014,136,peace_now
+Yafit,2015,149,peace_now
+Yafit,2016,139,peace_now
+Yafit,2017,164,peace_now
+Yafit,2018,197,peace_now
+Yafit,2019,203,peace_now
+Yafit,2020,218,peace_now
+Yafit,2021,221,peace_now
+Yafit,2022,225,peace_now
+Yafit,2023,279,peace_now
+Yafit,2024,219,peace_now
+Yafit,2025,300,jvl
+Yakir,1993,544,peace_now
+Yakir,1994,605,peace_now
+Yakir,1995,682,peace_now
+Yakir,1996,632,peace_now
+Yakir,1997,677,peace_now
+Yakir,1998,717,peace_now
+Yakir,1999,765,peace_now
+Yakir,2000,822,peace_now
+Yakir,2001,834,peace_now
+Yakir,2002,862,peace_now
+Yakir,2003,932,peace_now
+Yakir,2004,960,peace_now
+Yakir,2005,984,peace_now
+Yakir,2006,1025,peace_now
+Yakir,2007,1088,peace_now
+Yakir,2008,1129,peace_now
+Yakir,2009,1207,peace_now
+Yakir,2010,1285,peace_now
+Yakir,2011,1463,peace_now
+Yakir,2012,1645,peace_now
+Yakir,2013,1716,peace_now
+Yakir,2014,1821,peace_now
+Yakir,2015,1863,peace_now
+Yakir,2016,1901,peace_now
+Yakir,2017,2056,peace_now
+Yakir,2018,2183,peace_now
+Yakir,2019,2288,peace_now
+Yakir,2020,2368,peace_now
+Yakir,2021,2485,peace_now
+Yakir,2022,2586,peace_now
+Yakir,2023,2719,peace_now
+Yakir,2024,2758,peace_now
+Yakir,2025,2965,jvl
+Yatir (aka Metzadot Yehuda),1993,322,peace_now
+Yatir (aka Metzadot Yehuda),1994,327,peace_now
+Yatir (aka Metzadot Yehuda),1995,355,peace_now
+Yatir (aka Metzadot Yehuda),1996,337,peace_now
+Yatir (aka Metzadot Yehuda),1997,368,peace_now
+Yatir (aka Metzadot Yehuda),1998,404,peace_now
+Yatir (aka Metzadot Yehuda),1999,412,peace_now
+Yatir (aka Metzadot Yehuda),2000,422,peace_now
+Yatir (aka Metzadot Yehuda),2001,417,peace_now
+Yatir (aka Metzadot Yehuda),2002,420,peace_now
+Yatir (aka Metzadot Yehuda),2003,412,peace_now
+Yatir (aka Metzadot Yehuda),2004,425,peace_now
+Yatir (aka Metzadot Yehuda),2005,431,peace_now
+Yatir (aka Metzadot Yehuda),2006,462,peace_now
+Yatir (aka Metzadot Yehuda),2007,474,peace_now
+Yatir (aka Metzadot Yehuda),2008,469,peace_now
+Yatir (aka Metzadot Yehuda),2009,382,peace_now
+Yatir (aka Metzadot Yehuda),2010,379,peace_now
+Yatir (aka Metzadot Yehuda),2011,399,peace_now
+Yatir (aka Metzadot Yehuda),2012,414,peace_now
+Yatir (aka Metzadot Yehuda),2013,437,peace_now
+Yatir (aka Metzadot Yehuda),2014,478,peace_now
+Yatir (aka Metzadot Yehuda),2015,467,peace_now
+Yatir (aka Metzadot Yehuda),2016,466,peace_now
+Yatir (aka Metzadot Yehuda),2017,492,peace_now
+Yatir (aka Metzadot Yehuda),2018,512,peace_now
+Yatir (aka Metzadot Yehuda),2019,550,peace_now
+Yatir (aka Metzadot Yehuda),2020,603,peace_now
+Yatir (aka Metzadot Yehuda),2021,634,peace_now
+Yatir (aka Metzadot Yehuda),2022,696,peace_now
+Yatir (aka Metzadot Yehuda),2023,796,peace_now
+Yatir (aka Metzadot Yehuda),2024,722,peace_now
+Yetav,2025,285,jvl
+Yitav,1996,78,peace_now
+Yitav,1997,84,peace_now
+Yitav,1998,97,peace_now
+Yitav,1999,107,peace_now
+Yitav,2000,114,peace_now
+Yitav,2001,133,peace_now
+Yitav,2002,139,peace_now
+Yitav,2003,136,peace_now
+Yitav,2004,141,peace_now
+Yitav,2005,156,peace_now
+Yitav,2006,175,peace_now
+Yitav,2007,187,peace_now
+Yitav,2008,227,peace_now
+Yitav,2009,118,peace_now
+Yitav,2010,139,peace_now
+Yitav,2011,167,peace_now
+Yitav,2012,195,peace_now
+Yitav,2013,225,peace_now
+Yitav,2014,249,peace_now
+Yitav,2015,279,peace_now
+Yitav,2016,321,peace_now
+Yitav,2017,327,peace_now
+Yitav,2018,348,peace_now
+Yitav,2019,359,peace_now
+Yitav,2020,323,peace_now
+Yitav,2021,296,peace_now
+Yitav,2022,261,peace_now
+Yitav,2023,199,peace_now
+Yitav,2024,231,peace_now
+Yitzhar,1993,189,peace_now
+Yitzhar,1994,200,peace_now
+Yitzhar,1995,231,peace_now
+Yitzhar,1996,226,peace_now
+Yitzhar,1997,254,peace_now
+Yitzhar,1998,291,peace_now
+Yitzhar,1999,328,peace_now
+Yitzhar,2000,329,peace_now
+Yitzhar,2001,342,peace_now
+Yitzhar,2002,398,peace_now
+Yitzhar,2003,440,peace_now
+Yitzhar,2004,534,peace_now
+Yitzhar,2005,590,peace_now
+Yitzhar,2006,673,peace_now
+Yitzhar,2007,743,peace_now
+Yitzhar,2008,864,peace_now
+Yitzhar,2009,895,peace_now
+Yitzhar,2010,982,peace_now
+Yitzhar,2011,1106,peace_now
+Yitzhar,2012,1172,peace_now
+Yitzhar,2013,1220,peace_now
+Yitzhar,2014,1279,peace_now
+Yitzhar,2015,1380,peace_now
+Yitzhar,2016,1468,peace_now
+Yitzhar,2017,1553,peace_now
+Yitzhar,2018,1635,peace_now
+Yitzhar,2019,1726,peace_now
+Yitzhar,2020,1838,peace_now
+Yitzhar,2021,2020,peace_now
+Yitzhar,2022,2093,peace_now
+Yitzhar,2023,2304,peace_now
+Yitzhar,2024,2302,peace_now
+Yizhar,2025,2648,jvl

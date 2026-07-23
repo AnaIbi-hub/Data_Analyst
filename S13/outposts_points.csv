@@ -1,0 +1,384 @@
+name,name_hebrew,db_id,type,lat,lon,year_established,district,municipality,category,nearest_settlement
+Nof Nesher - Talya Farm,נוף נשר - חוות טליה,300.0,Outpost,31.366039,35.12189,1996,Hebron,Har Hebron,Outpost,Yatir (aka Metzadot Yehuda)
+Hanekuda,הנקודה,255.0,Outpost,32.169194,35.318612,1996,Nablus,Shomron,Outpost,Itamar
+Har Hemed,הר חמד,257.0,Outpost,32.230107,35.151163,1996,Qalqiliya,Kedumim,Outpost,Kedumim
+Nahalat Ami,נחלת עמי,1209.0,Outpost,31.438937,35.033134,1996,Hebron,Har Hebron,Outpost,Otniel
+Ma'ale Yisrael,מעלה ישראל,283.0,Outpost,32.115099,35.10414,1997,Salfit,Shomron,Outpost,Barqan
+Ahiya,אחיה,224.0,Outpost,32.060513,35.327384,1997,Ramallah,Binyamin,Outpost,Shvut Rachel
+Givat Barkai - Mizpe Jericho East,גבעת ברקאי - מצפה יריחו מזרח,291.0,Outpost,31.823026,35.401979,1997,Jericho,Binyamin,Outpost,Mitzpe Jericho
+Bat Ayin East,בת עין מזרח,235.0,Outpost,31.65289,35.107815,1998,Bethlehem,Gush Etzion,Outpost,Bat Ayin
+Lehavat Yitzhar,להבת יצהר,273.0,Outpost,32.163212,35.246139,1998,Nablus,Shomron,Outpost,Yizhar
+Mitzpe Yair,מצפה יאיר,289.0,Outpost,31.383241,35.134714,1998,Hebron,Har Hebron,Outpost,Susiya
+Nof Harim,נוף הרים,299.0,Outpost,32.075592,35.27893,1998,Nablus,Binyamin,Outpost,Eli
+Givat Hahish,"גבעת החי""ש",246.0,Outpost,31.655233,35.131328,1998,Bethlehem,Gush Etzion,Outpost,Alon Shvut
+Bracha A,ברכה א,352.0,Outpost,32.192829,35.254789,1998,Nablus,Shomron,Outpost,Bracha
+Yanukh Hill 836,גבעת ינוח 836,241.0,Outpost,32.165477,35.360554,1998,Nablus,Shomron,Outpost,Itamar
+Mount Gideon Hill 851,הר גדעון גבעה 851,242.0,Outpost,32.166424,35.337099,1998,Nablus,Shomron,Outpost,Itamar
+Gva'ot Olam,גבעות עולם,243.0,Outpost,32.159946,35.351898,1998,Nablus,Shomron,Outpost,Itamar
+Givat Harel,גבעת הראל,247.0,Outpost,32.058602,35.274044,1998,Nablus,Binyamin,Outpost,Shilo
+Hahar,ההר,252.0,Outpost,32.287291,35.084059,1998,Tul Karem,Shomron,Outpost,Avne Hefez
+Adei Ad,עדי עד,306.0,Outpost,32.04018,35.334802,1998,Ramallah,Binyamin,Outpost,Shvut Rachel
+Hayovel,היובל,254.0,Outpost,32.070888,35.283895,1998,Nablus,Binyamin,Outpost,Eli
+Ahavat Hayim,אהבת חיים,222.0,Outpost,31.957796,35.341201,1999,Ramallah,Binyamin,Outpost,kochav Hashahar
+Alonei Shilo,אלוני שילה,226.0,Outpost,32.163411,35.120487,1999,Qalqiliya,Karnei Shomron,Outpost,Karnei Shomron
+Arnon Hill 777,גבעת ארנון 777,239.0,Outpost,32.154887,35.368305,1999,Nablus,Shomron,Outpost,Itamar
+Ma'ale Hagit,מעלה חגית,282.0,Outpost,31.850959,35.336649,1999,Ramallah,Binyamin,Outpost,Maale Michmash
+Sneh Ya'akov,סנה יעקב,304.0,Outpost,32.177646,35.26092,1999,Nablus,Shomron,Outpost,Bracha
+Alumot Farm Hill 782,חוות אלומות - גבעה 782,240.0,Outpost,32.159516,35.331865,1999,Nablus,Shomron,Outpost,Itamar
+Magen Dan,מגן דן,276.0,Outpost,32.108897,35.020413,1999,Qalqiliya,Elkana,Outpost,Elqana
+Shalhevet Farm,אחוזת שלהבת,223.0,Outpost,32.171931,35.222501,1999,Nablus,Shomron,Outpost,Yizhar
+Skali's Farm - Porat Yosef,החוה של סקאלי - פורת יוסף,329.0,Outpost,32.216403,35.366319,1999,Nablus,Shomron,Outpost,Elon Moreh
+Mor Farm,חוות מור,262.0,Outpost,31.37046,34.968229,1999,Hebron,Har Hebron,Outpost,Tene
+Ma'aleh Shlomo,מעלה שלמה,285.0,Outpost,31.949352,35.344796,1999,Ramallah,Binyamin,Outpost,kochav Hashahar
+Esh Kodesh,אש קודש,229.0,Outpost,32.064772,35.335783,2000,Ramallah,Binyamin,Outpost,Shvut Rachel
+Emek Dotan Farm,מעוז צבי (חוות עמק דותן),281.0,Outpost,32.424023,35.164113,2001,Jenin,Shomron,Outpost,Mevo Dotan
+Mitzpe Ha'ai,מצפה העי,288.0,Outpost,31.895618,35.229731,2001,Ramallah,Binyamin,Outpost,Psagot
+Tko'a B-C,תקוע ב-ג,318.0,Outpost,31.644457,35.230475,2001,Bethlehem,Gush Etzion,Outpost,Tqoa
+Neve Erez,נווה ארז,297.0,Outpost,31.864246,35.310363,2001,Ramallah,Binyamin,Outpost,Maale Michmash
+Derech Ha'avot,דרך האבות,250.0,Outpost,31.664842,35.13455,2001,Bethlehem,Gush Etzion,Outpost,Elazar
+Yair Farm,חוות יאיר,261.0,Outpost,32.145652,35.105233,2001,Salfit,Shomron,Outpost,Yakir
+Mitzpe Kramim,מצפה כרמים,292.0,Outpost,31.958034,35.356661,2001,Ramallah,Binyamin,Outpost,kochav Hashahar
+Jabel Artis,ג'בל ע'רטיס,237.0,Outpost,31.940537,35.223137,2001,Ramallah,Beit El,Outpost,Beit El
+Mul Nevo Beit Hogla,מול נבו בית חגלה,278.0,Outpost,31.820793,35.506933,2001,Jericho,Jordan Valley,Outpost,Na'ama
+Avigayil,אביגיל,221.0,Outpost,31.402505,35.140399,2001,Hebron,Har Hebron,Outpost,Maon
+Tkuma Hill 725,גבעת תקומה 725,238.0,Outpost,32.157564,35.238442,2001,Nablus,Shomron,Outpost,Yizhar
+Susiya - The Rujm Neighborhood/Givat Hachlil,סוסיא צפון מערב - שכונת הרוג'ום/גבעת חכליל,303.0,Outpost,31.394702,35.109122,2001,Hebron,Har Hebron,Outpost,Susiya
+Tzur Shalem,צור שלם,312.0,Outpost,31.605709,35.096885,2001,Hebron,Gush Etzion,Outpost,Karmei Zur
+Beit El East,בית אל מזרח,231.0,Outpost,31.946258,35.23168,2001,Ramallah,Beit El,Outpost,Beit El
+Heruti,חרותי,266.0,Outpost,31.832577,35.185006,2001,Jerusalem,Binyamin,Outpost,Givat Zeev
+Maon Farm,חוות מעון,263.0,Outpost,31.408795,35.15966,2001,Hebron,Har Hebron,Outpost,Ma'on
+Yeshuv Hada't,ישוב הדעת - הבית האדום,251.0,Outpost,32.045896,35.340477,2001,Ramallah,Binyamin,Outpost,Shilo
+Shaked Farm,חוות שקד,331.0,Outpost,32.162677,35.240127,2002,Nablus,Shomron,Outpost,Yizhar
+Kochav Ya'akov West,כוכב יעקב מערב,270.0,Outpost,31.883295,35.233486,2002,Jerusalem,Binyamin,Outpost,Kochav Ya'akov
+Karmei Doron,כרמי דורון,272.0,Outpost,32.289348,35.128296,2002,Tul Karem,Shomron,Outpost,Enav
+Ma'ale Rehav'am,מעלה רחבעם,284.0,Outpost,31.648737,35.257522,2002,Bethlehem,Gush Etzion,Outpost,Kfar Eldad (Old Nokdim)
+Mitzpe Lachish,מצפה לכיש - גבעת הבוסטר,293.0,Outpost,31.496257,34.970185,2002,Hebron,Har Hebron,Outpost,Negohot
+Granit Hill Alt. 468,גבעת גרניט נ.ג. 468,328.0,Outpost,31.819604,35.314288,2002,Jerusalem,Binyamin,Outpost,Nofei Prat
+Asa'el,עשהאל,309.0,Outpost,31.373761,35.042343,2002,Hebron,Har Hebron,Outpost,Shimaa
+Ramat Gilad,רמת גלעד,315.0,Outpost,32.179405,35.112789,2002,Qalqiliya,Karnei Shomron,Outpost,Karnei Shomron
+Tko'a D,תקוע ד,319.0,Outpost,31.636487,35.238074,2002,Bethlehem,Gush Etzion,Outpost,Tqoa
+Ancient Susiya Synagogue,"ביהכנ""ס העתיק סוסיא",230.0,Outpost,31.406605,35.10361,2002,Hebron,Har Hebron,Outpost,Susiya
+Bat Ayin West,בת עין מערב,236.0,Outpost,31.6611,35.092086,2002,Bethlehem,Gush Etzion,Outpost,Bat Ayin
+Hakaron,הקרון,256.0,Outpost,32.069676,35.279588,2002,Nablus,Binyamin,Outpost,Eli
+Haroeh,הרואה,258.0,Outpost,32.054337,35.261874,2002,Nablus,Binyamin,Outpost,Eli
+Gilad Farm,חוות גלעד,260.0,Outpost,32.200076,35.180199,2002,Qalqiliya,Shomron,Outpost,Kedumim
+Gal Outpost,מאחז גל,350.0,Outpost,31.523303,35.125701,2002,Hebron,Har Hebron,Outpost,Kiryat Arba
+Sde Boaz,שדה בועז,298.0,Outpost,31.693627,35.146809,2002,Bethlehem,Gush Etzion,Outpost,Neve Daniel
+Mizpe Yitzhar,מצפה יצהר,290.0,Outpost,32.156069,35.248983,2002,Nablus,Shomron,Outpost,Yizhar
+Givat Assaf,גבעת אסף,244.0,Outpost,31.911278,35.247228,2002,Ramallah,Beit El,Outpost,Beit El
+Kida,קידה,313.0,Outpost,32.048277,35.33894,2003,Ramallah,Binyamin,Outpost,Shvut Rachel
+Kochav Ya'akov East,כוכב יעקב מזרח,269.0,Outpost,31.877467,35.251408,2003,Jerusalem,Binyamin,Outpost,Kochav Ya'akov
+Mishpatei Aretz Inst.,מכון משפטי ארץ,279.0,Outpost,31.940002,35.25202,2004,Ramallah,Binyamin,Outpost,Ofra
+Ofra North East,עפרה צפון מזרח,308.0,Outpost,31.957865,35.267496,2004,Ramallah,Binyamin,Outpost,Ofra
+Bnei Adam,בני אדם,232.0,Outpost,31.843877,35.301353,2004,Jerusalem,Binyamin,Outpost,Geva Binyamin (aka Adam)
+Omer Farm - Einot Kedem,חוות עומר - עינות קדם,264.0,Outpost,31.927241,35.427913,2005,Jericho,Jordan Valley,Outpost,Yitav
+Maoz Ester,מעוז אסתר,336.0,Outpost,31.967354,35.344146,2008,Ramallah,Binyamin,Outpost,kochav Hashahar
+Or HaOrot Hill 825,אור האורות גבעה 825,1210.0,Outpost,32.165843,35.342321,2008,Nablus,Shomron,Outpost,Itamar
+Eretz Hamirdafim,ח'אן ארץ המרדפים,1070.0,Outpost,31.820129,35.355708,2012,Ramallah,Binyamin,Outpost,Kfar Adumim
+Kashuela Farm,חוות קשואלה,1066.0,Outpost,31.675193,35.101451,2012,Bethlehem,Gush Etzion,Farm Outpost,Gvaot
+Nahalat Yossef,נחלת יוסף,340.0,Outpost,32.225657,35.348488,2012,Nablus,Shomron,Outpost,Elon Moreh
+Zufim North,צופים צפון,356.0,Outpost,32.202688,35.012652,2012,Qalqiliya,Shomron,Outpost,Zufim
+Tene Yarok Farm,חוות טנא ירוק דידי עמוסי,1155.0,Outpost,32.336535,35.515614,2012,,Jordan Valley,Farm Outpost,Rotem
+Itamar 573,איתמר 573,327.0,Outpost,32.144388,35.373459,2013,Nablus,Shomron,Farm Outpost,Itamar
+Arugot Farm,חוות ערוגות - מעלה עמוס מערב,1064.0,Outpost,31.599757,35.215873,2013,Bethlehem,Gush Etzion,Outpost,Maale Amos
+Mitzpe Yair Farm,שפת המדבר - חוות מצפה יאיר (נתי שבו),1156.0,Outpost,31.384419,35.139071,2013,,Har Hebron,Farm Outpost,Mitzpe Yair
+Hashkedim Farm,חוות השקדים אלון מורה,1117.0,Outpost,32.224975,35.33318,2014,Nablus,Shomron,Farm Outpost,Elon Moreh
+Kumi Uri,קומי אורי,1172.0,Outpost,32.157813,35.236804,2014,Nablus,,Outpost,Yizhar
+Oz Vegaon,עוז וגאון,1089.0,Outpost,31.641507,35.13356,2014,Bethlehem,Gush Etzion,Outpost,Migdal Oz
+keidar South,קדר דרום - קדר הישנה,347.0,Outpost,31.746074,35.301578,2014,,Gush Etzion,Outpost,Keidar
+Malachei HaShalom,מלאכי השלום,1072.0,Outpost,32.023651,35.363438,2015,Ramallah,Binyamin,Farm Outpost,Shilo
+Mehula West - Neve Roim,שירת העשבים - נווה רועים,1068.0,Outpost,32.36455,35.503758,2016,Tubas,Jordan Valley,Farm Outpost,Mehola
+Nof Gilad Farm - Um Zuka,"אום זוקא, חוות נוף גלעד",1069.0,Outpost,32.289011,35.51909,2016,Tubas,Jordan Valley,Farm Outpost,Hemdat
+Meged Shami'm,מגד שמים,1211.0,Outpost,32.166206,35.244525,2016,Nablus,Shomron,Outpost,Yizhar
+Kedem Arava,קדם ערבה,1067.0,Outpost,31.806608,35.498923,2017,Jericho,Megilot,Outpost,Beit Ha'arava
+Shabtay's Farm,"החווה של שבתאי, חוות אברהם",1074.0,Outpost,31.368181,34.966772,2017,Hebron,Har Hebron,Farm Outpost,Tene
+Neve Achi,"נווה אח""י",1073.0,Outpost,32.008805,35.130973,2017,Ramallah,Binyamin,Outpost,Halamish
+Homesh,חומש,333.0,Outpost,32.30769,35.192455,2017,Jenin,Shomron,Outpost,Shavei Shomron
+Bentayim Farm,חוות בינתיים,1095.0,Outpost,32.317917,35.50823,2018,Tubas,Jordan Valley,Farm Outpost,Maskiyot
+Yetedot Farm,חוות יתדות - חוות גלעד דרום,1097.0,Outpost,32.190618,35.181981,2018,Nablus,Shomron,Farm Outpost,Kedumim
+Negohot Farm,חוות נגוהות,1091.0,Outpost,31.491369,34.972828,2018,Hebron,Har Hebron,Farm Outpost,Negohot
+Aeira Shachar,אעירה שחר (הבאלדים),1082.0,Outpost,31.951322,35.36764,2018,Ramallah,Binyamin,Outpost,kochav Hashahar
+Midbar Hever Farm,חוות מדבר חבר (חוות יוסף אור פני חבר),1076.0,Outpost,31.478528,35.164042,2018,Hebron,Har Hebron,Farm Outpost,Pnei Hever
+Sde Efraim,חוות ראס כרכר (שדה אפרים),1083.0,Outpost,31.93946,35.091403,2018,Ramallah,Binyamin,Farm Outpost,Dolev
+Gadi Base,מחנה גדי,1093.0,Outpost,32.122814,35.486226,2018,Jericho,Jordan Valley,Outpost,Masua
+Kida East,קידה מזרח - כחלית,1096.0,Outpost,32.051717,35.345302,2018,Ramallah,Binyamin,Farm Outpost,Amihai
+Geulat Zion,גאולת ציון,353.0,Outpost,32.046158,35.323079,2018,,Binyamin,Outpost,Shvut Rachel
+Adorayim,אדוריים,1132.0,Outpost,31.484008,35.042662,2019,Hebron,Har Hebron,Outpost,Beit Hagai
+Adis Elem Farm,חוות אדיס אלם,1137.0,Outpost,31.836244,34.986705,2019,,Binyamin,Farm Outpost,Mevo Horon
+Eretz Hatzvi Farm - Nachliel,חוות ארץ הצבי - נחליאל,1125.0,Outpost,31.971451,35.137577,2019,Ramallah,Binyamin,Farm Outpost,Nahliel
+Meged Haaretz Farm,חוות מגד הארץ אבני חפץ,1124.0,Outpost,32.292534,35.065373,2019,Tul Karem,Shomron,Farm Outpost,Avne Hefez
+Mitzpe Kramim East,מצפה כרמים מזרח,1111.0,Outpost,31.950281,35.36809,2019,Ramallah,Binyamin,Farm Outpost,kochav Hashahar
+Tkoa E,תקוע ה - חוות ספר המדבר,1094.0,Outpost,31.632811,35.246269,2019,Bethlehem,Gush Etzion,Farm Outpost,Tkoa
+El Nave Farm,חוות אל נווה,1114.0,Outpost,32.43749,35.112117,2019,Jenin,Shomron,Farm Outpost,Hermesh
+Mitzpe Hatora (Lechathila Farm),מצפה התורה (חוות לכתחילה),1104.0,Outpost,31.824016,35.387035,2019,Jericho,Binyamin,Farm Outpost,Mitzpe Jericho
+Rimonim North - Kol Dodi,רימונים צפון - קול דודי,1106.0,Outpost,31.945755,35.342023,2019,Ramallah,Binyamin,Farm Outpost,Rimonim
+Nofei Prat South B 324 (HaAlmot Farm),נופי פרת דרום גבעה 324 (חוות העלמות),1101.0,Outpost,31.805516,35.318004,2019,Ramallah,Binyamin,Farm Outpost,Nofei Prat
+Susiya East,סוסיא מזרח (גבעת חנן),1102.0,Outpost,31.390265,35.122596,2019,Hebron,Har Hebron,Farm Outpost,Susiya
+Maskiyot South,משכיות דרום חוות ארץ שמש,1107.0,Outpost,32.305111,35.49063,2019,Tubas,Jordan Valley,Farm Outpost,Maskiyot
+Shuv-Ya Megenzi Farm,נילי מערב - חוות שוב-יה מגנזי,1108.0,Outpost,31.711615,35.164046,2019,Ramallah,Binyamin,Farm Outpost,Nili
+Rimonim - Neriya's Farm,חוות רימונים של נריה בן פזי,1116.0,Outpost,31.925048,35.334906,2019,Ramallah,Binyamin,Farm Outpost,Rimonim
+Halamish East - Yad Achi,יד אחי - חלמיש מזרח,1110.0,Outpost,32.007038,35.145232,2019,Ramallah,Binyamin,Farm Outpost,Halamish
+Makhrour Outpsot,מאחז מחרור חוות נווה אורי,1109.0,Outpost,31.960685,35.040041,2019,Bethlehem,Gush Etzion,Farm Outpost,Har Gilo
+Mitzpe Yehuda,מצפה יהודה (קידר מזרח) חוות צאן קדר,1112.0,Outpost,31.735801,35.31916,2019,Jerusalem,Gush Etzion,Farm Outpost,Keidar
+Beit Shmuel - Koko's Farm,חוות מרום שמואל-קוקו; (בית דג'ן גבעה 666),1126.0,Outpost,32.205031,35.391165,2020,Nablus,Jordan Valley,Farm Outpost,Hamra
+Dorot Nahal Kana Farm,חוות דורות נחל קנה,1135.0,Outpost,32.133274,35.060035,2020,,Shomron,Farm Outpost,Maale Shomron
+Pnei Kedem Farm,חוות פני קדם,1139.0,Outpost,31.584741,35.200462,2020,,Gush Etzion,Farm Outpost,Pnei Kedem
+Amihai South,עמיחי דרום (שומרי העמק),1115.0,Outpost,32.039872,35.321908,2020,Ramallah,Binyamin,Farm Outpost,Amihai
+Rashash Farm,חוות רשאש,1131.0,Outpost,32.042057,35.40321,2020,Ramallah,Jordan Valley,Farm Outpost,Tomer
+Um Zaituna,אום זיתונא (משק מן),1122.0,Outpost,31.416483,35.175978,2020,Hebron,Har Hebron,Farm Outpost,Carmel
+Nahal Shilo Farm,חוות נחל שילה (ליד גבעת הראל),1130.0,Outpost,32.047315,35.281241,2020,Ramallah,Binyamin,Farm Outpost,Shilo
+Moshe's Farm,החווה של משה חוות עמק תרצה,1128.0,Outpost,32.213452,35.418535,2020,Nablus,Jordan Valley,Farm Outpost,Hamra
+New Micha Farm,החוה של מיכה חדשה - חוות גאון הירדן,1119.0,Outpost,31.98574,35.354807,2020,Ramallah,Binyamin,Farm Outpost,kochav Hashahar
+Maale Ahuviya,מעלה אהוביה,1129.0,Outpost,31.948902,35.331675,2020,Ramallah,Binyamin,Farm Outpost,kochav Hashahar
+Asfar South Nahalat Avot,אספר דרום נחלת אבות,1118.0,Outpost,31.578785,35.19319,2020,Hebron,Gush Etzion,Farm Outpost,Asfar
+Eden Farm,חוות עדן,1142.0,Outpost,32.137596,35.062453,2021,,Gush Etzion,Farm Outpost,Neve Daniel
+Meitarim Farm,חוות מיתרים,1133.0,Outpost,31.363291,34.999298,2021,Hebron,Har Hebron,Farm Outpost,Meitarim Industrial Area
+Evyatar,אביתר,1136.0,Outpost,32.119378,35.274324,2021,,Shomron,Outpost,Tapuach
+Givat Hadegel Susiya,גבעת הדגל סוסיא,1145.0,Outpost,31.394806,35.10448,2021,,Har Hebron,Farm Outpost,Susiya
+Mechora South - Yaya's Farm,מכורה דרום - החווה של יאיא,1159.0,Outpost,32.142453,35.410722,2021,,Jordan Valley,Farm Outpost,Mechora
+Mevo'ot Jericho Farm,חוות מבואות יריחו,1143.0,Outpost,31.90976,35.42096,2021,,Jordan Valley,Farm Outpost,Mevo'ot Yericho
+Zohar Farm,החווה של זהר,1160.0,Outpost,31.917193,35.383379,2021,,Jordan Valley,Farm Outpost,Mevo'ot Yericho
+Ohavei Yah,אוהבי יה,1161.0,Outpost,31.658426,35.087008,2021,,Gush Etzion,Outpost,Bat Ayin
+Avia Farm,"חוות אבי""ה",1173.0,Outpost,32.45463,35.11089,2021,,Shomron,Farm Outpost,Rehan
+The farm in Yizhar,החווה ביצהר,1212.0,Outpost,32.162187,35.250855,2021,Nablus,Shomron,Farm Outpost,Yizhar
+Pnei Kedem North Farm,חוות פני קדם צפון,1144.0,Outpost,31.600264,35.193271,2021,,Gush Etzion,Farm Outpost,Pnei Kedem
+Yehuda Farm 2,חוות יהודה,1141.0,Outpost,31.386969,35.003173,2021,,Har Hebron,Farm Outpost,Shimaa
+Oz Zion,עוז ציון,1158.0,Outpost,31.908277,35.249386,2021,,Binyamin,Outpost,Givat Assaf
+Ramat Migron,רמת מגרון,1157.0,Outpost,31.88652,35.269659,2021,,Binyamin,Farm Outpost,Migron
+Ori Ad,אורי עד,1166.0,Outpost,32.232762,35.159607,2022,Nablus,Kedumim,Outpost,Kedumim
+Shorashim Farm,חוות שורשים,1176.0,Outpost,31.436574,35.193314,2022,Hebron,Har Hebron,Farm Outpost,Carmel
+Khasham Um Daraj,ח'שם אום דרג' מצפה מדרג,1174.0,Outpost,31.442854,35.247827,2022,Yatta,Glilot,Outpost,Carmel
+Nahalat Zvi,נחלת צבי,1175.0,Outpost,31.870566,35.298885,2022,Maale Michmash,Binyamin,Outpost,Maale Michmash
+Hagoshen South Farm,חוות הגושן דרום,1214.0,Outpost,32.223787,35.540388,2022,,Jordan Valley,Farm Outpost,Hemdat
+Avihai Farm,חוות אביחי,1168.0,Outpost,32.04677,35.032826,2023,Ramallah,Binyamin,Farm Outpost,Beit Arie
+Or Meir,אור מאיר,1180.0,Outpost,31.934321,35.250422,2023,Ramallah,Binyamin,Outpost,Ofra
+Gitit south - Jackson's Farm,גיתית דרום - החווה של ג'קסון,1181.0,Outpost,32.089417,35.388259,2023,,Jordan Valley,Farm Outpost,Gitit
+Seurim Farm - Emanuelle south,חוות שעורים - עמנואל דרום,1187.0,Outpost,32.153904,35.147686,2023,,,Farm Outpost,Emanuelle
+Tekoa' F Harel Farm,חוות הראל - תקוע,1188.0,Outpost,31.629806,35.249714,2023,Bethlehem,Gush Etzion,Farm Outpost,Tekoa'
+Nahal Machoch farm,חוות נחל מכוך,1189.0,Outpost,31.90755,35.335187,2023,,Binyamin,Farm Outpost,Maa'le Michmash
+Neve Erez South-Yinon's Farm,נווה ארז דרום - משכנות הראל,1190.0,Outpost,31.857166,35.315264,2023,,Binyamin,Farm Outpost,Neve Erez
+Mevo'ot Jericho West,מבואות יריחו מערב - נצח הראל,1192.0,Outpost,31.908861,35.373813,2023,Jericho,Jordan Valley,Farm Outpost,Mevoo't Jericho
+Simhovitz Farm,"חוות אמונה - שמחוביץ, חוות שדה הראל",1194.0,Outpost,31.375273,35.123479,2023,Hebron,,Farm Outpost,Mizpe Yair
+Negohot North,נגוהות צפון - שכונת הכרם,1195.0,Outpost,31.500509,34.98511,2023,Hebron,Har Hebron,Outpost,Negohot
+Elhai Farm,חוות אלחי - שבי שומרון,1216.0,Outpost,32.27346,35.154199,2023,Nablus,Shomron,Farm Outpost,Shave Shomron
+Sde Yonatan,שדה יונתן,1196.0,Outpost,31.890726,35.282089,2023,Ramallah,Gush Etzion,Outpost,Ramat Migron
+Givat Haktoret,גבעת הקטורת,1162.0,Outpost,32.061097,35.287236,2023,,Binyamin,Farm Outpost,Eli
+Yahish Zion,יחיש ציון,1204.0,Outpost,31.888357,35.278539,2023,Ramallah,Binyamin,Outpost,Psagot
+Daroma Farm - Avigail East,אביגיל מזרח - חוות דרומא,1197.0,Outpost,31.397035,35.145968,2023,Yatta,Har Hebron,Farm Outpost,Avigayil
+Batir Mahrur - Heletz,בתיר מחרור - חלץ,1198.0,Outpost,31.716425,35.153266,2023,Bethlehem,Gush Etzion,Farm Outpost,
+Nofei Elhanan,נופי אלחנן,1199.0,Outpost,32.281599,35.132213,2023,Tul Karem,Shomron,Outpost,Einav
+Mizpe Yair South,מצפה יאיר דרום,1237.0,Outpost,31.377424,35.131271,2023,Yatta,Har Hebron,Outpost,Mizpe Yair
+Asael north,עשהאל צפון,1200.0,Outpost,31.375642,35.046577,2023,Hebron,Har Hebron,Outpost,Asael
+Masua West Farm,חוות משואה מערב - סרטבא,1217.0,Outpost,32.11233,35.479293,2023,Jericho,Jordan Valley,Farm Outpost,Mesoa
+Mizpor Fazael - Maale Efrayim South East,מצפור פצאל - מעלה אפרים דרום מזרח,1193.0,Outpost,32.055567,35.420584,2023,,,Farm Outpost,Maale Efrayim
+Mizpe Danny Farm,חוות מצפה דני/חוות רוח הארץ,1182.0,Outpost,31.881408,35.321952,2023,Ramallah,Binyamin,Farm Outpost,Maa'le Michmash
+Susiya South,גבעת אלונים - סוסיא דרום,1183.0,Outpost,32.048097,35.032384,2023,Hebron,Har Hebron,Outpost,Susiya
+Har Maon Farm,חוות הר מעון - נחלת דב - החווה של ישראל ונחמה,1271.0,Outpost,31.401262,35.167055,2023,Hebron,Har Hebron,Farm Outpost,Maon
+Tov Haaretz (Old) Maon Farm,חוות טוב הארץ - מדבר מעון,1184.0,Outpost,31.40122,35.168191,2023,Hebron,Har Hebron,Farm Outpost,Maon
+Shabo Family - Har Haela Farm,משפחת שבו בתוך 918 - הר האלה,1185.0,Outpost,31.387047,35.153869,2023,Hebron,Har Hebron,Farm Outpost,Mizpe Yair
+Har Kanub North - Giva't Alufe Yehuda,הר כנוב צפון - גבעת אלופי יהודה - צור משגבי,1186.0,Outpost,31.60541,35.199677,2023,Hebron,Gush Etzion,Farm Outpost,Pnei Kedem
+Rosh Te'ena Farm,חוות ראש תאנה,1219.0,Outpost,32.003641,35.37095,2023,Jericho,,Farm Outpost,Tomer
+Ohana - Cnaan Farm Farm,אוחנה - חוות כנען חווה,1170.0,Outpost,31.819521,35.366386,2023,Jericho,Jordan Valley,Farm Outpost,Kfar Adumim
+Bekaot South - Neria's farm,בקעות דרום - החווה של נריה - מבוא השמש,1171.0,Outpost,32.235679,35.447058,2023,,Jordan Valley,Farm Outpost,Bekaot
+Bar Farm,חוות בר,1179.0,Outpost,32.07099,35.341228,2023,Nablus,Binyamin,Farm Outpost,Esh Kodesh
+Gitit East - Dori's Farm,גיתית מזרח - נוף הרים,1224.0,Outpost,32.104067,35.402588,2023,,Jordan Valley,Farm Outpost,Gitit
+Gal Yossef,גל יוסף,1201.0,Outpost,32.265669,35.176477,2024,Ramallah,Binyamin,Farm Outpost,
+Kochav Hashahar West - Mizpe Lea,כוכב השחר מערב - מצפה לאה,1254.0,Outpost,31.949952,35.338681,2024,Ramallah,Binyamin,Outpost,Kochav Hashahar
+Shaveh Shomron Farm,חוות שבי שומרון,1225.0,Outpost,32.264924,35.174295,2024,Nablus,Shomron,Farm Outpost,Shavei Shomron
+Tekoa' F - Neighborhood,תקוע ו' - שכונה,1202.0,Outpost,31.631328,35.251291,2024,Bethlehem,,Outpost,Tekoa
+Zohar Yehuda Farm,חוות זוהר יהודה - הר עזרור,1203.0,Outpost,31.62125,35.251477,2024,Bethlehem,,Farm Outpost,Tekoa
+Malache Avraham Farm - Pnei Hever East,פני חבר מזרח - מלאכי אברהם - חוות מתניה,1205.0,Outpost,31.482174,35.174954,2024,Hebron,Har Hevron,Farm Outpost,Pnei Hever
+Hoshen,חושן,1206.0,Outpost,32.055717,35.250294,2024,Ramallah,Binyamin,Outpost,Haroe
+Beit Eliyahu,בית אליהו,1218.0,Outpost,32.13837,35.483437,2024,Jericho,Jordan Valley,Outpost,Mesua
+Or Ahuvia -Maoz Ester B,אור אהוביה - מעוז אסתר ב',1220.0,Outpost,31.93735,35.268453,2024,Ramallah,Binyamin,Outpost,Ofra
+Noda' BeYehuda,נודע ביהודה,1255.0,Outpost,31.596699,35.238899,2024,Bethlehem,Gush Etzion,Outpost,Maale Amos
+Adumim Farm,חוות אדומים,1298.0,Outpost,31.774386,35.323703,2024,Jericho,Maale Adumim,Farm Outpost,Maale Adumim
+Khan Ushpizin,חאן האושפיזין,1207.0,Outpost,31.625584,35.249828,2024,Bethlehem,,Farm Outpost,Tekoa
+Tzur Harel Farm,חוות צור הראל,1208.0,Outpost,31.906197,35.243586,2024,Ramallah,Binyamin,Farm Outpost,Beit El (Oz Zion)
+Amona Farm,חוות עמונה - מצפה רועים,1221.0,Outpost,31.954347,35.280664,2024,Ramallah,Binyamin,Farm Outpost,Ofra
+Pnei Kedem North - Derech HaShem,פני קדם צפון - דרך ה',1232.0,Outpost,31.594397,35.203135,2024,Hebron,Gush Etzion,Outpost,Pnei Kedem
+Tamir's Family Farm - Mevoo't Jericho East,שער המלך - מבואות יריחו מזרח,1226.0,Outpost,31.911834,35.430421,2024,Jericho,Jordan Valley,Farm Outpost,Mevoo't Jericho
+Giva't Yavo Dodi,גבעת יבוא דודי,1227.0,Outpost,31.967066,35.146318,2024,Ramallah,Binyamin,Farm Outpost,Kerem Reim
+Shlisha Farm,חוות שלישה - מערבית למחצבת כוכב השחר,1242.0,Outpost,31.99679,35.332061,2024,Ramallah,Binyamin,Farm Outpost,
+Beer Elhanan,באר אלחנן - עתניאל,1222.0,Outpost,31.444279,35.037465,2024,Hebron,Har Hebron,Outpost,Otniel
+Mizpe Moti,מצפה מוטי,1228.0,Outpost,31.9992,35.334876,2024,Salfit,Shomron,Outpost,Havat Yair
+Gofna,גופנה,1233.0,Outpost,31.978042,35.126969,2024,Ramallah,Binyamin,Outpost,Nahliel
+Maale Rehava'm South,מעלה רחבעם דרום,1257.0,Outpost,31.644488,35.258968,2024,Bethlehem,Gush Ezion,Outpost,Maale Rehava'm
+Ofra South-East - Baruchi's Farm,עפרה דרום מזרח - חוות אורנים החווה של ברוכי,1229.0,Outpost,31.943524,35.277642,2024,Ramallah,Binyamin,Farm Outpost,Ofra
+Or Nahman,אור נחמן,1272.0,Outpost,32.028485,35.327453,2024,,,Farm Outpost,
+Hanina Farm,חוות חנינה,1238.0,Outpost,31.894275,35.304636,2024,Ramallah,Binyamin,Farm Outpost,Michmash
+Midbar Hever Farm B,חוות נתן ברוך - מדבר חבר ב',1240.0,Outpost,31.470671,35.176819,2024,Hebron,Gush Etzion,Farm Outpost,Pnei Hever
+New Tzarda Farm,חוות צרדה החדשה,1230.0,Outpost,32.054777,35.061805,2024,Salfit,Shomron,Farm Outpost,Pduel
+Mizpe Yair North,מצפה יאיר צפון - סימרי,1241.0,Outpost,31.38774,35.141409,2024,Yatta,Har Hebron,Farm Outpost,Mizpe Yair
+Mizpe Michal Farm,חוות מצפה מיכל - תומר מערב,1234.0,Outpost,32.020943,35.430839,2024,Jericho,Jordan Valley,Farm Outpost,Netiv Hagdud
+Eretz Kama Farm,חרמש דרום - חוות ארץ קמה,1243.0,Outpost,32.416002,35.120818,2024,Jenin,Shomron,Farm Outpost,Hermesh
+Netiv Hagdud Farm,חוות נתיב הגדוד (החווה של שלמה),1235.0,Outpost,31.98576,35.435261,2024,Ramallah,Binyamin,Farm Outpost,Mala'ache Hashalom
+Khan al-Ahmar - Kfar Edomim South,חוות חאן אלאחמר - אחוות רעים,1259.0,Outpost,31.810598,35.336017,2024,Jericho,Binyamin,Farm Outpost,Kfar Edumim
+Sde Shechem Farm,חוות שדה שכם - עוז יוסף,1244.0,Outpost,32.187623,35.310446,2024,Nablus,Shomron,Farm Outpost,Itamar
+Umm Jamal - Maskiyot North,אום ג'מאל - חוות יחד לבבי,1258.0,Outpost,32.33108,35.491103,2024,Ramallah,Binyamin,Farm Outpost,
+Magenzi B Farm,חוות מגנזי ב',1245.0,Outpost,31.961005,35.030366,2024,Ramallah,Binyamin,Farm Outpost,Nili
+Hesed Olam Farm,עופרים דרום - חוות חסד עולם,1246.0,Outpost,32.003898,35.034664,2024,Ramallah,Binyamin,Farm Outpost,Ofarim
+Telem North - Uri,תלם צפון - שכונת אורי,1284.0,Outpost,31.571185,35.0377,2024,Hebron,Har Hebron,Outpost,Telem
+The Places Farm,חוות הארמונות,1248.0,Outpost,31.869505,35.429962,2024,Jericho,,Farm Outpost,Mizpe Danny
+Adora East,"אדורה מזרח - מצפה ש""י",1249.0,Outpost,31.554901,35.02583,2024,Hebron,Har Hebron,Outpost,Adora
+Palgei Mayim Farm,חוות פלגי מים,1285.0,Outpost,32.091981,35.270676,2024,Ramallah,Binyamin,Farm Outpost,Eli
+Hauja - Rosh Tidhar Farm,חוות העוג'ה - ראש תדהר,1251.0,Outpost,31.950411,35.410303,2024,Jericho,Jordan Valley,Farm Outpost,Yitav
+Mikne Avraham,מקנה אברהם,1252.0,Outpost,31.59223,35.265098,2024,Bethlehem,Gush Etzion,Farm Outpost,Maale Amos
+Shovel Farm Ariel Industrial area,חוות שובאל - א.תעשיה אריאל,1262.0,Outpost,32.077507,35.131439,2024,Salfit,Shomron,Farm Outpost,Ariel
+Talmonim North,טלמונים צפון,1263.0,Outpost,31.943401,35.130759,2024,Ramallah,Binyamin,Outpost,Talmonim
+Tekoa H,תקוע ח',1264.0,Outpost,31.623644,35.245428,2024,Bethlehem,Gush Etzion,Outpost,Tekoa
+Giva't Tzon Binyamin,גבעת צאן בנימין - דרומית לאדם,1265.0,Outpost,31.842501,35.289701,2024,Ramallah,Binyamin,Farm Outpost,Adam - Geva Binyamin
+Avia Farm - Mechora East,חוות אביה - מכורה מזרח,1266.0,Outpost,32.15927,35.441197,2024,,Jordan Valley,Farm Outpost,Mechora
+Givat Hadagel B,גבעת הדגל ב',1267.0,Outpost,31.39551,35.102819,2024,Yatta,Har Hebron,Farm Outpost,Susiya
+Tekoa I,תקוע ט',1268.0,Outpost,31.620964,35.258285,2024,Bethlehem,Gush Etzion,Farm Outpost,Tekoa
+Tekoa J,תקוע י',1269.0,Outpost,31.626839,35.276215,2024,Bethlehem,Gush Etzion,Farm Outpost,Tekoa
+Maale Rehava'm East,מעלה רחבעם מזרח,1270.0,Outpost,31.644779,35.27049,2024,Bethlehem,Gush Etzion,Farm Outpost,Maale Rehavam
+Bnayahu's Farm,החווה של בניהו,1306.0,Outpost,31.856302,35.29912,2024,Ramallah,Binyamin,Farm Outpost,Maale Mikhmash
+Shvut Rachel North - Or Avraham,שבות רחל צפון - אור אברהם,1279.0,Outpost,32.059091,35.316968,2024,Ramallah,Binyamin,Outpost,Shvout Rahel
+Otniel farm Farm,חוות עתניאל - אפקה,1273.0,Outpost,31.468163,35.037925,2024,Hebron,Har Hebron,Farm Outpost,Adoraim
+Pne Hever West,פני חבר מערב - מצפה זיו,1274.0,Outpost,31.484244,35.144231,2024,Hebron,Har Hebron,Outpost,Pne Hever
+Amiel Farm - Bar Dalya,החווה של עמיאל - בר דליה,1286.0,Outpost,32.390706,35.469611,2024,,Jordan Valley,Farm Outpost,Mehula
+Mizpe Malkiya Farm,חוות מצפה מלכיה,1278.0,Outpost,31.386533,35.142273,2024,Yatta,Har Hebron,Farm Outpost,Mizpe Yair
+Tzur Levavi farm,החווה של יהוראי מגורי - צור לבבי,1281.0,Outpost,31.98492,35.244416,2024,Ramallah,Binyamin,Farm Outpost,Ofra
+Beit Hagai South,בית חגי דרום,1256.0,Outpost,31.488482,35.081433,2024,Hebron,Har Hebron,Outpost,Beit Hagai
+New Mikne Avraham Farm,חוות מקנה יהודה החדשה - עשהאל דרום - גבעת שמורת השיט,1215.0,Outpost,31.360834,35.037925,2024,Yatta,Har Hebron,Farm Outpost,Asael
+Maale Efraim North - Priel Farm,מעלה אפרים צפון - החווה של פריאל,1352.0,Outpost,32.078254,35.416964,2024,,,Farm Outpost,Maale Efraim
+Giva't Haslai'm,גבעת הסלעים - חוות עטרת צפון,1280.0,Outpost,32.014663,35.170877,2025,Ramallah,Binyamin,Outpost,Ateret
+Nahal Heletz - Bar Kochva,בר כוכבא - נחל חלץ,1275.0,Outpost,31.714881,35.151994,2025,Bethlehem,Gush Ezion,Outpost,
+Givat Oz Yair - Ofra South - Tripi quarry,עפרה דרום - טריפי מזרח - גבעת עוז יאיר,1307.0,Outpost,31.927138,35.277357,2025,Ramallah,Binyamin,Outpost,Ofra
+Neve Daniel West,נווה דניאל מערב,1283.0,Outpost,31.67791,35.134873,2025,Bethlehem,Gush Ezion,Outpost,Neve Daniel
+Adam North,אדם צפון - גבעת גור אריה,1282.0,Outpost,31.856772,35.275841,2025,Ramallah,Binyamin,Outpost,Adam - Geva Binyamin
+Taysir Chechpoint Farm,מחסום תאייסיר - צבי עופרים,1338.0,Outpost,32.32902,35.438314,2025,Nablus,Jordan Valley,Outpost,
+Nahliel South,נחליאל דרום,1308.0,Outpost,31.971843,35.134184,2025,Ramallah,Binyamin,Outpost,Nahliel
+Zafnat farm - Kfar Tapuah North,כפר תפוח צפון - חוות צפנת,1288.0,Outpost,32.12894,35.253632,2025,Nablus,Shomron,Farm Outpost,Kfar Tapuach
+Aviad - Kiryat Arba South,אביעד - קרית ארבע דרום,1289.0,Outpost,31.495275,35.130648,2025,Hebron,Kiryat Arba,Outpost,Kiryat Arba
+Aviad Farm - Mizpe Jericho West Farm,חוות אביעד - מצפה יריחו מערב - מעלה אדומים דרום,1290.0,Outpost,31.811812,35.376581,2025,Jericho,Binyamin,Farm Outpost,Mizpe Yericho
+Givat Yahaloma,גבעת יהלומה - אביתר מערב,1291.0,Outpost,32.121389,35.265566,2025,Nablus,Shomron,Farm Outpost - Yeshiva,Avyatar?
+HaMaayan - Alon Shvut West,המעיין - אלון שבות מערב,1292.0,Outpost,31.651283,35.134687,2025,Bethlehem,Gush Ezion,Outpost,Alon Shvut
+Ein Prat Farm,"חוות עין פרת -ש""ש",1300.0,Outpost,31.82429,35.368733,2025,Jericho,Binyamin,Farm Outpost,Kfar Adomim
+Tzur Yehuda Farm,חוות צור יהודה,1296.0,Outpost,31.606753,35.10657,2025,Hebron,Gush Ezion,Farm Outpost,Karme Tzur
+Naale West Farm,חוות נעלה מערב,1293.0,Outpost,31.96903,35.059629,2025,Ramallah,Binyamin,Farm Outpost,Naale
+Eshkolot Farm,חוות אשכולות,1301.0,Outpost,31.422004,34.914775,2025,Hebron,Har Hebron,Farm Outpost,Eshkolot?
+Efrat farm,חוות אפרת,1386.0,Outpost,31.683439,35.189511,2025,Bethlehem,Gush Ezion,Farm Outpost,Efrat
+Nahalat Efraim Farm,חוות נחלת אפרים - עין סמיה,1309.0,Outpost,31.987267,35.339354,2025,Ramallah,Binyamin,Farm Outpost,
+Tkoa South - Tomer's Farm,החווה של תומר - תקוע דרום,1310.0,Outpost,31.613127,35.247258,2025,Bethlehem,Gush Ezion,Farm Outpost,Tkoa
+Zarzir Farm,מוצב זרזיר - חוות שער ישראל,1357.0,Outpost,32.148003,35.548196,2025,Jericho,Jordan Valley,Farm Outpost,Argaman
+Asfar West,אספר מערב,1294.0,Outpost,31.588618,35.183831,2025,Bethlehem,Gush Ezion,Outpost,Asfar
+New Nof Avi Farm,"מגדלים צפון - נוף אב""י החדשה",1311.0,Outpost,32.094297,35.352555,2025,Nablus,Shomron,Farm Outpost,Migdalim
+Maoz Shaul Farm,חוות מעוז שאול -אבני חפץ דרום,1295.0,Outpost,32.271913,35.077544,2025,Nablus,Shomron,Farm Outpost,Avne Hefetz
+Maa'lot Halhul,מעלות חלחול - מרום יהודה,1302.0,Outpost,31.588052,35.120209,2025,Hebron,Gush Ezion,Farm Outpost,Karme Tzur
+Mevo Har-El - Atarot Adar,מבוא הר-אל - עטרות אדר,1303.0,Outpost,31.875511,35.103164,2025,Ramallah,Binyamin,Farm Outpost,Beit Horon
+Mezudat David Farm,חוות מצודת דוד - מלאכי השלום מערב,1312.0,Outpost,32.017767,35.355921,2025,Ramallah,Binyamin,Farm Outpost,
+Michtam LeDavid farm,חוות מכתם לדוד,1351.0,Outpost,32.071062,35.35621,2025,Ramallah,Binyamin,Farm Outpost,
+Beit Horon North,בית חורון צפון - חוות בית קרניים,1304.0,Outpost,31.897732,35.125803,2025,Ramallah,Binyamin,Farm Outpost,Beit Horon
+The Seven Sheferds Farm,חוות שבעת הרועים - תצפית גוש שילה,1305.0,Outpost,32.048952,35.270349,2025,Ramallah,Binyamin,Farm Outpost,
+Hanekuda Baemek - Emek Shiloh Farm,חוות עמק שילה - הנקודה בעמק - רכס,1313.0,Outpost,32.039177,35.301245,2025,Ramallah,Binyamin,Farm Outpost,Shiloh
+Baal Hatzor Farm,חוות בעל חצור - הר המלך,1350.0,Outpost,31.965984,35.325221,2025,Ramallah,Binyamin,Farm Outpost,Kochav Hashahar
+Nofei Gideon,נופי גדעון - קדומים,1314.0,Outpost,32.235294,35.148494,2025,Nablus,Shomron,Outpost,Kedumim
+Givat Gefen Ami,גבעת גפן עמי,1316.0,Outpost,31.610846,35.119494,2025,Hebron,Gush Ezion,Farm Outpost,Karme Tzur
+Amihai Farm - Bar Daliya,חוות בקר עמיחי - בר דליה,1377.0,Outpost,32.375231,35.488488,2025,Tubas,Jordan Valley,Farm Outpost,Mehola
+Hesed Leavraham Farm,הר חצור - חוות חסד לאברהם,1369.0,Outpost,31.973898,35.287102,2025,Ramallah,Binyamin,Farm Outpost,Ofra
+Ahi-Ad Farm,חוות אחי עד,1317.0,Outpost,31.820043,35.377498,2025,Jericho,Binyamin,Farm Outpost,Mizpe Yericho
+Magen Avraham Farm,אייבי נחל צפון - חוות מגן אברהם,1337.0,Outpost,31.618447,35.210388,2025,Bethlehem,Gush Ezion,Farm Outpost,Evie Nahal
+Maale Tidhar,מעלה תדהר,1319.0,Outpost,31.610283,35.186363,2025,Hebron,Gush Ezion,Farm Outpost,Asfar
+Givat Emuna,גבעת אמונה - אלוף יהודה מערב,1320.0,Outpost,31.605612,35.190518,2025,Hebron,Gush Ezion,Farm Outpost,Asfar
+Karme Tzur South,כרמי צור דרום,1321.0,Outpost,31.604908,35.098618,2025,Hebron,Gush Ezion,Outpost,Karme Tzur
+Nahliel North,נחליאל צפון,1322.0,Outpost,31.981918,35.145635,2025,Ramallah,Binyamin,Farm Outpost,Nahliel
+Mikne Yehuda Farm,עשהאל מערב,1324.0,Outpost,31.374018,35.03647,2025,Hebron,Har Hebron,Outpost,Susiya
+Kela' David Farm - Halamish West,חוות קלע דוד - חלמיש מערב,1325.0,Outpost,32.004519,35.10121,2025,Ramallah,Binyamin,Farm Outpost,Halamish
+Netzah David Farm,חוות נצח דוד,1326.0,Outpost,32.116497,35.317755,2025,Nablus,Shomron,Farm Outpost,Migdalim
+Beit Ulla Farm,חוות בית אורות - בית אולא,1349.0,Outpost,31.623916,34.989495,2025,Tarkumiya,Gush Ezion,Farm Outpost,
+Telem West - Nofei Yehuda Farm,תלם מערב - חוות נופי יהודה,1327.0,Outpost,31.566362,35.019493,2025,Hebron,Har Hebron,Farm Outpost,Telem
+Evyatar East,אביתר מזרח,1333.0,Outpost,32.120028,35.277174,2025,Nablus,Shomron,Outpost,Evyatar
+Adora West,אדורה מערב,1328.0,Outpost,31.55074,35.006277,2025,Hebron,Har Hebron,Outpost,Adora
+Hashalom Farm,חוות השלום,1329.0,Outpost,31.955548,35.088009,2025,Ramallah,Binyamin,Farm Outpost,Naale
+Ibei Nahal South,אייבי נחל דרום,1330.0,Outpost,31.597887,35.221341,2025,Bethlehem,Gush Ezion,Outpost,Maale Amos
+Old Keidar East,קדר הישנה מזרח,1331.0,Outpost,31.744945,35.302679,2025,Bethlehem,Gush Ezion,Outpost,Old Keidar
+Mizpe Kramim North,מצפה כרמים צפון,1332.0,Outpost,31.961336,35.35813,2025,Ramallah,Binyamin,Outpost,Mizpe Kramim
+Anaki's Farm,חוות ענקי,1387.0,Outpost,31.80625,35.338375,2025,Jericho,Binyamin,Farm Outpost,Maale Adumim
+Migdal David Farm,חוות מגדל דוד,1334.0,Outpost,32.075493,35.354699,2025,Nablus,Shomron,Farm Outpost,Migdalim
+Gibore David Farm - Duma East,חוות גיבורי דוד - דומא מזרח,1335.0,Outpost,32.066052,35.377142,2025,Nablus,Binyamin,Farm Outpost,
+Mizpe Eyal - Pne Haver West,מצפה אייל - פני חבר מערב,1336.0,Outpost,31.488084,35.158125,2025,Hebron,Har Hebron,Outpost,Pne Hever
+Malache Hashalom West,מלאכי השלום מערב,1339.0,Outpost,32.022045,35.360338,2025,Ramallah,Binyamin,Outpost,Malache Hashalom
+Kahlit North,כחלית צפון,1340.0,Outpost,32.05386,35.345246,2025,Ramallah,Binyamin,Outpost,Kida
+Migron North,מגרון צפון,1343.0,Outpost,31.888557,35.274083,2025,Ramallah,Binyamin,Outpost,Ramat Migron
+Kfar Trifon,כפר טרפון,1344.0,Outpost,31.995529,35.212266,2025,Ramallah,Binyamin,Farm Outpost,
+Nahalat Ben Yishai,נחלת בן ישי,1347.0,Outpost,31.81837,35.293127,2025,Ramallah,Binyamin,Farm Outpost,Talmon
+Shani North - Anim Farm,שני צפון - חוות ענים,1341.0,Outpost,31.364315,35.082092,2025,Yatta,Har Hebron,Farm Outpost,Shani
+Yetedot Farm South,חוות יתדות דרום - גבעת אור ידידיה,1342.0,Outpost,32.187506,35.179749,2025,Nablus,Shomron,Farm Outpost,Havat Gilad
+Givat Mevaser Shalom,גבעת מבשר השלום,1345.0,Outpost,32.120614,35.290103,2025,Nablus,Shomron,Farm Outpost,
+Revava North,רבבה צפון,1388.0,Outpost,32.131034,35.11701,2025,Salfit,Shomron,Farm Outpost,Revava
+Rujum a-Naga,רוג'ם א-נאקה,1365.0,Outpost,31.510755,35.31404,2025,Bethlehem,Megilot/Gusg Etzion,Farm Outpost,
+Givat Herout,גבעת חרות,1353.0,Outpost,31.970091,35.134914,2025,Ramallah,Binyamin,Outpost,Nahliel
+Rimonim West,חוות סלע רימון,1366.0,Outpost,31.937504,35.318787,2025,Ramallah,Binyamin,Farm Outpost,Rimonim
+Nof Mishkan Farm,חוות נוף המשכן,1389.0,Outpost,32.058425,35.298817,2025,Ramallah,Binyamin,Farm Outpost,Shiloh
+Meitr LaAretz Farm,חוות מאיר לארץ,1380.0,Outpost,32.008023,35.064342,2025,Ramallah,Binyamin,Farm Outpost,Neve Tzuf
+Narhiva,נרחיבה,1346.0,Outpost,32.126285,35.120873,2025,Salfit,Shomron,Outpost,Revava
+Carmel East,כרמל מזרח - גבעת ברקאי,1348.0,Outpost,31.431693,35.185695,2025,Yatta,Har Hebron,Outpost,Carmel
+Mizpor Yossi,מצפור יוסי - בית חגי,1354.0,Outpost,31.485255,35.073728,2025,Hebron,Har Hebron,Outpost,Beit Hagai
+Shove Israel farm,חוות שובה ישראל,1355.0,Outpost,32.303817,35.219453,2025,Nablus,Shomron,Farm Outpost,Homesh
+Beit Anout,בית ענות,1356.0,Outpost,31.565839,35.116333,2025,Hebron,Har Hebron,Farm Outpost,
+Shir LeDavid Farm,חוות שיר לדוד,1368.0,Outpost,32.082782,35.024069,2025,Salfit,Shomron,Farm Outpost,Leshem
+Har Bezeq Farm,חוות הר בזק,1372.0,Outpost,32.365148,35.397027,2025,Jenin,Shomron,Farm Outpost,
+Givat Shirat Tzion,שירת ציון,1378.0,Outpost,32.253122,35.161745,2025,Nablus,Shomron,Farm Outpost,
+Barkan West - Tzurim Farm,ברקן מערב - חוות צורים,1213.0,Outpost,32.09534,35.093933,2025,Salfit,Shomron,Farm Outpost,Barkan
+Kerem Hamami Farm,חוות כרם חממי,1367.0,Outpost,31.598388,35.120601,2025,Hebron,Gush Ezion,Farm Outpost,Carme Tzur
+Kol Mevaser,קול מבשר,1358.0,Outpost,31.873077,35.292168,2025,Ramallah,Binyamin,Farm Outpost,Nahlat Tzvi
+Nofei Prat West,נופי פרת מערב,1359.0,Outpost,31.816312,35.304649,2025,Jericho,Binyamin,Farm Outpost,Ein Prat
+Shedma,שדמה,1360.0,Outpost,31.697097,35.240626,2025,Bethlehem,Gush Ezion,Outpost,
+Mevo Kane Farm,חוות מבוא קנה,1361.0,Outpost,32.169506,35.21633,2025,Nablus,Shomron,Farm Outpost,Yizhar
+Givat Orot Eliezer,גבעת אורות אליעזר,1362.0,Outpost,31.552609,35.129842,2025,Hebron,Kiryat Arba,Outpost,Kiryat Arba
+Karne Shomron North,קרני שומרון צפון,1363.0,Outpost,32.190396,35.110171,2025,Nablus,Shomron,Outpost,Karne Shomron
+Dvash Sela' Farm,חוות דבש סלע,1373.0,Outpost,31.449413,35.190867,2025,Yatta,Har Hebron,Farm Outpost,Carmel
+Nofei Nehemia West,נופי נחמיה מערב,,Outpost,32.09718,35.225239,2025,Nablus,Shomron,Farm Outpost,Nofei Nehemya
+Derech Avraham Farm,חוות דרך אברהם,1371.0,Outpost,32.198247,35.34669,2025,Nablus,Shomron,Farm Outpost,Alon More
+Rehava'm,רחבעם,1390.0,Outpost,32.117828,35.328156,2025,Nablus,Shomron,Outpost,Migdalim
+Nahal Machoch West,נחל מכוך מערב,1381.0,Outpost,31.909544,35.31119,2026,Ramallah,Binyamin,Farm Outpost,Nahal Mahoch Farm
+Maale Yehonatan,מעלה יהונתן,1382.0,Outpost,31.396701,35.032095,2026,Yatta,Har Hebron,Farm Outpost,Shama' north
+Har Ebal,הר עיבל,1374.0,Outpost,32.23567,35.2684,2026,Nablus,Shomron,Outpost,
+Roei Avraham Farm,חוות רועי אברהם,1375.0,Outpost,32.248061,35.503027,2026,Tubas,Jordan Valley,Farm Outpost,Roei
+Jabel Ein Una,תל תלפיות (ג'בל עין עונה),,Outpost,32.083202,35.313141,2026,Ramallah,Binyamin,Farm Outpost,Esh Kodesh
+Yaa'r El-Keren Farm,חוות יער אל קרן,1376.0,Outpost,31.617234,35.127639,2026,Bethlehem,Gush Ezion,Farm Outpost,Karme Tzur
+Kfar Ezion West,כפר עציון מערב,1391.0,Outpost,31.645181,35.106047,2026,Bethlehem,Gush Ezion,Outpost,Kfar Ezion
+Hagai Hever Farm,החווה של חגי חבר,1379.0,Outpost,31.61095,35.276965,2026,Bethlehem,Gush Ezion,Farm Outpost,Tekoa
+Bezeq,בזק,,Outpost,32.37557,35.39478,2026,Janin,Shomron,Outpost,
+small Um Zuka,אום זוקא הקטן,1383.0,Outpost,32.276141,35.502769,2026,Tubas,Jordan Valley,Farm Outpost,Nof Gilad Farm
+Mizpe Yericho East,מצפה יריחו מזרח,1384.0,Outpost,31.811589,35.414907,2026,Jericho,Binyamin,Farm Outpost,Mizpe Yericho
+Ain Lezion Farm,חוות עין לציון,1385.0,Outpost,31.819296,35.170895,2026,Ramallah,Binyamin,Farm Outpost,Har Shmuel
+Shabo2 Farm,חוות שבו2,,Outpost,31.395206,35.19861,2026,Yatta,Har Hebron,Farm Outpost,Mizpe Yair
+Emek Kedem farm,חוות רחלים מערב,1392.0,Outpost,32.091197,35.235339,2026,Ramallah,Shomron,Farm Outpost,Nofei Nehemya
+Har Homa souht farm,חוות הר חומה דרום - מזמוריה,,Outpost,31.720027,35.235014,2026,Bethlehem,Jerusalem,Farm Outpost,Har Homa
+Asfar Farm West,חוות אספר מערב,1393.0,Outpost,31.586173,35.1791,2026,Bethlehem,Gush Ezion,Farm Outpost,Mezad
+Kochav Yhuda,כוכב יהודה,,Outpost,31.663641,35.205918,2026,Bethlehem,Gush Ezion,Farm Outpost,Tkoa
+Givat Nezah Shmuel,גבעת נצח שמואל - המשולש,,Outpost,32.02644,35.314208,2026,Ramallah,Binyamin,Farm Outpost,Amihai
+Ram's Farm,חוות רם,1394.0,Outpost,32.048225,35.229095,2026,Ramallah,Binyamin,Farm Outpost,Maale Levona
+Bat Ayin - Tzurif,בית עין - צוריף,1395.0,Outpost,31.650805,35.103276,2026,Bethlehem,Gush Ezion,Farm Outpost,Bat Ayin
+Yizhar - A-Tira,יצהר - א-טירה,1396.0,Outpost,32.167862,35.253333,2026,Nablus,Shomron,Outpost,Yizhar
+Sa-Nur,שא-נור,1397.0,Outpost,32.336767,35.202369,2026,Nablus,Shomron,Outpost,Homesh
+Gad Nathan Farm,חוות גד נתן,,Outpost,31.581071,35.127559,2026,Bethlehem,Gush Ezion,Farm Outpost,Marom Yehuda
+Mizpe Arougot,מצפה ערוגות,,Outpost,31.646932,35.17665,2026,Bethlehem,Gush Ezion,Farm Outpost,Efrat
+Tene Omarim North,טנא עומרים צפון,1299.0,Outpost,31.384516,34.962419,2026,Yatta,Har Hebron,Farm Outpost,Tene Omarim
+Rave Farm,חוות רווה,,Outpost,31.359904,34.963537,2026,Yatta,Har Hebron,Farm Outpost,Tene Omarim
+Esh Kodesh East Farm,חוות אש קודש מזרח,,Outpost,32.071183,35.346886,2025,Nablus,Binyamin,Farm Outpost,Esh Kodesh
+Rehavam West Farm,חוות רחבעם מזרח,,Outpost,32.114524,35.308365,2026,Nablus,Shomron,Farm Outpost,Rehavam
+Havat Yair South,חוות יאיר דרום,,Outpost,32.140175,35.102488,2026,Salfit,Shomron,Farm Outpost,Havat yair
+Nekuda south Farm,חוות הנקודה דרום,,Outpost,32.162814,35.319246,2026,Nablus,Shomron,Farm Outpost,Itamar
+Rimonim - Taybe junctipon,רימונים - צומת טייבה,,Outpost,31.926118,35.31997,2026,Ramallah,Binyamin,Farm Outpost,Rimonim
+Mizpe Lea North,מצפה לאה צפון,,Outpost,31.954493,35.336838,2026,Ramallah,Binyamin,Outpost,Kochav Hashahar
+Nahalat Hanavi,"נחלת הנבי""א",,Outpost,32.071907,35.328547,2026,Ramallah,Binyamin,Farm Outpost,Esh Kodesh
+Magen Yehuda  Farm,חוות מגן יהודה,,Outpost,32.193949,35.195746,2026,Nablus,Shomron,Farm Outpost,Gilad farm
+Uzerie's Farm,החווה של עוזרי,,Outpost,31.548061,35.004473,2026,Hebron,Har Hebron,Farm Outpost,Adora
+Shibolet Farm,חוות שיבולת,,Outpost,31.859928,35.077142,2026,Ramallah,Binyamin,Farm Outpost,Mevo Horon
+Halomot Yosef farm,חוות חלומות יוסף,,Outpost,32.414998,35.202839,2026,Janin,Shomron,Farm Outpost,Mevo Dotan
+Naama North Farm,"חוות נעמ""ה צפון",,Outpost,31.932679,35.4631,2026,Jericho,Jordan Valley,Farm Outpost,Naama
+Givat Or Yehuda,גבעת אור יהודה,,Outpost,31.392874,35.09772,2026,Yatta,Har Hebron,Farm Outpost,Susiya
+Khalat a-Homs,חלת אל-חומס,,Outpost,31.413427,35.086996,2026,Yatta,Har Hebron,Farm Outpost,Susiya
+Nave - Avigail Gate,שכונת נווה - שער אביגיל,,Outpost,31.404257,35.14695,2026,Yatta,Har Hebron,Outpost,Avigail
+Avigayil South,אביגיל דרום,,Outpost,31.399161,35.12912,2026,Yatta,Har Hebron,Farm Outpost,Mizpe Yair
+Deir Abu-Mashal South,דיר אבו-משעל דרום,,Outpost,31.984008,35.066989,2026,Ramallah,Binyamin,Farm Outpost,Naale
+Sdot Harel farm,חוות שדות הראל,,Outpost,31.493685,34.951683,2026,Hebron,Har Hebron,Farm Outpost,Negohot
+Bitilu,ביתילו - אור בנימין,,Outpost,31.982867,35.099303,2026,Ramallah,Binyamin,Farm Outpost,Halamish
+Halamish North,חלמיש צפון,,Outpost,32.020892,35.141878,2026,Ramallah,Binyamin,Farm Outpost,Halamish
+The Lonely House - Yizhar,חוות גבעת יהונתן - הבית הבודד - יצהר,,Outpost,32.172675,35.244659,2026,Nablus,Shomron,Outpost,Yizhar
+Reches Tamun Farm,חוות רכס הטמון,,Outpost,32.258596,35.405325,2026,Tubas,Shomron,Farm Outpost,Bkaot
+Givat Sebastiya Station,תחנת סבסטיה,,Outpost,32.282967,35.172856,2026,Nablus,Shomron,Farm Outpost,Homesh

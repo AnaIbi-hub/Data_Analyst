@@ -1,0 +1,149 @@
+name,name_hebrew,db_id,type,lat,lon,year_established,dist_green_line_km,municipality,category,elevation_m
+Avnei Hefetz,אבני חפץ,1,Settlement,32.28517186,35.0750225,1990.0,4.2,Shomron,Urban,200.0
+Ovnat,אבנת,2,Settlement,31.67732129,35.43681931,1983.0,21.0,Megilot,Community,-330.0
+Adora,אדורה,3,Settlement,31.55238961,35.01648338,1984.0,6.4,Har Hebron,Community,650.0
+Oranit,אורנית,4,Settlement,32.12981779,34.99352396,1985.0,0.0,Oranit,Urban,140.0
+Itamar,"
+",5,Settlement,32.17307588,35.30647206,1984.0,28.0,Shomron,Community,660.0
+Alon,אלון,6,Settlement,31.8330134,35.35351912,1990.0,12.6,Binyamin,Community,
+Elon More,אלון מורה,7,Settlement,32.23274526,35.33396781,1979.0,22.0,Shomron,Community,635.0
+Alon Shvut,אלון שבות,8,Settlement,31.6545932,35.12510572,1970.0,4.6,Gush Etzion,Community,965.0
+Almog,אלמוג,9,Settlement,31.78732141,35.46150972,1977.0,20.6,Megilot,Kibbutz,-270.0
+Elmatan,אלמתן,228,Settlement,32.15492051,35.07397412,,,Shomron,,
+El'azar,אלעזר,10,Settlement,31.66022854,35.14106851,1975.0,5.5,Gush Etzion,Community,910.0
+Alfei Menashe,אלפי מנשה,11,Settlement,32.17100824,35.01416982,1983.0,2.8,Alfei Menashe,Urban,200.0
+Elkana,אלקנה,12,Settlement,32.11135423,35.03452775,1977.0,3.1,Elkana,Urban,270.0
+Asfar,אספר (מיצד),13,Settlement,31.58593601,35.18738984,1983.0,14.5,Gush Etzion,Community,940.0
+Efrat,אפרת,14,Settlement,31.66074796,35.15559349,1980.0,6.5,Efrata,Community,910.0
+Argaman,ארגמן,15,Settlement,32.17213013,35.52125526,1968.0,23.7,Jordan Valley,Moshav,-180.0
+Ariel,אריאל,16,Settlement,32.10204396,35.18812286,1978.0,16.1,Ariel,Urban,560.0
+Eshkolot,אשכולות,17,Settlement,31.39073448,34.9005669,1982.0,1.8,Har Hebron,Community,600.0
+Beit El,בית אל,18,Settlement,31.93961359,35.23257628,1977.0,13.5,Beit El,Community,860.0
+Beit Al-Baraka,בית אלברכה,1113,Settlement,31.63143687,35.13094121,2015.0,,Gush Etzion,,
+Beit Arye,בית אריה,19,Settlement,32.0361719,35.0505863,1981.0,3.8,Beit Arye,Urban,345.0
+Beit Ha'arava,בית הערבה,20,Settlement,31.80802753,35.47908857,1980.0,22.5,Jordan Valley,Kibbutz,-320.0
+Beit Horon,בית חורון,21,Settlement,31.87622599,35.12812547,1977.0,4.7,Binyamin,Community,625.0
+Beitar Illit,ביתר עילית,22,Settlement,31.69749434,35.11113337,1985.0,0.4,Beitar Illit,Urban,870.0
+Bqa'ot,בקעות,23,Settlement,32.24177107,35.45598092,1972.0,17.1,Jordan Valley,Moshav,100.0
+Bruchin,ברוכין,233,Settlement,32.08115403,35.09034452,,9.3,Shomron,,
+Bracha,ברכה,24,Settlement,32.19293592,35.26482823,1983.0,23.2,Shomron,Community,850.0
+Barqan,"ברקן (בית אב""א)",25,Settlement,32.10803596,35.1054544,1981.0,10.5,Shomron,Community,455.0
+Bat Ayin,בת עין,26,Settlement,31.65746414,35.1034778,1989.0,2.8,Gush Etzion,Community,870.0
+Geva Binyamin (aka Adam),גבע בנימין (אדם),27,Settlement,31.84919511,35.27842876,1984.0,6.6,Binyamin,Urban,655.0
+Giv'on,גבעון,28,Settlement,31.84887572,35.17062922,1977.0,4.9,Givat Ze'ev,Community,
+Giv'on Ha'hadasha,גבעון החדשה,29,Settlement,31.84706899,35.15849106,1980.0,4.0,Binyamin,Community,755.0
+Gva'ot,גבעות,30,Settlement,31.67897669,35.10030565,,1.8,Gush Etzion,Community,
+Givat Ze'ev,גבעת זאב,31,Settlement,31.8606508,35.16708765,1983.0,4.9,Givat Ze'ev,Urban,770.0
+Gitit,גיתית,32,Settlement,32.10337175,35.39350072,1973.0,37.0,Jordan Valley,Moshav,305.0
+Gilgal,גלגל,33,Settlement,31.99951028,35.44650276,1970.0,30.2,Jordan Valley,Kibbutz,-235.0
+Ganei Modiin,גני מודיעין,1078,Settlement,31.92875749,35.01517459,1985.0,0.5,Binyamin,,
+Dolev,דולב,34,Settlement,31.92670584,35.13348584,1983.0,8.6,Binyamin,Community,610.0
+Har Adar,הר אדר,35,Settlement,31.82663377,35.12921443,1986.0,0.0,Har Adar,Community,880.0
+Har Gilo,הר גילה,36,Settlement,31.72226086,35.16880902,1972.0,1.8,Gush Etzion,Community,915.0
+Har Shmuel,הר שמואל,37,Settlement,31.83501152,35.16979848,1998.0,4.9,Givat Ze'ev,Urban,
+Vered Yericho,ורד יריחו,38,Settlement,31.82627056,35.43153603,1980.0,18.7,Jordan Valley,Moshav/Community,-130.0
+Hebron,חברון,39,Settlement,31.52436815,35.10417719,1978.0,15.0,Kiryat Arba,,
+Haggai,חגי,40,Settlement,31.48984185,35.07797488,1984.0,12.3,Har Hebron,Community,880.0
+Horesh Yaron,חורש ירון,265,Settlement,31.94525555,35.1390547,,,Binyamin,,
+Hinanit,חיננית,41,Settlement,32.47988482,35.17240578,1981.0,2.3,Shomron,Community,390.0
+Halamish,חלמיש,42,Settlement,32.00553409,35.12485274,1977.0,10.7,Binyamin,Community,560.0
+Chemdat,חמדת,43,Settlement,32.25112034,35.52610264,1980.0,14.7,Jordan Valley,Community,130.0
+Hamra,חמרה,44,Settlement,32.19845554,35.43477025,1971.0,22.5,Jordan Valley,Moshav,-55.0
+Hermesh,חרמש,45,Settlement,32.42321009,35.11797781,1982.0,5.0,Shomron,Community,290.0
+Hashmonaim,חשמונאים,46,Settlement,31.93057899,35.02291882,1985.0,0.0,Binyamin,Urban,190.0
+Tal Menashe,טל מנשה,47,Settlement,32.48189537,35.15953033,2000.0,,Shomron,Community,
+Talmon,טלמון,48,Settlement,31.9380241,35.13675138,1989.0,10.5,Binyamin,Community,560.0
+Tene,טנא,49,Settlement,31.37457572,34.95606811,1983.0,2.3,Har Hebron,Community,550.0
+Yitav,"ייט""ב",50,Settlement,31.94768665,35.42300664,1970.0,24.7,Jordan Valley,Kibbutz,-100.0
+Yafit,יפית,51,Settlement,32.06110656,35.47190479,1980.0,36.0,Jordan Valley,Moshav,-245.0
+Yitzhar,יצהר,52,Settlement,32.16842842,35.23262035,1983.0,20.5,Shomron,Community,620.0
+Yakir,יקיר,53,Settlement,32.14937521,35.11399698,1981.0,11.2,Shomron,Community,390.0
+Kochav Ha'shachar,כוכב השחר,54,Settlement,31.95697489,35.34729866,1977.0,20.5,Binyamin,Community,600.0
+Kochav Ya'akov,כוכב יעקב,55,Settlement,31.87780337,35.24547645,1985.0,7.7,Binyamin,Community,820.0
+Kfar Adumim,כפר אדומים,56,Settlement,31.82222655,35.33895851,1979.0,10.6,Binyamin,Community,350.0
+Kfar Ha'oranim,כפר האורנים (מנורה),57,Settlement,31.91836781,35.03743741,1998.0,0.0,Binyamin,Urban,260.0
+Kfar Etzion,כפר עציון,58,Settlement,31.65049561,35.11405101,1967.0,4.7,Gush Etzion,Kibbutz,955.0
+Kfar Tapuah,כפר תפוח,59,Settlement,32.11906245,35.24914924,1978.0,24.0,Shomron,Community,670.0
+Karmei Tzur,כרמי צור,60,Settlement,31.60921782,35.10009787,1984.0,8.3,Gush Etzion,Community,950.0
+Carmel,כרמל,61,Settlement,31.43112458,35.18393853,1981.0,6.4,Har Hebron,Cooperative,740.0
+Mevo Dotan,מבוא דותן,62,Settlement,32.41972509,35.17476135,1978.0,8.1,Shomron,Community,330.0
+Mevo Horon,מבוא חורון,63,Settlement,31.84786093,35.03674629,1970.0,0.2,Binyamin,Cooperative,250.0
+Mevo'ot Jericho,מבואות יריחו,275,Settlement,31.90581853,35.41749588,2019.0,,Jordan Valley,,
+Migdal Oz,מגדל עוז,64,Settlement,31.63893561,35.1425792,1977.0,7.4,Gush Etzion,Kibbutz,940.0
+Migdalim,מגדלים,65,Settlement,32.09046072,35.34255543,1983.0,32.7,Shomron,Community,790.0
+New Migron,מגרון החדשה,335,Settlement,31.65728888,35.11822888,2012.0,,Binyamin,,
+Modi'in Ilit,מודיעין עילית,66,Settlement,31.93154542,35.04479887,1996.0,0.6,Modi'in Illit,Urban,280.0
+Mechola,מחולה,67,Settlement,32.36505429,35.5150076,1968.0,2.9,Jordan Valley,Moshav,-180.0
+Mechora,מכורה,68,Settlement,32.16073712,35.42138783,1973.0,26.4,Jordan Valley,Moshav,225.0
+Ma'on,מעון,69,Settlement,31.41287556,35.16284645,1981.0,4.7,Har Hebron,Cooperative,770.0
+Ma'ale Adumim,מעלה אדומים,70,Settlement,31.78152595,35.30213192,1975.0,4.5,Ma'ale Adumim,Urban,500.0
+Ma'ale Efraim,מעלה אפרים,71,Settlement,32.06934098,35.40982663,1970.0,34.7,Jordan Valley,Urban,200.0
+Ma'ale Levona,מעלה לבונה,72,Settlement,32.05455522,35.23983613,1983.0,21.8,Binyamin,Community,770.0
+Ma'ale Michmash,מעלה מכמש,73,Settlement,31.87934507,35.30514708,1981.0,10.9,Binyamin,Community,590.0
+Ma'ale Amos,מעלה עמוס,74,Settlement,31.59662448,35.22870856,1981.0,14.1,Gush Etzion,Community,715.0
+Ma'ale Shomron,מעלה שומרון,75,Settlement,32.16596079,35.07048586,1980.0,7.9,Shomron,Community,315.0
+Yatir (aka Metzadot Yehuda),מצדות יהודה,76,Settlement,31.36269231,35.11047576,1983.0,0.2,Har Hebron,Community,780.0
+Mitzpe Eshtamoa,מצפה אשתמוע,286,Settlement,31.39279258,35.01536251,,,Har Hebron,,
+Mitzpe Yericho,מצפה יריחו,77,Settlement,31.81746042,35.39332575,1978.0,15.3,Binyamin,Community,160.0
+Mitzpe Shalem,מצפה שלם,78,Settlement,31.56764376,35.40068456,1971.0,7.8,Megilot,Kibbutz,-250.0
+Masu'a,משואה,79,Settlement,32.10552755,35.49146972,1970.0,30.0,Jordan Valley,Moshav,-255.0
+Maskiyot,משכיות,80,Settlement,32.31800448,35.50261742,,8.5,Jordan Valley,Community,30.0
+Matityahu,מתיתיהו,337,Settlement,31.93001428,35.03196815,1981.0,0.0,Binyamin,Cooperative,290.0
+Negohot,נגוהות,82,Settlement,31.49313845,34.98106426,1999.0,2.6,Har Hebron,Community,0.0
+Neve Daniel,נווה דניאל,83,Settlement,31.67768305,35.14167946,1982.0,4.2,Gush Etzion,Community,930.0
+Nofei Prat,נופי פרת,84,Settlement,31.82306637,35.32085269,1992.0,8.8,Binyamin,Community,
+Nofim,נופים,85,Settlement,32.15454858,35.10112532,1987.0,10.5,Shomron,Urban,400.0
+Nokdim,נוקדים,86,Settlement,31.64611305,35.24571308,1982.0,8.2,Gush Etzion,Community,570.0
+Nahalei Tal (Kerem Reim),נחלי טל (כרם רעים),339,Settlement,31.95783543,35.13548605,2012.0,,Binyamin,,
+Nahliel,נחליאל,87,Settlement,31.97375144,35.13973157,1984.0,11.6,Binyamin,Community,590.0
+Nili,"ניל""י",341,Settlement,31.96251351,35.04537417,1981.0,3.8,Binyamin,Community,360.0
+Nirit,נירית,89,Settlement,32.14884188,34.98553254,,0.0,Alfei Menashe,Community,
+Niran,נירן,90,Settlement,31.96757117,35.45695828,1977.0,28.3,Jordan Valley,Kibbutz,-165.0
+Na'ale,נעלה,91,Settlement,31.96306953,35.06323287,1988.0,4.9,Binyamin,Community,420.0
+Na'ama,נעמי (נעמה),92,Settlement,31.90955916,35.46611061,1982.0,25.6,Jordan Valley,Moshav,-200.0
+Nerya,נריה,302,Settlement,31.95153097,35.12871004,1991.0,,Binyamin,Community,
+Netiv Ha'gdud,נתיב הגדוד,94,Settlement,31.98835865,35.44501232,1976.0,29.0,Jordan Valley,Moshav,-220.0
+Susiya,סוסיה,95,Settlement,31.39036845,35.11015707,1983.0,3.2,Har Hebron,Community,800.0
+Sal'it,סלעית,96,Settlement,32.24294933,35.04730535,1977.0,1.8,Shomron,Moshav,270.0
+Sansana,סנסנה,305,Settlement,31.36337983,34.90167334,1999.0,0.0,Har Hebron,Community,
+Ofarim,עופרים,98,Settlement,32.01827337,35.04408859,1989.0,3.3,Beit Arye,Urban,
+Ateret,עטרת,99,Settlement,32.00044276,35.17697767,1981.0,16.0,Binyamin,Community,720.0
+Eli,עלי,100,Settlement,32.07286779,35.26650281,1984.0,23.7,Binyamin,Community,710.0
+Alei Zahav,עלי זהב,101,Settlement,32.07152409,35.06386928,1982.0,5.0,Shomron,Community,360.0
+Almon,עלמון,102,Settlement,31.8283096,35.29385863,1982.0,6.9,Binyamin,Community,590.0
+Amihai,עמיחי,1062,Settlement,32.04570654,35.32838394,2018.0,30.0,Binyamin,Community,
+Immanuel,עמנואל,103,Settlement,32.16076285,35.13735136,1983.0,13.2,Immanuel,Urban,400.0
+Enav,ענב,104,Settlement,32.28443416,35.12434368,1981.0,8.8,Shomron,Community,300.0
+Ofra,עפרה,105,Settlement,31.94875795,35.26500599,1975.0,15.1,Binyamin,Community,820.0
+Etz Efraim,עץ אפרים,106,Settlement,32.11813715,35.04528296,1985.0,4.9,Shomron,Urban,200.0
+Otniel,עתניאל,107,Settlement,31.43847076,35.02941998,1983.0,8.3,Har Hebron,Community,710.0
+Pedu'el,פדואל,108,Settlement,32.0613173,35.05142421,1984.0,4.5,Shomron,Moshav,380.0
+Pnei Hever,פני חבר,109,Settlement,31.48560108,35.16530933,1982.0,12.5,Har Hebron,Community,740.0
+Psagot,פסגות,110,Settlement,31.89728744,35.2254312,1981.0,9.6,Binyamin,Community,860.0
+Petzael,פצאל,111,Settlement,32.04374544,35.44199672,1975.0,34.5,Jordan Valley,Moshav,-235.0
+Tzofim,צופים,112,Settlement,32.19835528,35.00965823,1989.0,1.8,Shomron,Urban,160.0
+Kedumim,קדומים,113,Settlement,32.21814185,35.15970426,1977.0,12.5,Kedumim,Community,405.0
+Keidar,קדר,114,Settlement,31.75365668,35.30922681,1985.0,6.0,Gush Etzion,Community,530.0
+Kalia,קליה,115,Settlement,31.75053738,35.46639899,1968.0,20.8,Megilot,Kibbutz,-360.0
+Kiryat Arba,קרית ארבע,116,Settlement,31.53612397,35.12070662,1972.0,15.2,Kiryat Arba,Urban,945.0
+Kiryat Netafim,קרית נטפים,117,Settlement,32.1165356,35.11155308,1983.0,10.7,Shomron,Community,445.0
+Karnei Shomron,קרני שומרון,118,Settlement,32.17213056,35.09600757,1978.0,9.0,Karnei Shomron,Urban,340.0
+Rosh Tzurim,ראש צורים,119,Settlement,31.66755526,35.12324999,1969.0,3.9,Gush Etzion,Kibbutz,940.0
+Revava,רבבה,120,Settlement,32.11864322,35.12711942,1991.0,12.3,Shomron,Community,420.0
+Ro'i,רועי,121,Settlement,32.24962569,35.48308555,1976.0,15.0,Jordan Valley,Moshav,30.0
+Rotem,רותם,122,Settlement,32.33615721,35.51822739,2001.0,5.9,Jordan Valley,Community,40.0
+Rechelim,רחלים,123,Settlement,32.09996696,35.25288315,1991.0,24.0,Shomron,Community,
+Reihan,ריחן,124,Settlement,32.46928592,35.1363536,1977.0,1.5,Shomron,Community,380.0
+Rimonim,רימונים,125,Settlement,31.93332376,35.34016642,1977.0,18.2,Binyamin,Community,680.0
+Shvut Rachel,שבות רחל,126,Settlement,32.05228336,35.31112405,1991.0,29.0,Binyamin,Community,
+Shavei Shomron,שבי שומרון,127,Settlement,32.26343117,35.18241892,1977.0,13.3,Shomron,Community,350.0
+Shadmot Mehola,שדמות מחולה,128,Settlement,32.34682063,35.53413887,1979.0,3.4,Jordan Valley,Cooperative,-155.0
+Shilo,שילה,129,Settlement,32.05201339,35.29648891,1979.0,27.1,Binyamin,Community,700.0
+Shim'a,שמעה,130,Settlement,31.38634554,35.01057314,1985.0,2.9,Har Hebron,Community,615.0
+Shani,שני,131,Settlement,31.35764549,35.0693375,1981.0,0.0,Shimon,Community,
+Shaar Shomron,שער שומרון,1169,Settlement,32.1219039,35.0337725,2022.0,,Shaar Shomron,Urban,
+Sha'arei Tikva,שערי תקווה,132,Settlement,32.12232687,35.02585013,1983.0,2.7,Shomron,Urban,185.0
+Shaked,שקד,133,Settlement,32.47374672,35.16763436,1981.0,2.9,Shomron,Community,415.0
+Tomer,תומר,134,Settlement,32.01806005,35.43826319,1978.0,31.2,Jordan Valley,Moshav,-220.0
+Telem,תלם,135,Settlement,31.56441423,35.02938693,1982.0,7.4,Har Hebron,Community,720.0
+Tko'a,תקוע,136,Settlement,31.65280298,35.22873585,1977.0,8.4,Gush Etzion,Community,675.0
