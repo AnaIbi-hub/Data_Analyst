@@ -21,4 +21,4 @@ Peace Now, B'Tselem, OCHA, Jewish Virtual Library, PCBS.
 
 ## Autora
 
-Ana Ibáñez Esplugues — IT Academy, Data Analytics, 2026
+Ana Ibáñez — IT Academy, Data Analytics, 2026
